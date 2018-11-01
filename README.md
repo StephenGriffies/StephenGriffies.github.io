@@ -1,1 +1,1 @@
-These are files related to my reesearch and teaching website.  This site is under construction. 
+These are files related to my research and teaching website.  This site is under construction. 

@@ -1,2 +1,2 @@
 # StephenGriffies.github.io
-research website
+These are files related to my reesearch and teaching website.

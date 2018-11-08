@@ -18,13 +18,15 @@
 
 
 # Site settings
-title            : Stephen Griffies
+locale           : "en-US"
+title            : "Stephen Griffies"
+title_separator  : "-"
 email            : Stephen.M.Griffies@gmail.com
-description      : "Ocean math, physics, and circulation"
 url              : https://StephenGriffies.github.io
-name             : "Stephen Griffies"
-github_username  :  StephenGriffies
-
+github_username  : StephenGriffies
+name             : Stephen Griffies
+description      : Physics and maths of the ocean circulation
+teaser           : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -39,7 +41,13 @@ color:
 
 # Build settings
 markdown: kramdown
+
+#theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes"
+
+#theme: jekyll-theme-cayman
 theme   : minima
+
 plugins:
   - jekyll-feed
 
@@ -50,9 +58,8 @@ social:
     url: mailto:Stephen.M.Griffies@gmail.com
   - title: github
     url: https://github.com/StephenGriffies 
-
-
-
+    
+  
 
 
 # Exclude from processing.

@@ -26,7 +26,7 @@ url              : https://StephenGriffies.github.io
 github_username  : StephenGriffies
 name             : Stephen Griffies
 description      : Physics and maths of the ocean circulation
-teaser           : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser           : "/assets/images/Southern_Ocean_waves.jpg"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -44,12 +44,8 @@ markdown: kramdown
 
 #theme: minimal-mistakes-jekyll
 #remote_theme: "mmistakes/minimal-mistakes"
-
 #theme: jekyll-theme-cayman
 theme   : minima
-
-plugins:
-  - jekyll-feed
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -73,3 +69,12 @@ social:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache

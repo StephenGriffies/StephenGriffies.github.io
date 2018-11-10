@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Simulated South Ocean Circulation"
+title:  "Simulated Southern Ocean Circulation"
 date:   2018-11-10 
 ---
 

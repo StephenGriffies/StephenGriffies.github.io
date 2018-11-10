@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Overview"
+    url: /about/
+  - title: "Eddies"
+    url: /eddies
+  - title: "Posts"
+    url: /posts
+  - title: "Docs"
+    url: /docs
+
+
+# documentation links
+quicklinks:
+  - title: Organisations/Projects
+    children:
+      - title: "GFDL"
+        url: https://www.gfdl.noaa.gov/ocean-model/
+      - title: "MOM6"
+        url: https://github.com/NOAA-GFDL/MOM6
+      - title: "COSIMA"
+        url: http://cosima.org.au

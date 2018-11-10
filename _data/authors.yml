@@ -1,0 +1,12 @@
+# /_data/authors.yml
+
+Stephen Griffies:
+  name        : "Stephen Griffies"
+  bio         : "Ocean physicist"
+  avatar      : "/assets/images/Griffies_Coronation_Island_2017_crop.jpg"
+  links:
+    - label: "Email"
+      url: "mailto:Stephen.M.Griffies@gmail.com"
+    - label: "Website"
+      url: "https://stephengriffies.github.io/"
+

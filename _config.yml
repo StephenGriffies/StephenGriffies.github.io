@@ -13,13 +13,20 @@ github_username  : StephenGriffies
 description      : Ocean circulation science
 #teaser           : "/assets/images/Southern_Ocean_waves.jpg"
 
-# pagination
-#paginate: 5
-#paginate_path: "/blog/page:num/"
-
-
 # Build settings
 markdown: kramdown
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
 
 theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
@@ -34,8 +41,6 @@ social:
     url: mailto:Stephen.M.Griffies@gmail.com
   - title: github
     url: https://github.com/StephenGriffies 
-    
-  
 
 
 # Exclude from processing.
@@ -110,25 +115,6 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
 
 # Sass/SCSS
 sass:
@@ -138,8 +124,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /paginate/page:num
+#paginate: 5 # amount of posts to show
+#paginate_path: /paginate/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -151,14 +137,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
 
 
 # Archives

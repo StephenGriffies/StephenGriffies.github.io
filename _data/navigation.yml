@@ -1,13 +1,17 @@
-# main links
+# links
 main:
-  - title: "Overview"
-    url: /about/
-  - title: "Eddies"
-    url: /eddies
-  - title: "Posts"
-    url: /posts
-  - title: "Docs"
-    url: /docs
+  - title: "Research"
+    url: /research/
+  - title: "Models"
+    url: /models/
+  - title: "Teaching + Mentoring"
+    url: /teaching/
+  - title: "Collaborations"
+    url: /collaborations
+  - title: "Biography"
+    url: /bio/
+#  - title: "Docs"
+#    url: /docs
 
 
 # documentation links

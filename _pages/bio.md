@@ -81,13 +81,10 @@ physics drove me to leave the applied maths program after a masters.
 
 After NU, I returned to undergraduate school, this time in physics at
 the <a href="https://phys.washington.edu/"> University of Washington
-(1987-1988).</a> Part of that year was spent reconnecting with my
-father who lives in Washington State, and part was to explore my dream
-of becoming a physicist. This year solidified my nascent desire to
-pursue theoretical physics for a PhD rather than applied maths.  It
-also exposed me to the quest for beauty and unity that so deeply
-drives physicists, and which remains part of how I approach research
-and teaching.
+(1987-1988).</a> This time allowed me to explore the reality of my
+dream of doing physics.  I also became exposed to the quest for beauty
+and unity that so deeply drives physicists, and which remains part of
+how I approach research and teaching.
 
 </p>
 
@@ -103,6 +100,26 @@ typesetting documents and an off-the-shelf differential equations
 package to generate a topological solution to a cosmic domain wall
 (basically a hyperbolic tangent).  Otherwise, all of my thesis work
 was completed with a pencil, paper, and brain.
+
+</p>
+
+
+## <center>Princeton post-doc</center>
+
+<p align="justify">
+
+Towards the end of my time as a PhD student, I decided to switch to
+geosciences with a focus on oceanography.  That decision led me to do
+a post-doc at Princeton in the geosciences department, working at GFDL
+under the mentorship of Kirk Bryan.  This 2+ years as a post-doc was
+both a time for research and a time for taking courses on topics that
+I had little exposure to while studying in a physics department: fluid
+mechanics, atmospheric and oceanic dynamics, climate dynamics. I got
+the hang of it after a while, sufficiently it seems to land a job as a
+federal scientist at GFDL starting 1996.  That transition also saw me
+getting married (now with one son, born 2006) and deciding to settle
+down in Princeton for the long haul.
+
 
 </p>
 

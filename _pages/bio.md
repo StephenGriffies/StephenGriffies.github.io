@@ -144,10 +144,8 @@ particular solutions and technology.  Being able to solve an equation
 is important, and my training in applied maths, engineering, and
 numerical methods have certainly taught me many tricks for doing so.
 But what attracts me the most to physics is a quest for fundamental
-understanding of how nature works and in the development of clear
-lenses for describing its working.  In turn, I hope to participate in
-the synthesis of ideas to help deepen understanding and to facilitate
-the communication of that understanding.
+understanding of how nature works, with that understanding generally
+transcending the details of a particular solution.
 
 </p>
 
@@ -222,7 +220,7 @@ an absence of awareness or perception.  My experience is quite the
 opposite.  As the mind quiets and the distance between thoughts
 expands, awareness opens to render a direct experience of nature
 absent a patina engendered by the intellect, emotions, and thoughts.
-Such provides a clear cultivatation of understanding and intuition.  A
+Such provides a clear cultivation of understanding and intuition.  A
 practical result is that a meditation practice provides a spark for
 insights, creativity, patience, persistence, gratitude, and
 compassion.

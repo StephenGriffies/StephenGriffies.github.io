@@ -7,7 +7,7 @@ title: "Research"
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
-excerpt: "Iterations on Math + Physics + Analysis"
+excerpt: "Maths + Physics + Analysis then Iterate"
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/kuroshio_lavd.jpg
@@ -278,7 +278,14 @@ Spence et al (2014) </a> </li>
 
 <li>Role of mesoscale eddies in cross-frontal transport of heat and
 biogeochemical tracers in the Southern Ocean: <a
-  href="">Dufour et al (2015) </a> </li>
+href="https://journals.ametsoc.org/doi/10.1175/JPO-D-14-0240.1">Dufour
+et al (2015) </a> </li>
+
+<li>An assessment of Antarctic Circumpolar Current and Southern Ocean
+  Meridional Overturning Circulation sensitivity during 1958--2007 in
+  a suite of inter-annual CORE-II simulations: <a
+  href="https://www.sciencedirect.com/science/article/pii/S1463500315001183">Farneti
+  et al (2015) </a> </li>
 
 <li>Mechanisms of Southern Ocean heat uptake and transport in a global
 eddying climate model:

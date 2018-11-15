@@ -1,7 +1,9 @@
 # links
 main:
-  - title: "Research"
-    url: /research/
+  - title: "Research I"
+    url: /researchI/
+  - title: "Research II"
+    url: /researchII/
   - title: "Models"
     url: /models/
   - title: "Teaching + Mentoring"

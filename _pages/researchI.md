@@ -79,9 +79,12 @@ O'Rourke, Arbic, and Griffies (2018) </a></li>
 </p>
 
 <figure> <img src="/assets/images/Fig5_Dufour_etal2015.jpg">
-<figcaption>DIC and mesoscale eddies in CM2.6 near South Africa.  This
-image shows the mult-scale features arising from the mesoscale eddy
-field. </figcaption> </figure>
+<figcaption>DIC and mesoscale eddies in CM2.6 near South Africa from
+Dufour et al (2015).  This image shows the multi-scale features
+arising from the mesoscale eddy field. The black line represents a
+front, with the eddy-induced transport of tracer across the front a
+question addressed in the paper.  Click <a href="/researchII/"> here
+for more on Southern Ocean research.</a> </figcaption> </figure>
 
 
 
@@ -113,7 +116,8 @@ submesoscale?  With gravity waves? </li>
 eddies?</li>
 
 <li> How much material transport is associated with coherent mesoscale
-eddies?</li>
+eddies?  Is that transport robust in the presence of submesoscale
+processes and gravity waves? </li>
 
 <li> How do we accurately parameterize the transport from mesoscale
 eddies for climate model simulations? </li>
@@ -192,8 +196,10 @@ et al (2017) </a> </li>
 
 
 <figure> <img src="/assets/images/WGI_AR5_Fig13-1.jpg">
-<figcaption>Schematic from the IPCC AR5 report of processes impacting
-sea level.  </figcaption> </figure>
+<figcaption>Schematic from the IPCC AR5 report illustrating some of
+the processes that impact sea level, including boundary forcing, ocean
+currents, melting land ice, the hydrological cycle, and ground water
+storage.  </figcaption> </figure>
 
 
 

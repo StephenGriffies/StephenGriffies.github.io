@@ -98,10 +98,11 @@ Drake et al (2018) </a>  </li>
 
 </p>
 
-
-<figure>
-  <img src="/assets/images/Southern_ocean_speed.jpg" alt="Surface speed in Southern Ocean from CM2.6">
-</figure> 
+<figure> <img src="/assets/images/Southern_ocean_speed.jpg">
+<figcaption>Surface speed in Southern Ocean from CM2.6.  This image
+illustrates the many jets, eddies, and boundary currents present in
+the Southern Ocean.  Figure courtesy of Adele Morrison.</figcaption>
+</figure>
 
 </p>
 

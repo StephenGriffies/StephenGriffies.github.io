@@ -58,6 +58,15 @@ contributed to this science.
 
 </p>
 
+<figure> <img src="/assets/images/WMT_Fig2.png"> <figcaption>
+Schematic of processes that modify the ocean buoyancy or tracer
+concentration.  Red (blue) surface arrows indicate heating (cooling).
+Changes in the tracer budget due to mass or tracer fluxes are
+indicated by straight and wiggly white arrows, respectively.  This
+figure is from Groeskamp et al (2019), who synthesized concepts and
+methods of use to quantify how watermasses are transformed by physical
+and biogeochemical processes.</figcaption> </figure>
+
 
 ## <center>Model Foundations</center>
 
@@ -116,16 +125,22 @@ href="">
 Stewart et al (2017) </a>
 </li>
 
-
-Vertical resolution of baroclinic modes in global ocean models
-
-
 </ul>
 
 </p>
 
 
 ## <center> Parameterizations </center>
+
+
+<figure> <img src="/assets/images/davinci.jpg"> <figcaption> Drawing
+from Leonardo da Vinci of a turbulent flow. Notice the whirling
+vorticies breaking off from the eddying motion.  Although the flow
+captured here has more connection to engineering applications, many of
+the ideas of 3d turbulence appropriate for this flow also apply to the
+turbulent boundary layers in the ocean, such as that discussed in Van
+Roekel et al (2018).  </figcaption> </figure>
+
 
 <p align="justify">
 
@@ -276,6 +291,19 @@ for the physical component of the Ocean Model Intercomparison Project:
 </p>
 
 ## <center>Analysis methods</center>
+
+
+
+<figure> <img src="/assets/images/tamsitt_etal2017_fig7.jpg">
+<figcaption> Illustrating the pathways for fluid parcels to move both
+horizontally and vertically/meridionally within the Southern Ocean.
+This image is based on Lagrangian particle diagnostics as detailed in
+Tamsitt et al (2017) (<a href="/researchII/">see here for discussion
+of Southern Ocean research.</a> Details of the Lagrangian diagnostic
+method are discussed in van Sebille et al (2018).  </figcaption>
+</figure>
+
+
 
 <p align="justify">
 

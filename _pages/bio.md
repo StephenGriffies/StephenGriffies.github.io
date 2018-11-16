@@ -207,12 +207,14 @@ initiation into oceanography. I was definitely hooked!
 <br> <br>
 
 I have often pondered if it was happenstance or destiny for me to
-transition from theoretical physics to oceanography. Who knows?  But
-one reason perhaps originates from many years living at or near the
-seashore.  My father was in the air force, so my family moved every
-three to four years while growing up: Hawaii, California, Washington
-State, Louisiana, and the Mississippi Gulf Coast.  Each time we were
-at or near the coast.  The ocean perhaps became part of my DNA.
+transition from theoretical physics to oceanography. Who knows?  One
+reason perhaps originates from many years living at or near the
+seashore or near lakes and rivers.  My father was in the air force, so
+my family moved every three to four years while growing up: Texas,
+Louisiana, Hawaii, California, Washington State, and the Mississippi
+Coast.  Bodies of water, and in particular the ocean, became part of
+my DNA.  From this perspective is seems natural that my heart would
+lead my head to do research in ocean science.
 
 
 </p>
@@ -224,11 +226,11 @@ at or near the coast.  The ocean perhaps became part of my DNA.
 
 My gratitude for the freedom offered by research and teaching aligns
 with my studies and practices of meditation since 1982.  Meditation
-offers a complement to my obsessive quest for scientific/objective
-understanding.  It does so by providing a system to organize, observe,
-and appreciate subjective experiences without the mind chatter of
-judgement and achievement. Meditation fosters an awareness of the way
-things are rather than the way we think they are.
+offers a complement to my obsessive quest for an objective and
+scientific understanding of nature.  It does so by providing a system
+to organize, observe, and appreciate subjective experiences without
+the mind chatter of judgement and achievement. Meditation fosters an
+awareness of the way things are rather than the way we think they are.
 
 <br> <br>
 
@@ -237,8 +239,8 @@ an absence of awareness or perception.  My experience is quite the
 opposite.  As the mind quiets and the distance between thoughts
 expands, awareness opens to render a direct experience of nature
 absent a patina engendered by the intellect, emotions, and thoughts.
-Such provides a clear cultivation of understanding and intuition.  A
-practical result is that a meditation practice provides a spark for
-insights, creativity, patience, persistence, gratitude, and
-compassion.
+Such provides a clear cultivation of understanding and intuition.  For
+me, a practical result is that meditation provides a spark for
+insights and creativity, and it instills a great deal of patience,
+persistence, humility, gratitude, and compassion.
 

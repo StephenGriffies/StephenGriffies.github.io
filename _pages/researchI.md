@@ -7,7 +7,7 @@ title: "Research I"
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
-excerpt: "Maths + Physics + Analysis then Iterate"
+excerpt: "Maths + Physics + Analysis + Iterate"
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/kuroshio_lavd.jpg
@@ -119,12 +119,14 @@ eddies?</li>
 eddies?  Is that transport robust in the presence of submesoscale
 processes and gravity waves? </li>
 
-<li> How do we accurately parameterize the transport from mesoscale
-eddies for climate model simulations? </li>
-
 <li> How do mesoscale eddies vertically transport heat, carbon, and
 other tracers, and what model resolution is required to accurately
 represent this transport?  </li>
+
+<li> How do we accurately parameterize transport from mesoscale eddies
+for use in climate model simulations?  Is an energetic framework
+effective for formulating closures? </li>
+
 
 </ul>
 </p>

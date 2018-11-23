@@ -7,7 +7,7 @@ title: "Research II"
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
-excerpt: "Maths + Physics + Analysis then Iterate"
+excerpt: "Maths + Physics + Analysis + Iterate"
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/kuroshio_lavd.jpg

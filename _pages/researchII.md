@@ -28,8 +28,8 @@ and decadal predictability in the Atlantic.
 
 <p align="justify">
 
-I am part of a few collaborative efforts that support my research on
-Southern Ocean science (e.g., SOCCOM, COSIMA, DynOPO, each discussed
+I am part of a variety of collaborative efforts that support my research on
+Southern Ocean science: SOCCOM, COSIMA, DynOPO, each discussed
 <a href="/collaborations/"> here.</a> The coupled climate model CM2.6
 is a critical tool used for some of these projects.  CM2.6 is notable
 for simulating a rich mesoscale eddy field (see below image).  This
@@ -104,7 +104,6 @@ illustrates the many jets, eddies, and boundary currents present in
 the Southern Ocean.  Figure courtesy of Adele Morrison.</figcaption>
 </figure>
 
-</p>
 
 
 ## <center>Questions</center>
@@ -138,7 +137,7 @@ Southern Ocean.
 <ul>
 
 <li> What are the fundamental force balances active in the Southern
-Ocean? </li>
+Ocean, in particular relating to the role of bottom topography? </li>
 
 <li> By what mechanism is momentum from the surface winds transferred
 to the solid-earth bottom?  </li>
@@ -173,17 +172,17 @@ the associated processes change under altered climate forcing? </li>
 
 <p align="justify">
 
-When I was a Princeton post-doc (1993-1996), Kirk Bryan and <a
-href="https://www.seas.harvard.edu/climate/eli/"> Eli Tziperman</a>
+When I was a Princeton University post-doc (1993-1996), Kirk Bryan and
+<a href="https://www.seas.harvard.edu/climate/eli/"> Eli Tziperman</a>
 (on sabbatical at GFDL during 1993-1994) pointed me to questions
 related to decadal and multi-decadal variations of the North Atlantic
 climate due to fluctuations of the Atlantic meridional overturning
 circulation (AMOC).  In the middle 1990s, these questions were largely
 theoretical and model-based, given the lack of observational data.
 Nonetheless, the model studies we conducted led to the first works on
-decadal predictability, thus providing the seeds for ongoing efforts
-to capture any source of predictability available at these time
-scales.  As part of that work, I was led to collaborate with <a
+Atlantic decadal predictability, thus providing the seeds for ongoing
+efforts to capture any source of predictability available at these
+time scales.  As part of that work, I was led to collaborate with <a
 href="https://climate-dynamics.org/people/tapio-schneider/"> Tapio
 Schneider, </a> then a Princeton graduate student, on fundamental
 questions about predictability.  Tapio brought to these questions many

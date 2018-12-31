@@ -26,9 +26,9 @@ a bit of my personal story.
 
 <p align="justify">
 
-In one form or another, I was a student until age 33.  Today I still
-go to school, only now as a research scientist and lecturer.  Alas,
-education never stops, for the teacher is the ultimate student.
+In one form or another, I was a formal student until age 33.  Today I
+still go to school, only now as a research scientist and lecturer.
+Alas, education never stops, for the teacher is the ultimate student.
 
 </p>
 
@@ -44,10 +44,10 @@ the rigor, intensity, and depth of the degree requirements.  Although
 I enjoyed many aspects of engineering and chemistry, I was not
 attracted to the idea of working for a large petro-chemical
 corporation that pursued its profits often at the expense of the
-environment.  A drive down the Mississippi River between Baton Rouge
-and New Orleans taught me a great deal about the consequences of that
-use of knowledge long before global warming and coastal erosion were
-everyday experiences.
+environment.  Road trips down the Mississippi River between Baton
+Rouge and New Orleans taught me a great deal about the consequences of
+that use of knowledge long before global warming and coastal erosion
+were everyday experiences.
 
 <br> <br>
 
@@ -84,7 +84,9 @@ the <a href="https://phys.washington.edu/"> University of Washington
 (1987-1988).</a> This time allowed me to explore the reality of my
 dream of doing physics.  I also became exposed to the quest for beauty
 and unity that so deeply drives physicists, and which remains part of
-how I approach research and teaching.
+how I approach research and teaching.  I chose UW for this transition
+year since I spent roughly seven years in the Puget Sound region of
+Washington during the 1970s, and my father still lives in Tacoma. 
 
 </p>
 
@@ -115,8 +117,8 @@ under the mentorship of Kirk Bryan.  This 2+ years as a post-doc was
 both a time for research and a time for taking courses on topics that
 I had little exposure to while studying in a physics department: fluid
 mechanics, atmospheric and oceanic dynamics, climate dynamics. I got
-the hang of it after a while, sufficiently it seems to land a job as a
-federal scientist at GFDL starting 1996.  That transition also saw me
+the hang of it after a while, sufficient to land a job as a federal
+scientist at GFDL starting spring 1996.  That transition also saw me
 getting married (now with one son, born 2006) and deciding to settle
 down in Princeton for the long haul.
 
@@ -146,12 +148,18 @@ through research, and to teach the next generation of students.
 
 <p align="justify">
 
-My "paper and pencil" experience as a PhD student greatly contrasts to
-my present research in which computer simulations play a central role.
-Indeed, I have contributed research and development energies to many
-numerical codes and climate models.  Even so, the concepts, tools, and
-prejudices from theoretical/mathematical physics deeply inform and
-guide my research and teaching today.
+My "paper and pencil" experience as a PhD student is in apparent
+contrast to much of my ongoing research in which computer simulations
+play a central role.  However, that perspective is not the full story.
+Even though I have contributed research and development energies to
+numerical codes and big climate models, I firmly maintain the
+concepts, tools, and prejudices engendered from studies of
+theoretical/mathematical physics, each of which guide my research and
+mentoring activities. Quite simply, computer simulations are
+constrained by the quality of human brains used to build models and
+analyze their output: As Jerry Mahlman emphasized when he hired me,
+software and hardware are of little use for science without brainware.
+
 
 <br> <br>
 
@@ -160,8 +168,8 @@ growing interest in general concepts and ideas rather than to
 particular solutions and technology.  Being able to solve an equation
 is important, and my training in applied maths, engineering, and
 numerical methods have certainly taught me many tricks for doing so.
-But what attracts me the most to physics is a quest for fundamental
-understanding of how nature works, with that understanding generally
+But what attracts me the most to physics is the quest for fundamental
+understanding of how Nature works, with that understanding generally
 transcending the details of a particular solution.
 
 </p>
@@ -179,13 +187,14 @@ involved completing my PhD and getting a post-doc.
 
 <br> <br>
 
-Nearing the end of my PhD work in 1993, I did plenty of "naval gazing"
-to decide my next step in life. Reflection led me to realize that my
-skills were both broad and deep, and that my passions drew me to use
-those skills to help understand the natural world that is directly
-experienced, including the ocean and atmosphere. I was inspired to
-connect with Mahlman who generously invited me to visit GFDL to see if
-a "physics retread" could bring something to his lab.
+Nearing the end of my PhD work in early 1993, I did plenty of "naval
+gazing" to decide my next step in life. Reflection led me to realize
+that my skills were both broad and deep, and that my passions drew me
+to use those skills to help understand the natural world that is
+directly experienced, including the ocean and atmosphere. I was
+inspired to connect with Dr. Mahlman who generously invited me to
+visit GFDL to see if a "physics re-tread" could bring something to his
+wonderful lab.
 
 <br> <br>
 
@@ -193,13 +202,13 @@ I visited GFDL a handfull of times during the spring of 1993, meeting
 GFDL giants like Suki Manabe, Isaac Held, Kiku Miyakoda, Kurihara,
 Isidoro Orlanski, and Kirk Bryan.  I was particularly attracted to the
 idea of working with Kirk Bryan, the father of numerical oceanography.
-We had chemistry and the opportunity arose to do a post-doc with him
-starting in September 1993. Before the post-doc officially started,
-and only two weeks after my PhD defense on cosmic domain walls and
-time machines, Kirk put me on a plane to Nova Scotia (using his
-personal funds!) to join a research cruise to the Labrador Sea on a
-Canadien research vessel (The Hudson).  The chief scientist was John
-Lazier and <a
+Fortunately, we developed a chemistry and he supported my application
+to do a post-doc with him starting in September 1993. Before the
+post-doc officially started, and only two weeks after my PhD defense
+on cosmic domain walls and time machines, Kirk put me on a plane to
+Nova Scotia (using his personal funds!) to join a research cruise to
+the Labrador Sea on a Canadien research vessel (The Hudson).  The
+chief scientist was John Lazier and <a
 href="https://www.ocean.washington.edu/people/faculty/rhines/rhines.html">Peter
 Rhines</a> was the ship's intellectual guru. That was indeed a rapid
 initiation into oceanography. I was definitely hooked!

@@ -73,7 +73,7 @@ and biogeochemical processes.</figcaption> </figure>
 <p align="justify">
 
 As part of my work on ocean models foundations, I have offered both
-novel methods and syntheses across a number of methods.  Here are
+novel ideas and syntheses across a number of methods.  Here are
 samples from this work.
 
 <ul>
@@ -144,8 +144,8 @@ Roekel et al (2018).  </figcaption> </figure>
 
 <p align="justify">
 
-The ocean eddy parameterization problem (aka the turbulence closure
-problem) remains among the most important and intellectually
+The ocean eddy parameterization problem (aka the ocean turbulence
+closure problem) remains among the most important and intellectually
 challenging problems in theoretical physical oceanography. It is
 important since eddy parameterizations, from the planetary boundary
 layer to the ocean interior to the bottom boundary layer, have a huge
@@ -209,8 +209,8 @@ LES:
 <p align="justify">
 
 During the years 1997-2013, much of my working day consisted of
-developing MOM versions 3,4, and 5.  This work remains among the more
-satisfying of my career. Although I stopped focusing on development
+developing MOM versions 3,4, and 5.  This work remains among the most
+rewarding of my career. Although I stopped focusing on development
 after <a href="https://mom-ocean.github.io/"> MOM5</a> in early 2013,
 I remain engaged in a variety of scientific activities that make use
 of this code, most notably the <a href="http://cosima.org.au/"> COSIMA
@@ -223,12 +223,16 @@ mesoscale eddies.
 
 More recent efforts of ocean code development at GFDL center on <a
 href="https://github.com/NOAA-GFDL/MOM6"> MOM6,</a> which is a project
-led by Alistair Adcroft and Robert Hallberg.  My role in MOM6 has
-largely focused on its diagnostic capabilities, with much work
-remaining on my plate.  Quite generally, MOM6 offers many
-sophisticated features beyond MOM5, thus providing modelers with
+led by my close colleagues and friends Alistair Adcroft and Robert
+Hallberg.  My role in MOM6 has largely focused on its diagnostic
+capabilities, with much work remaining to make MOM6 as friendly to
+ocean analysts as it is to numericists.  Quite generally, MOM6 offers
+many sophisticated numerical features and physical parameterizations
+well beyond MOM5. These enhancements provide ocean modelers with
 critical tools needed to address a number of high profile climate
-related questions such as sea level rise and ocean heat uptake.
+related questions such as sea level rise and ocean heat uptake.  All
+of my recent mentoring activities involve the use of MOM6 as a tool
+for idealized and realistic model simulations and analysis.
 
 </p>
 
@@ -240,10 +244,10 @@ related questions such as sea level rise and ocean heat uptake.
 When handed a model, the modeler must decide how to use it for
 revealing phenomena (e.g., waves, turbulence, boundary currents,
 overturning circulations, climate variations) emerging from the
-fundamental equations. Questions thus arise surrounding how to design
-a numerical experiment that is reproducible by others who may wish to
-compare/contrast their model's results. And when simulation results
-are obtained, questions then arise concerning how to rationalize the
+fundamental equations. Questions arise surrounding how to design a
+numerical experiment that is reproducible by others who may wish to
+compare/contrast their model results. And when simulation results are
+obtained, questions then arise concerning how to rationalize the
 output through analysis and interpretation. Here I summarize areas
 where my research efforts have contributed to help answer these
 questions.
@@ -255,7 +259,7 @@ questions.
 <p align="justify">
 
 Global ocean/sea-ice models are commonly used to help understand the
-mechanics for ocean climate variations and to directly compare to
+mechanics of ocean climate variations and to directly compare to
 observations. In the absence of an interactive atmospheric model, the
 modeler must make decisions for how to force the ocean/sea-ice model
 in a way that does not compromise on the scientific investigation.

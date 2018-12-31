@@ -224,7 +224,7 @@ sea level variations and change.
 <ul>
 
 <li> Will extreme sea level events occur more frequently in the future
-under and changing climate? </li>
+under a changing climate? </li>
 
 <li> What are the mechanisms for regional sea level change, in
 particular those affecting coastal regions?  </li>
@@ -235,7 +235,7 @@ ocean interior?</li>
 <li> How will changes to the gravity field, arising from changes in
 ice sheet masses, impact on the ocean circulation? </li>
 
-<li> How well can we predict changes to coastal sea level? </li>
+<li> How accurate can we predict changes to coastal sea level? </li>
 
 </ul>
 </p>

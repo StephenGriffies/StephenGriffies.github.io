@@ -41,14 +41,14 @@ deepen our understanding of ocean physical processes and circulation.
 
 I seek to mentor highly energetic students, post-docs, and visiting
 professors with a strong background in both mathematical physics and
-physical oceanography.  Mentees should have a passion and creative
-talent suitable for diving deep into the fundamentals of ocean physics
-and for uncovering their impacts on regional and global climate.
+physical oceanography.  My mentees have a passion and creative talent
+for diving deep into the fundamentals of ocean physics and for
+uncovering their impacts on ocean circulation and climate.
 
 <br> <br>
 
 Here is a list of past and present people I have mentored/hosted at
-GFDL and Princeton.
+GFDL and Princeton University.
 
 <ul>
 
@@ -68,7 +68,7 @@ Laure Zanna (visiting professor 2017-2018) </a> </li>
 Jianjun Yin (visiting professor 2017) </a> </li>
 
 <li><a href="https://scholar.princeton.edu/breichl/bio">
-Brandon Reichl (post-doc 2016-2018) </a> </li>
+Brandon Reichl (post-doc 2016-2019) </a> </li>
 
 <li><a href="http://romps.berkeley.edu/people.html">
 Nathaniel Tarshish (pre-doc 2016-2018) </a> </li>
@@ -118,7 +118,7 @@ develops mathematics, kinematics, tracer dynamics, momentum dynamics,
 and vorticity dynamics relevant for understanding and describing the
 physics of rotating and stratified fluids.  I make use of lecture
 notes <a href="/assets/pdfs/GFD_lecture_notes_01sep2018.pdf">
-(Griffies 2018)</a> as well as the standard textbook from <a
+(Griffies 2018)</a> as well as textbooks such as that from <a
 href="https://www.cambridge.org/core/books/atmospheric-and-oceanic-fluid-dynamics/41379BDDC4257CBE11143C466F6428A4">Vallis
 (2017).</a>
 
@@ -129,10 +129,10 @@ href="https://www.cambridge.org/core/books/atmospheric-and-oceanic-fluid-dynamic
 
 <p align="justify">
 
-In addition to teaching as part of the Princeton AOS faculty, I also
-offer pedagogical lectures at schools and workshops for students
-aiming to refine their understanding of ocean and climate science, and
-for developing insights into how to run and analyze ocean model
+In addition to teaching as part of the Princeton AOS faculty, I offer
+pedagogical lectures at schools and workshops for students aiming to
+refine their understanding of ocean and climate science, and for
+developing insights into how to run and analyze ocean model
 simulations.  My next scheduled course is at the <a
 href="https://climateextremes.org.au/advanced-ocean-modelling-summer-school/">CLEX
 advanced ocean modelling summer school</a> in Tasmania during

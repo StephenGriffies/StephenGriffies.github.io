@@ -100,19 +100,20 @@ Ocean.
 <p align="justify">
 
 I first visited Australia in 2004 and have been back many times,
-spending two extended visits to there in 2005 (10 months) and 2011
-(five months).  These visits have nurtured many trusted collaborations
-and friendships with scientists such as <a
+spending extended visits to there in 2005 (10 months) and 2011 (five
+months).  These visits have nurtured many trusted collaborations and
+friendships with scientists such as <a
 href="https://research.unsw.edu.au/people/scientia-professor-trevor-mcdougall">
 Prof. Trevor McDougall,</a> <a
 href="https://www.ccrc.unsw.edu.au/ccrc-team/academic-research/matthew-england">
 Prof. Matthew England,</a> <a
-href="http://rses.anu.edu.au/people/andy-hogg"> Prof. Andy Hogg,</a>
-and many more within their respective teams.  These collaborations
-have in turn led me to be a contributing PI on a variety of projects,
-including <a href="http://cosima.org.au/"> COSIMA (Consortium for
-Ocean-Sea Ice Modelling in Australia),</a> and the <a
-href="https://climateextremes.org.au/">Centre of Excellence for
+href="http://rses.anu.edu.au/people/andy-hogg"> Prof. Andy Hogg, </a>
+<a href="https://people.csiro.au/M/S/Simon-Marsland"> Dr. Simon
+Marsland, </a> and many more within their respective teams.  These
+collaborations have in turn led me to be a contributing PI on a
+variety of projects, including <a href="http://cosima.org.au/"> the
+Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA),</a> and
+the <a href="https://climateextremes.org.au/">Centre of Excellence for
 Climate Extremes (CLEX).</a>
 
 </p>
@@ -141,12 +142,18 @@ aspire to participate on further cruises.
 #  <center> JAMES </center>
 <p align="justify">
 
-I am an editor at <a
+I am passionate about open access science publications as supported by
+academic societies such as the <a href="https://sites.agu.org/">
+American Geophysical Union (AGU)</a>. I am thus quite proud of my role
+at <a
 href="https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/editorial-board/editorial-board">
-the Journal of Advances in Modeling the Earth System (JAMES),</a> in
-charge of the oceans and cryosphere portfolio.  JAMES is an open
-access journal from the American Geophysical Union that aims to extend
-the science going into and coming from models.
+the Journal of Advances in Modeling the Earth System (JAMES),</a>
+serving as editor in charge of the oceans and cryosphere portfolio.
+JAMES is an open access journal that aims to extend the science going
+into and coming from models. I offer <a
+href="https://github.com/StephenGriffies/documents/blob/master/ElementsOfStyle/Griffies_Elements_of_Style_journal_articles.pdf">
+in this document </a> specific writing points that I have gleaned from
+being a journal author, reviewer, and editor.
 
 </p>
 

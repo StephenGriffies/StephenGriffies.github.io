@@ -12,8 +12,8 @@ main:
     url: /collaborations
   - title: "Biography"
     url: /bio/
-#  - title: "Docs"
-#    url: /docs
+  - title: "Talks"
+    url: /talks/
 
 
 # documentation links

@@ -20,25 +20,27 @@ header:
 
 <p align="justify">
 
-Presentations are at the heart of how we communicate our science,
-acting as a complement to the peer-review.  Here I offer a small
-selection of recent presentations on a variety of topics.  I hope to
-absorb more of my recent preesentations here in the future.  
+Presentations are a key complement to the peer-review, acting to fully
+engage the audience and solicit critical feedback.  Here I offer a
+small selection of recent presentations on a variety of topics.  I
+plan to incorporate more of my recent preesentations in the future.
 
 </p>
 
-<br> <br>
 
 <ul>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/Gent_symposium2019/Griffies_talk_Gent_symposium.pdf">
-Neutral diffusion talk given at the Gent Symposium Jan 2019 in Boulder </a> </li>
+A historical survey of neutral diffusion methods and comments on
+current research, 2019: </a> Talk given at the Gent Symposium,
+Boulder, CO.  </li>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/OceanCirculation2019/Griffies_AMSI_2019.pdf">
-Maths/physics of ocean circulation: talk given at the AMSI summer
-school Jan 2019 in Sydney </a> </li>
+Ocean circulation as a problem in mathematical & computational
+physics, 2019: </a> Talk given at the AMSI summer school in Sydney,
+AUS. </li>
 
 </ul>
 

@@ -7,7 +7,7 @@ toc_label: "On this page"
 toc_icon: "sun"
 author: Stephen Griffies
 title: "Talks"
-excerpt: "Presentations go engage and synthesize"
+excerpt: "Presentations to engage and synthesize"
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/Southern_Ocean_waves.jpg

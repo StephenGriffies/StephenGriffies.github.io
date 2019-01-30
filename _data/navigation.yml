@@ -9,11 +9,11 @@ main:
   - title: "Education"
     url: /teaching/
   - title: "Collaborations"
-    url: /collaborations
-  - title: "Biography"
-    url: /bio/
+    url: /collaborations/
   - title: "Talks"
     url: /talks/
+  - title: "Biography"
+    url: /bio/
 
 
 # documentation links

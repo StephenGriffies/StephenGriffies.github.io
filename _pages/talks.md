@@ -22,8 +22,7 @@ header:
 
 Presentations are a key complement to the peer-review, acting to fully
 engage the audience and solicit critical feedback.  Here I offer a
-small selection of recent presentations on a variety of topics.  I
-plan to incorporate more of my recent preesentations in the future.
+small selection of recent presentations on a variety of topics.
 
 </p>
 

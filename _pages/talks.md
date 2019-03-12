@@ -32,21 +32,23 @@ small selection of recent presentations on a variety of topics.
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTanalysis2019/Griffies_WMT_Sydney.pdf">
 Water mass transformation analysis in ocean models: some thoughts and
-questions , 2019: </a> Talk given at the Water Mass Transformation
+questions , Jan 2019: </a> Talk given at the Water Mass Transformation
 Workshop, University of New South Wales, Sydney, AUS.  </li>
-
 
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/OceanCirculation2019/Griffies_AMSI_2019.pdf">
 Ocean circulation as a problem in mathematical & computational
-physics, 2019: </a> Talk given at the AMSI summer school, University
-of New South Wales, Sydney, AUS. </li>
+physics, Jan 2019: </a> Talk given at the AMSI summer school, University
+of New South Wales, Sydney, AUS.
+<a href="https://youtu.be/POv8sGN-tq4"> Here is a Youtube video of the talk.</a>
+</li>
+
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/Gent_symposium2019/Griffies_talk_Gent_symposium.pdf">
 A historical survey of neutral diffusion methods and comments on
-current research, 2019: </a> Talk given at the Gent Symposium,
+current research, Jan 2019: </a> Talk given at the Gent Symposium,
 Boulder, CO.  </li>
 
 

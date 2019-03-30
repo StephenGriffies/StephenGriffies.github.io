@@ -20,7 +20,7 @@ header:
 
 <p align="justify">
 
-Presentations are a key complement to the peer-review, acting to fully
+  Presentations are a key complement to the peer-review, acting to fully
 engage the audience and solicit critical feedback.  Here I offer a
 small selection of recent presentations on a variety of topics.
 

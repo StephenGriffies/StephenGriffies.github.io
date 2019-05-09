@@ -192,6 +192,13 @@ induces an increasing northern Indian Ocean sea level: <a
 href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017GL074706">Swapna
 et al (2017) </a> </li>
 
+<li>Concepts and Terminology for Sea Level: Mean, Variability and Change, Both Local and Global: <a
+href="https://link.springer.com/article/10.1007/s10712-019-09525-z">Gregory, Griffies, et al  (2019) </a> </li>
+
+<li>Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast: <a
+href="https://link.springer.com/article/10.1007/s10712-019-09535-x">Hughes,
+Fukomori, Griffies, et al. (2019) </a> </li>
+
 </ul>
 
 </p>

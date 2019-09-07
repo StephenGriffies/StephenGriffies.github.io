@@ -121,9 +121,15 @@ Griffies and Treguier (2013) </a>
 </li>
 
 <li>Vertical resolution of baroclinic modes in global ocean models: <a
-href="">
+href="https://www.sciencedirect.com/science/article/abs/pii/S1463500317300434">
 Stewart et al (2017) </a>
 </li>
+
+<li>Relating the diffusive salt flux just below the ocean surface to
+boundary freshwater and salt fluxes: <a
+href="https://journals.ametsoc.org/doi/full/10.1175/JPO-D-19-0037.1">
+Nurser and Griffies (2019) </a> </li>
+
 
 </ul>
 

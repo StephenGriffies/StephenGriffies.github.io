@@ -52,6 +52,9 @@ GFDL and Princeton University.
 
 <ul>
 
+<li><a href="https://hmkhatri.github.io">
+Hemant Khatri (post-doc 2019-present) </a> </li>
+
 <li><a href="http://www.hajim.rochester.edu/me/people/faculty/aluie_hussein/index.html">
 Hussein Aluie (visiting professor 2019) </a> </li>
 

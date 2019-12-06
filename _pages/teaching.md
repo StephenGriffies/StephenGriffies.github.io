@@ -39,8 +39,8 @@ deepen our understanding of ocean physical processes and circulation.
 #  <center>Mentoring</center>
 <p align="justify">
 
-I seek to mentor highly energetic students, post-docs, and visiting
-professors with a strong background in both mathematical physics and
+I seek to mentor energetic students, post-docs, and visiting
+professors with a strong background in mathematical physics and
 physical oceanography.  My mentees have a passion and creative talent
 for diving deep into the fundamentals of ocean physics and for
 uncovering their impacts on ocean circulation and climate.

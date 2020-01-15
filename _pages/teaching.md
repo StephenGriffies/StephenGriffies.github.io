@@ -121,7 +121,7 @@ develops mathematics, kinematics, tracer dynamics, momentum dynamics,
 and vorticity dynamics relevant for understanding and describing the
 physics of rotating and stratified fluids.  I make use of lecture
 notes <a href="/assets/pdfs/GFM_lectures.pdf">
-(Griffies 2019)</a> as well as textbooks such as that from <a
+(Griffies 2020)</a> as well as textbooks such as that from <a
 href="https://www.cambridge.org/core/books/atmospheric-and-oceanic-fluid-dynamics/41379BDDC4257CBE11143C466F6428A4">Vallis
 (2017).</a>
 

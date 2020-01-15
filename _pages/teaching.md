@@ -52,6 +52,12 @@ GFDL and Princeton University.
 
 <ul>
 
+<li><a href="https://github.com/ruth-moorman">
+Ruth Moorman (pre-doc 2020) </a> </li>
+
+<li><a href="https://aos.princeton.edu/people/benjamin-taylor">
+Benjamin Taylor (pre-doc 2019-2020) </a> </li>
+
 <li><a href="https://hmkhatri.github.io">
 Hemant Khatri (post-doc 2019-present) </a> </li>
 

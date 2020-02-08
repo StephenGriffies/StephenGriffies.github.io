@@ -257,5 +257,5 @@ gratitude, and compassion.
 <br> <br>
 
 <a href="/assets/pdfs/PersonalReflectionsMeditation.pdf">Here is a
-brief presentation on meditation</a> gave as part of a workshop during
+brief presentation on meditation</a> I gave as part of a workshop during
 Ocean Sciences 2020.

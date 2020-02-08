@@ -235,21 +235,27 @@ lead my head to do research in ocean science.
 
 My gratitude for the freedom offered by research and teaching aligns
 with my studies and practices of meditation since 1982.  Meditation
-offers a complement to my obsessive quest for an objective and
-scientific understanding of nature.  It does so by providing a system
-to organize, observe, and appreciate subjective experiences without
-the mind chatter of judgement and achievement. Meditation fosters an
-awareness of the way things are rather than the way we think they are.
+offers a complement to my quest for an objective and scientific
+understanding of nature.  It does so by providing a system to
+organize, observe, and appreciate subjective experiences without the
+mind chatter of judgment and achievement. For me, meditation fosters
+an awareness of the way things are rather than the way we think they
+are.
 
 <br> <br>
 
 One may imagine the stillness realized via meditation to bring about
-an absence of awareness or perception.  My experience is quite the
-opposite.  As the mind quiets and the distance between thoughts
-expands, awareness opens to render a direct experience of nature
-absent a patina engendered by the intellect, emotions, and thoughts.
-Such provides a clear cultivation of understanding and intuition.  For
-me, a practical result is that meditation provides a spark for
-insights and creativity, and it instills a great deal of patience,
-persistence, humility, gratitude, and compassion.
+an absence of awareness or perception.  Yet my experience is quite the
+opposite.  As the mind fluctuations quiet and the distance between
+thoughts expands, awareness opens to render a direct experience of
+nature absent a patina engendered by the intellect, emotions, and
+thoughts.  Removal of boundaries cultivates understanding and
+intuition.  A practical result is that meditation sparks insights and
+creativity while instilling patience, persistence, humility,
+gratitude, and compassion.
 
+<br> <br>
+
+<a href="/assets/pdfs/PersonalReflectionsMeditation.pdf">Here is a
+brief presentation on meditation</a> gave as part of a workshop during
+Ocean Sciences 2020.

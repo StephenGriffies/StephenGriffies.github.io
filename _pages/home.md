@@ -38,6 +38,8 @@ post-doc, or visiting research scientist.
 
 </p>
 
-
+<figure> <img src="/assets/images/Griffies_Coronation_Island_2017b.jpg">
+<figcaption>Image from a cruise I took to the Scotia Sea in 2017
+aboard the British ship RRS JC Ross.  </figcaption> </figure> 2
 
 

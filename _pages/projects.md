@@ -109,8 +109,11 @@ href="https://www.ccrc.unsw.edu.au/ccrc-team/academic-research/matthew-england">
 Prof. Matthew England,</a> <a
 href="http://rses.anu.edu.au/people/andy-hogg"> Prof. Andy Hogg, </a>
 <a href="https://people.csiro.au/M/S/Simon-Marsland"> Dr. Simon
-Marsland, </a> and many more within their respective teams.  These
-collaborations have in turn led me to be a contributing PI on a
+Marsland, </a> <a
+href="http://web.science.unsw.edu.au/~paulspence/ogcm.html"> Dr. Paul
+Spence, </a> <a href="https://sites.google.com/view/janzika/">
+Prof. Jan Zika, </a> and many more within their respective teams.
+These collaborations have in turn led me to be a contributing PI on a
 variety of projects, including <a href="http://cosima.org.au/"> the
 Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA),</a> and
 the <a href="https://climateextremes.org.au/">Centre of Excellence for
@@ -152,8 +155,9 @@ serving as editor in charge of the oceans and cryosphere portfolio.
 JAMES is an open access journal that aims to extend the science going
 into and coming from models. I offer <a
 href="https://github.com/StephenGriffies/documents/blob/master/ElementsOfStyle/Griffies_Elements_of_Style_journal_articles.pdf">
-in this document </a> specific writing points that I have gleaned from
-being a journal author, reviewer, and editor.
+in this document (writen while I was an editor at the journal Ocean
+Modelling) </a> for specific writing points gleaned from being an
+author, reviewer, and editor.
 
 </p>
 

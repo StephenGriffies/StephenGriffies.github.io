@@ -3,7 +3,7 @@ layout: single
 permalink: /models/
 author_profile: true
 author: Stephen Griffies
-title: "Ocean Circulation Models"
+title: "Numerical Models"
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
@@ -18,16 +18,18 @@ header:
 
 <p align="justify">
 
-Ocean circulation models are a repository for mechanistic theories of
-how the ocean works, with numerical methods used to transform
-mathematical expressions of the theories into a computational tool for
-scientific investigations.  Physical theories and numerical methods
-provide the foundation for ocean circulation models.  The practice of
-ocean modeling uses models as an experimental tool to help reveal
+Ocean models provide a repository for mechanistic theories of how the
+ocean works, with numerical methods used to transform our mathematical
+physics theories into computational tools for scientific
+investigations.  Mathematical physics theories and numerical methods
+provide the foundation for ocean models.  The practice of ocean
+modeling uses numerical models as an experimental tool to help reveal
 mechanisms for patterns of ocean phenomena emerging from the governing
-equations.  Models and modeling form the two pillars of numerical and
-theoretical oceanography, with these pillars supported by, and in turn
-supporting, observational oceanography and laboratory studies.
+equations (e.g., waves, instabilities, turbulence, jets, boundary
+currents, overturning circulation).  Models and modeling form the two
+pillars of numerical and theoretical oceanography, with these pillars
+supported by, and in turn supporting, observational oceanography and
+laboratory studies.
 
 <br>
 <br>
@@ -150,18 +152,21 @@ Roekel et al (2018).  </figcaption> </figure>
 
 <p align="justify">
 
-The ocean eddy parameterization problem (aka the ocean turbulence
-closure problem) remains among the most important and intellectually
-challenging problems in theoretical physical oceanography. It is
-important since eddy parameterizations, from the planetary boundary
-layer to the ocean interior to the bottom boundary layer, have a huge
-role in determining the performance of ocean climate models.  It is
-challenging since it draws upon a wide variety of physical and
-mathematical skill sets. I have an ongoing interest in ocean eddy
-parameterization questions, and am particularly motivated by some
-exciting theoretical/modeling and observational studies conducted
-during recent years.  Notably, there are many unsolved questions
-looking for energetic students and post-docs to crack!
+The ocean eddy parameterization problem is part of the larger
+turbulence closure problem, and it is among the most important and
+intellectually challenging problem in theoretical physical
+oceanography. It is important since eddy parameterizations, from the
+planetary boundary layer to the ocean interior to the bottom boundary
+layer, have a huge role in determining the performance of ocean
+climate models.  It is challenging since it draws upon a wide variety
+of physical and mathematical skill sets. I have an ongoing interest in
+ocean eddy parameterization questions, and am particularly motivated
+by some exciting theoretical/modeling and observational studies
+conducted during recent years. This interest has led me to play a role
+in the NSF/NOAA funded <a href="https://ocean-eddy-cpt.github.io/">
+Climate Process Team on ocean transport and eddy energy.</a> Notably,
+there are many unsolved questions looking for energetic students and
+post-docs to help crack!
 
 <ul>
 
@@ -206,6 +211,12 @@ LES:
   Roekel et al (2018) </a>
   </li>
 
+<li>Comparing ocean surface boundary vertical mixing schemes including
+Langmuir turbulence: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001810">Li
+et al (2019) </a> </li>
+
+
 </ul>
 
 </p>
@@ -215,30 +226,63 @@ LES:
 <p align="justify">
 
 During the years 1997-2013, much of my working day consisted of
-developing MOM versions 3,4, and 5.  This work remains among the most
-rewarding of my career. Although I stopped focusing on development
-after <a href="https://mom-ocean.github.io/"> MOM5</a> in early 2013,
-I remain engaged in a variety of scientific activities that make use
-of this code, most notably the <a href="http://cosima.org.au/"> COSIMA
-(Consortium for Ocean-Sea Ice Modelling in Australia)</a> and the <a
-href="/research/"> CM2.6 project.</a> Both projects pursue studies of
-global climate at model resolutions that admit a rich field of
-mesoscale eddies.
+developing MOM versions 3,4, and 5 <a
+href="https://mom-ocean.github.io/assets/pdfs/mom_history_2017.09.19.pdf">
+(see this document for a brief history of MOM).</a> This work was
+among the most rewarding of my career. Although I stopped focusing on
+development after <a href="https://mom-ocean.github.io/"> MOM5</a> in
+early 2013, I remain engaged in a variety of scientific activities
+that make use of this code, most notably the <a
+href="http://cosima.org.au/"> COSIMA (Consortium for Ocean-Sea Ice
+Modelling in Australia)</a> and the <a href="/research/"> CM2.6
+project.</a> Both projects pursue studies of global climate at model
+resolutions that admit a rich field of mesoscale eddies.
 
 <br> <br>
 
 More recent efforts of ocean code development at GFDL center on <a
 href="https://github.com/NOAA-GFDL/MOM6"> MOM6,</a> which is a project
-led by my close colleagues and friends Alistair Adcroft and Robert
-Hallberg.  My role in MOM6 has largely focused on its diagnostic
-capabilities, with much work remaining to make MOM6 as friendly to
-ocean analysts as it is to numericists.  Quite generally, MOM6 offers
-many sophisticated numerical features and physical parameterizations
-well beyond MOM5. These enhancements provide ocean modelers with
-critical tools needed to address a number of high profile climate
-related questions such as sea level rise and ocean heat uptake.  All
-of my recent mentoring activities involve the use of MOM6 as a tool
-for idealized and realistic model simulations and analysis.
+led by my colleagues and friends Alistair Adcroft and Robert Hallberg.
+My focus on MOM6 has been on its diagnostic/analysis capabilities,
+with ongoing work aiming to make MOM6 as friendly to ocean analysts as
+it is to algorithm developers.  Quite generally, MOM6 offers many
+sophisticated numerical features and physical parameterizations well
+beyond MOM5. These enhancements provide ocean modelers with critical
+tools needed to address a number of high profile climate related
+questions such as sea level rise and ocean heat uptake.  My recent
+mentoring activities involve the use of MOM6 as a tool for idealized
+and realistic model simulations and analysis.
+
+
+<figure> <img
+src="/assets/images/Steve_Bob_Sonya_Alistair_2019.jpg">
+<figcaption>GFDL/Princeton leads on the MOM6 Project: Stephen
+Griffies, Robert Hallberg, Sonya Legg, and Alistair Adcroft
+in 2019. </figcaption> </figure>
+
+
+<ul>
+
+<li>The MOM3 Manual: <a
+href="https://mom-ocean.github.io/assets/pdfs/MOM3_manual.pdf">Pacanowski
+and Griffies (2000) </a> </li>
+
+<li>A Technical Guide to MOM4: <a
+href="https://mom-ocean.github.io/assets/pdfs/MOM4_manual.pdf">Griffies,
+Harrison, Pacanowski, and Rosati (2008) </a> </li>
+
+<li>Elements of the Modular Ocean Model (MOM): <a
+href="https://mom-ocean.github.io/assets/pdfs/MOM5_manual.pdf">Griffies
+(2012) </a> </li>
+
+<li>The GFDL global ocean and sea ice model OM4.0: model description
+and simulation features: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001726">Adcroft
+et al (2019) </a> </li>
+
+</ul>
+
+
 
 </p>
 
@@ -247,8 +291,8 @@ for idealized and realistic model simulations and analysis.
 
 <p align="justify">
 
-When handed a model, the modeler must decide how to use it for
-revealing phenomena (e.g., waves, turbulence, boundary currents,
+When handed a numerical model, the scientist must decide how to use it
+for revealing phenomena (e.g., waves, turbulence, boundary currents,
 overturning circulations, climate variations) emerging from the
 fundamental equations. Questions arise surrounding how to design a
 numerical experiment that is reproducible by others who may wish to
@@ -274,8 +318,8 @@ in a way that does not compromise on the scientific investigation.
 <br>
 
 During the period from 2000 to 2009, I worked with colleagues on the
-CLIVAR Working Group for Ocean Model Development <a
-href="http://www.clivar.org/clivar-panels/omdp"> </a>, now called the
+CLIVAR Working Group for Ocean Model Development, <a
+href="http://www.clivar.org/clivar-panels/omdp"> </a> now called the
 <a href="http://www.clivar.org/clivar-panels/omdp"> Ocean Model
 Development Panel (OMDP),</a> to develop an experimental protocol for
 running global ocean/sea-ice models.  This protocol is known as the <a

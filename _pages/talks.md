@@ -20,14 +20,20 @@ header:
 
 <p align="justify">
 
-  Presentations are a key complement to the peer-review, acting to fully
-engage the audience and solicit critical feedback.  Here I offer a
-small selection of recent presentations on a variety of topics.
+  Presentations are a key complement to the peer-review, acting to
+fully engage the audience and solicit critical feedback.  Here I offer
+a selection of presentations on a variety of topics.
 
 </p>
 
 
 <ul>
+
+<li><a
+href="https://github.com/StephenGriffies/documents/blob/master/SouthernOcean/Griffies_SO_dynamics.pdf.pdf">
+Feb/Mar 2020: </a> Lectures given as part of Princeton University's
+GEO/AOS 521: Special Topics in Southern Ocean Science.  </li>
+
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTanalysis2019/Griffies_WMT_Sydney.pdf">
@@ -50,7 +56,6 @@ href="https://github.com/StephenGriffies/documents/blob/master/Gent_symposium201
 A historical survey of neutral diffusion methods and comments on
 current research, Jan 2019: </a> Talk given at the Gent Symposium,
 Boulder, CO.  </li>
-
 
 </ul>
 

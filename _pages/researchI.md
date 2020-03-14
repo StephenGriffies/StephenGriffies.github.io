@@ -199,6 +199,11 @@ href="https://link.springer.com/article/10.1007/s10712-019-09525-z">Gregory, Gri
 href="https://link.springer.com/article/10.1007/s10712-019-09535-x">Hughes,
 Fukomori, Griffies, et al. (2019) </a> </li>
 
+<li>Response of Storm-related Extreme Sea Level along the US Atlantic
+Coast to Combined Weather and Climate Forcing: <a
+href="https://doi.org/10.1175/JCLI-D-19-0551.1">Yin, Griffies, et
+al. (2020) </a> </li>
+
 </ul>
 
 </p>
@@ -235,6 +240,9 @@ under a changing climate? </li>
 
 <li> What are the mechanisms for regional sea level change, in
 particular those affecting coastal regions?  </li>
+
+<li> How will ice shelves and ice sheets respond to warming subsurface
+ocean waters? </li>
 
 <li> How does sea level along the coasts reflect sea level within the
 ocean interior?</li>

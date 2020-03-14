@@ -39,11 +39,29 @@ deepen our understanding of ocean physical processes and circulation.
 #  <center>Mentoring</center>
 <p align="justify">
 
-I seek to mentor energetic students, post-docs, and visiting
-professors with a strong background in mathematical physics and
-physical oceanography.  My mentees have a passion and creative talent
-for diving deep into the fundamentals of ocean physics and for
-uncovering their impacts on ocean circulation and climate.
+I find it fulfilling to collaborate with scientists from across a
+broad spectrum of experience and expertise.  I particularly seek to
+mentor and collaborate with students, post-docs, and visiting
+researchers with strengths in mathematical physics and physical
+oceanography.  As a mentor, I aim to nurture a passion and creative
+talent for diving deep into the fundamentals of ocean physics and for
+uncovering their impacts on ocean circulation and climate.  I support
+open and honest relations among those I work with, thus aiming to
+foster an environment where scientific understanding and insights can
+emerge from questions posed in a trusting and non-judgmental setting.
+
+<br> <br>
+
+<figure> <img src="/assets/images/research_group_jun2016.jpg">
+<figcaption>Research group June 2016: Adele Morrison, Henri Drake,
+Stephen Griffies, Carolina Dufour, and Alison Gray. </figcaption>
+</figure>
+
+<figure> <img src="/assets/images/research_group_jan2020.jpg">
+<figcaption>Research group January 2020: Benjamin Taylor, Hemant
+Khatri, Ruth
+Moorman, Graeme MacGilchrist, Houssam Yassin, and  
+Stephen Griffies.  </figcaption> </figure>
 
 <br> <br>
 
@@ -142,10 +160,8 @@ In addition to teaching as part of the Princeton AOS faculty, I offer
 pedagogical lectures at schools and workshops for students aiming to
 refine their understanding of ocean and climate science, and for
 developing insights into how to run and analyze ocean model
-simulations.  My next scheduled course is at the <a
-href="https://climateextremes.org.au/advanced-ocean-modelling-summer-school/">CLEX
-advanced ocean modelling summer school</a> in Tasmania during
-April/May 2019.
+simulations.  My most recent course was at the CLEX advanced ocean
+modelling summer school in Tasmania during April/May 2019.
 
 </p>
 

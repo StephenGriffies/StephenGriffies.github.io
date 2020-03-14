@@ -28,14 +28,15 @@ and decadal predictability in the Atlantic.
 
 <p align="justify">
 
-I am part of a variety of collaborative efforts that support my research on
-Southern Ocean science: SOCCOM, COSIMA, DynOPO, each discussed
-<a href="/collaborations/"> here.</a> The coupled climate model CM2.6
-is a critical tool used for some of these projects.  CM2.6 is notable
-for simulating a rich mesoscale eddy field (see below image).  This
-model has been the source for 40+ research papers <a
-href="/assets/pdfs/CM2p6_project_list.pdf"> as listed here,</a> 
-many of which concern the Southern Ocean.
+I am part of a variety of collaborative efforts that support my
+research on Southern Ocean science, including SOCCOM, COSIMA, and
+DynOPO, each of which are discussed <a href="/collaborations/">
+here.</a> The coupled climate model CM2.6 is a critical tool used for
+some of these projects.  CM2.6 is notable for simulating a rich
+mesoscale eddy field (see below image).  This model has been the
+source for 40+ research papers <a
+href="/assets/pdfs/CM2p6_project_list.pdf"> as listed here,</a> many
+of which concern the Southern Ocean.
 
 </p>
 
@@ -122,12 +123,11 @@ with mechanisms affecting one also affecting the other.
 
 Closer to the Antarctic continent lives the Antarctic Slope Current,
 which is a strong jet-like current flowing from east to west, largely
-driven by coastal winds and feeding off the strong baroclinic front
-between the shelf and open ocean.  The ASF separates the generally
-warmer waters off-shelf from colder coastal waters, with cross-shelf
-exchange of warm waters of interest for sea level studies due to the
-potential to melt ice shelves and to allow more land ice to enter the
-ocean.
+driven by coastal winds, the strong baroclinic front between the shelf
+and open ocean, and tides.  The ASF separates the generally warmer
+waters off-shelf from colder coastal waters, with cross-shelf exchange
+of warm waters of interest for sea level studies due to the potential
+to melt ice shelves and to allow more land ice to enter the ocean.
 
 <br> <br>
 
@@ -138,9 +138,6 @@ Southern Ocean.
 
 <li> What are the fundamental force balances active in the Southern
 Ocean, in particular relating to the role of bottom topography? </li>
-
-<li> By what mechanism is momentum from the surface winds transferred
-to the solid-earth bottom?  </li>
 
 <li> What are the dynamics of zonal jets in the Southern Ocean, and
 how do these jets impact on the ventilation of carbon, heat, and

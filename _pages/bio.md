@@ -113,14 +113,16 @@ was completed with a pencil, paper, and brain.
 Towards the end of my time as a PhD student, I decided to switch to
 geosciences with a focus on oceanography.  That decision led me to do
 a post-doc at Princeton in the geosciences department, working at GFDL
-under the mentorship of Kirk Bryan.  This 2+ years as a post-doc was
-both a time for research and a time for taking courses on topics that
-I had little exposure to while studying in a physics department: fluid
-mechanics, atmospheric and oceanic dynamics, climate dynamics. I got
-the hang of it after a while, sufficient to land a job as a federal
-scientist at GFDL starting spring 1996.  That transition also saw me
-getting married (now with one son, born 2006) and deciding to settle
-down in Princeton for the long haul.
+under the mentorship of <a
+href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)">Kirk
+Bryan<\a>.  This 2+ years as a post-doc was both a time for research
+and a time for taking courses on topics that I had little exposure to
+while studying in a physics department: fluid mechanics, atmospheric
+and oceanic dynamics, climate dynamics. I got the hang of it after a
+while, sufficient to land a job as a federal scientist at GFDL
+starting spring 1996.  That transition also saw me getting married
+(now with one son, born 2006) and deciding to settle down in Princeton
+for the long haul.
 
 
 </p>
@@ -157,9 +159,10 @@ concepts, tools, and prejudices engendered from studies of
 theoretical/mathematical physics, each of which guide my research and
 mentoring activities. Quite simply, computer simulations are
 constrained by the quality of human brains used to build models and
-analyze their output: As Jerry Mahlman emphasized when he hired me,
-software and hardware are of little use for science without brainware.
-
+analyze their output: As <a
+href="https://en.wikipedia.org/wiki/Jerry_D._Mahlman"> Jerry
+Mahlman<\a> emphasized when he hired me, software and hardware are of
+little use for science without brainware.
 
 <br> <br>
 
@@ -167,10 +170,10 @@ What drew me to theoretical sciences, in particular to physics, was a
 growing interest in general concepts and ideas rather than to
 particular solutions and technology.  Being able to solve an equation
 is important, and my training in applied maths, engineering, and
-numerical methods have certainly taught me many tricks for doing so.
-But what attracts me the most to physics is the quest for fundamental
-understanding of how Nature works, with that understanding generally
-transcending the details of a particular solution.
+numerical methods have certainly taught me many critical tools for
+doing so.  But what attracts me the most to physics is the quest for
+fundamental understanding of how Nature works, with that understanding
+generally transcending the details of a particular solution.
 
 </p>
 
@@ -191,8 +194,8 @@ Nearing the end of my PhD work in early 1993, I did plenty of "naval
 gazing" to decide my next step in life. Reflection led me to realize
 that my skills were both broad and deep, and that my passions drew me
 to use those skills to help understand the natural world that is
-directly experienced, including the ocean and atmosphere. I was
-inspired to connect with Dr. Mahlman who generously invited me to
+directly experienced, in particular the ocean and atmosphere. I was
+thus inspired to connect with Dr. Mahlman who generously invited me to
 visit GFDL to see if a "physics re-tread" could bring something to his
 wonderful lab.
 
@@ -239,8 +242,8 @@ offers a complement to my quest for an objective and scientific
 understanding of nature.  It does so by providing a system to
 organize, observe, and appreciate subjective experiences without the
 mind chatter of judgment and achievement. For me, meditation fosters
-an awareness of the way things are rather than the way we think they
-are.
+an awareness of the way things are rather than the way I may think
+they are.
 
 <br> <br>
 
@@ -257,5 +260,5 @@ gratitude, and compassion.
 <br> <br>
 
 <a href="/assets/pdfs/PersonalReflectionsMeditation.pdf">Here is a
-brief presentation on meditation</a> I gave as part of a workshop during
-Ocean Sciences 2020.
+brief presentation on meditation</a> I gave during the 2020 AGU Ocean
+Sciences in San Diego.

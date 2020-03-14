@@ -31,9 +31,9 @@ a selection of presentations on a variety of topics.
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/SouthernOcean/Griffies_SO_dynamics.pdf.pdf">
-Feb/Mar 2020: </a> Lectures given as part of Princeton University's
-GEO/AOS 521: Special Topics in Southern Ocean Science.  </li>
-
+A tutorial on Southern Ocean dynamics with a focus on conceptual
+models</a> Lectures given as part of Princeton University's GEO/AOS
+521: Special Topics in Southern Ocean Science.  </li>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTanalysis2019/Griffies_WMT_Sydney.pdf">

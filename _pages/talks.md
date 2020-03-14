@@ -30,7 +30,7 @@ a selection of presentations on a variety of topics.
 <ul>
 
 <li><a
-href="https://github.com/StephenGriffies/documents/blob/master/SouthernOcean/Griffies_SO_dynamics.pdf.pdf">
+href="https://github.com/StephenGriffies/documents/blob/master/SouthernOcean/Griffies_SO_dynamics.pdf">
 A tutorial on Southern Ocean dynamics with a focus on conceptual
 models, Feb/Mar 2020: </a> Lectures given as part of Princeton
 University GEO/AOS 521: Special Topics in Southern Ocean Science.

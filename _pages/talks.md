@@ -37,6 +37,13 @@ University GEO/AOS 521: Special Topics in Southern Ocean Science.
 </li>
 
 <li><a
+href="https://github.com/StephenGriffies/documents/blob/master/VerticalLagrangian/Griffies_Drakkar_2020.pdf">
+Vertical Lagrangian-remapping, generalized vertical coordinates, and
+spurious diapycnal mixing in ocean models, Feb 2020: </a> Lecture given
+at the COMMODORE workshop (Hamburg, Germany) and the DRAKKAR meeting
+(Grenoble, France).  </li>
+
+<li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTanalysis2019/Griffies_WMT_Sydney.pdf">
 Water mass transformation analysis in ocean models: some thoughts and
 questions , Jan 2019: </a> Talk given at the Water Mass Transformation

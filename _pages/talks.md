@@ -37,11 +37,12 @@ University GEO/AOS 521: Special Topics in Southern Ocean Science.
 </li>
 
 <li><a
-href="https://github.com/StephenGriffies/documents/blob/master/VerticalLagrangian/Griffies_Drakkar_2020.pdf">
+href="https://github.com/StephenGriffies/documents/blob/master/VerticalLagrangian/Griffies_CESM_Ocean_2020.pdf">
 Vertical Lagrangian-remapping, generalized vertical coordinates, and
 spurious diapycnal mixing in ocean models, Feb 2020: </a> Lecture given
-at the COMMODORE workshop (Hamburg, Germany) and the DRAKKAR meeting
-(Grenoble, France).  </li>
+at the COMMODORE workshop (Hamburg, Germany),  the DRAKKAR meeting
+(Grenoble, France), and CESM Ocean Model Working Group meeting
+(Boulder, Colorado).  </li>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTanalysis2019/Griffies_WMT_Sydney.pdf">

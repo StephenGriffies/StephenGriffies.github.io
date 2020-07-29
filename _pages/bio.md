@@ -263,6 +263,8 @@ gratitude, and compassion.
 presentation on meditation</a> I gave to the GFDL and Princeton AOS
 community on 29 July 2020, shared as a virtual event.
 
+<br>
+
 <a href="/assets/pdfs/PersonalReflectionsMeditation.pdf">Here is a
 brief presentation on meditation</a> I gave during the 2020 AGU Ocean
 Sciences in San Diego.

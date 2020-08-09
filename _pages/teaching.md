@@ -73,16 +73,17 @@ emerge from questions posed in a trusting and non-judgmental setting.
 
 <br> <br>
 
-<figure> <img src="/assets/images/research_group_jun2016.jpg">
-<figcaption>Research group June 2016: Adele Morrison, Henri Drake,
-Stephen Griffies, Carolina Dufour, and Alison Gray. </figcaption>
-</figure>
-
 <figure> <img src="/assets/images/research_group_jan2020.jpg">
 <figcaption>Research group January 2020: Benjamin Taylor, Hemant
 Khatri, Ruth
 Moorman, Graeme MacGilchrist, Houssam Yassin, and  
 Stephen Griffies.  </figcaption> </figure>
+
+<figure> <img src="/assets/images/research_group_jun2016.jpg">
+<figcaption>Research group June 2016: Adele Morrison, Henri Drake,
+Stephen Griffies, Carolina Dufour, and Alison Gray. </figcaption>
+</figure>
+
 
 <br> <br>
 

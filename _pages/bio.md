@@ -161,7 +161,7 @@ mentoring activities. Quite simply, computer simulations are
 constrained by the quality of human brains used to build models and
 analyze their output: As <a
 href="https://en.wikipedia.org/wiki/Jerry_D._Mahlman"> Jerry
-Mahlman<\a> emphasized when he hired me, software and hardware are of
+Mahlman</a> emphasized when he hired me, software and hardware are of
 little use for science without brainware.
 
 <br> <br>

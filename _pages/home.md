@@ -24,8 +24,9 @@ Laboratory,</a> with a focus on ocean fluid mechanics and the role of
 the ocean in the earth climate system.  I also teach and mentor as a
 faculty member in the <a href="https://aos.princeton.edu/">
 Atmospheric and Oceanic Sciences Program at Princeton University.
-
 </a>
+
+<br> <br>
 
 As part of my research, teaching, and mentoring, I aim to foster an
 inclusive, friendly, generous, patient, and non-judgmental space for
@@ -43,9 +44,6 @@ in this space celebrates diversity and nutures an inclusive community
 that is stronger, more resilient, and better able to produce
 fundamental scientific advances that are effectively communicated to
 the global community.
-
-</a>
-
 
 <br> <br>
 

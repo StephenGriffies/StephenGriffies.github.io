@@ -114,15 +114,15 @@ Towards the end of my time as a PhD student, I decided to switch to
 geosciences with a focus on oceanography.  That decision led me to do
 a post-doc at Princeton in the geosciences department, working at GFDL
 under the mentorship of <a
-href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)">Kirk
-Bryan<\a>.  This 2+ years as a post-doc was both a time for research
-and a time for taking courses on topics that I had little exposure to
-while studying in a physics department: fluid mechanics, atmospheric
-and oceanic dynamics, climate dynamics. I got the hang of it after a
-while, sufficient to land a job as a federal scientist at GFDL
-starting spring 1996.  That transition also saw me getting married
-(now with one son, born 2006) and deciding to settle down in Princeton
-for the long haul.
+href="https://en.wikipedia.org/wiki/Kirk_Bryan">Kirk Bryan<\a>.  This
+2+ years as a post-doc was both a time for research and a time for
+taking courses on topics that I had little exposure to while studying
+in a physics department: fluid mechanics, atmospheric and oceanic
+dynamics, climate dynamics. I got the hang of it after a while,
+sufficient to land a job as a federal scientist at GFDL starting
+spring 1996.  That transition also saw me getting married (now with
+one son, born 2006) and deciding to settle down in Princeton for the
+long haul.
 
 
 </p>

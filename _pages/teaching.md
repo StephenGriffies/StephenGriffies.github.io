@@ -32,7 +32,12 @@ written and spoken word.  I am particularly interested in revealing
 how concepts and tools from mathematical physics can be leveraged to
 deepen our understanding of ocean physical processes and circulation.
 
-<br> <br>
+</p>
+
+
+#  <center> Cultivating a safe space for learning and research</center>
+
+<p align="justify">
 
 As part of my research, teaching, and mentoring, I aim to foster an
 inclusive, friendly, generous, patient, and non-judgmental space for
@@ -41,13 +46,13 @@ space include equity, diversity and inclusion, each of which are
 intrinsically valuable and an essential feature of ethical research
 and education.  Cultivating this space supports spontaneous
 brainstorming and deep learning while genuinely appreciating
-contributions without regard to race, ethnicity, culture, religion,
-sexual orientation, gender identity and expression, physical ability,
-age, socioeconomic status or nationality.  Each participant in this
-space celebrates diversity and nutures an inclusive community that is
-stronger, more resilient, and better able to produce fundamental
-scientific advances that are effectively communicated to the global
-community.
+contributions from individuals without regard to race, ethnicity,
+culture, religion, sexual orientation, gender identity and expression,
+physical ability, age, socioeconomic status or nationality.  Each
+participant in this space celebrates diversity and nutures an
+inclusive community that is stronger, more resilient, and better able
+to produce fundamental scientific advances that are effectively
+communicated to the global community.
 
 </p>
 
@@ -57,7 +62,7 @@ community.
 
 I find it fulfilling to collaborate with scientists from across a
 broad spectrum of experience and expertise.  I particularly seek to
-mentor and collaborate with students, post-docs, and visiting
+mentor and collaborate with students, postdocs, and visiting
 researchers with strengths in mathematical physics and physical
 oceanography.  As a mentor, I aim to nurture a passion and creative
 talent for diving deep into the fundamentals of ocean physics and for

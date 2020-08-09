@@ -28,25 +28,6 @@ Atmospheric and Oceanic Sciences Program at Princeton University.
 
 <br> <br>
 
-As part of my research, teaching, and mentoring, I aim to foster an
-inclusive, friendly, generous, patient, and non-judgmental space for
-students, postdocs, and researchers.  Key principles that support this
-space include equity, diversity and inclusion, each of which are
-intrinsically valuable and an essential feature of ethical research
-and education.  Practicing these principles serves to magnify the
-educational and research potential of individuals, groups, and the
-global scientific endeavor.  Cultivating this space supports
-spontaneous brainstorming and deep learning while genuinely
-appreciating contributions without regard to race, ethnicity, culture,
-religion, sexual orientation, gender identity and expression, physical
-ability, age, socioeconomic status or nationality.  Each participant
-in this space celebrates diversity and nutures an inclusive community
-that is stronger, more resilient, and better able to produce
-fundamental scientific advances that are effectively communicated to
-the global community.
-
-<br> <br>
-
 You are invited to explore this website for an overview of my
 activities and for opportunities to work with me as a graduate student,
 post-doc, or visiting research scientist. 

@@ -32,6 +32,22 @@ written and spoken word.  I am particularly interested in revealing
 how concepts and tools from mathematical physics can be leveraged to
 deepen our understanding of ocean physical processes and circulation.
 
+<br> <br>
+
+As part of my research, teaching, and mentoring, I aim to foster an
+inclusive, friendly, generous, patient, and non-judgmental space for
+students, postdocs, and researchers.  Key principles that support this
+space include equity, diversity and inclusion, each of which are
+intrinsically valuable and an essential feature of ethical research
+and education.  Cultivating this space supports spontaneous
+brainstorming and deep learning while genuinely appreciating
+contributions without regard to race, ethnicity, culture, religion,
+sexual orientation, gender identity and expression, physical ability,
+age, socioeconomic status or nationality.  Each participant in this
+space celebrates diversity and nutures an inclusive community that is
+stronger, more resilient, and better able to produce fundamental
+scientific advances that are effectively communicated to the global
+community.
 
 </p>
 

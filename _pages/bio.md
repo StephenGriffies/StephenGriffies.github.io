@@ -114,7 +114,7 @@ Towards the end of my time as a PhD student, I decided to switch to
 geosciences with a focus on oceanography.  That decision led me to do
 a post-doc at Princeton in the geosciences department, working at GFDL
 under the mentorship of <a
-href="https://en.wikipedia.org/wiki/Kirk_Bryan">Kirk Bryan<\a>.  This
+href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)">Kirk Bryan</a>.  This
 2+ years as a post-doc was both a time for research and a time for
 taking courses on topics that I had little exposure to while studying
 in a physics department: fluid mechanics, atmospheric and oceanic

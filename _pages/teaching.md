@@ -51,6 +51,8 @@ work.  It is my sincere hope that practicing the above principles
 supports present and future generations in a way that helps to heal
 past injustices.
 
+<br> <br>
+
 Cultivating an open, accepting, and grateful research and learning
 space supports spontaneous brainstorming and learning while genuinely
 appreciating contributions from individuals without regard to race,

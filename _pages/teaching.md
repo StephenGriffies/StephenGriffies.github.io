@@ -35,7 +35,7 @@ deepen our understanding of ocean physical processes and circulation.
 </p>
 
 
-#  <center> Cultivating a safe space for learning and research</center>
+#  <center> Cultivating a safe and grateful space for learning and research</center>
 
 <p align="justify">
 
@@ -44,14 +44,21 @@ inclusive, friendly, generous, patient, and non-judgmental space for
 students, postdocs, and researchers.  Key principles that support this
 space include equity, diversity and inclusion, each of which are
 intrinsically valuable and an essential feature of ethical research
-and education.  Cultivating this space supports spontaneous
-brainstorming and deep learning while genuinely appreciating
-contributions from individuals without regard to race, ethnicity,
-culture, religion, sexual orientation, gender identity and expression,
-physical ability, age, socioeconomic status or nationality.  Each
-participant in this space celebrates diversity and nutures an
-inclusive community that is stronger, more resilient, and better able
-to produce fundamental scientific advances that are effectively
+and education.  I also acknowledge and honor past generations whose
+efforts, some of which were sadly garnered through force and
+oppresion, have led to the rewarding research environment that I now
+work.  It is my sincere hope that practicing the above principles
+supports present and future generations in a way that helps to heal
+past injustices.
+
+Cultivating an open, accepting, and grateful research and learning
+space supports spontaneous brainstorming and learning while genuinely
+appreciating contributions from individuals without regard to race,
+ethnicity, culture, religion, sexual orientation, gender identity and
+expression, physical ability, age, socioeconomic status or
+nationality.  Each participant in this space celebrates diversity and
+nurtures an inclusive and resilient community that is better able to
+produce fundamental scientific advances that are effectively
 communicated to the global community.
 
 </p>
@@ -61,15 +68,15 @@ communicated to the global community.
 <p align="justify">
 
 I find it fulfilling to collaborate with scientists from across a
-broad spectrum of experience and expertise.  I particularly seek to
-mentor and collaborate with students, postdocs, and visiting
-researchers with strengths in mathematical physics and physical
-oceanography.  As a mentor, I aim to nurture a passion and creative
-talent for diving deep into the fundamentals of ocean physics and for
+broad spectrum of experience, expertise, and backgrounds.  I
+particularly seek to mentor and collaborate with students, postdocs,
+and visiting researchers with passions for mathematical physics and
+physical oceanography.  As a mentor, I aim to nurture a talent for
+diving deep into the fundamentals of ocean physics and for creatively
 uncovering their impacts on ocean circulation and climate.  I support
-open and honest relations among those I work with, thus aiming to
-foster an environment where scientific understanding and insights can
-emerge from questions posed in a trusting and non-judgmental setting.
+open and honest working relations and aim for an environment where
+scientific understanding and insights emerge from questions posed in a
+trusting and non-judgmental space.
 
 <br> <br>
 

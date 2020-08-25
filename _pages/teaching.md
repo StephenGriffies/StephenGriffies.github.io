@@ -46,7 +46,7 @@ space include equity, diversity and inclusion, each of which are
 intrinsically valuable and an essential feature of ethical research
 and education.  I also acknowledge and honor past generations whose
 efforts, some of which were sadly garnered through force and
-oppresion, have led to the rewarding research environment that I now
+oppression, have led to the rewarding research environment that I now
 work.  It is my sincere hope that practicing the above principles
 supports present and future generations in a way that helps to heal
 past injustices.

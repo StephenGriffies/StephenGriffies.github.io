@@ -80,58 +80,62 @@ samples from this work.
 
 <ul>
 
-<li>Developmenets in Ocean Climate Modelling:
-<a href="/assets/pdfs/WGOMD_review_paper.pdf">Griffies
-  et al (2000) </a>
-</li>
-
-<li>Spurious diapycnal mixing associated with advection in a
-z-coordinate ocean model: <a
-href="https://journals.ametsoc.org/doi/10.1175/1520-0493%282000%29128%3C0538%3ASDMAWA%3E2.0.CO%3B2">Griffies,
-Pacanowski, and Hallberg (2000) </a> </li>
-
-<li>Tracer conservation with an explicit free surface method for
-z-coordinate ocean models: <a
-href="https://journals.ametsoc.org/doi/10.1175/1520-0493%282001%29129%3C1081%3ATCWAEF%3E2.0.CO%3B2">Griffies
-et al (2001) </a> </li>
-
-<li>Fundamentals of Ocean Climate Models (book):
-<a href="https://press.princeton.edu/titles/7797.html">Griffies (2005) </a>
-</li>
-
-<li>Formulation of an ocean model for global climate simulations: <a
-href="https://www.ocean-sci.net/1/45/2005/">Griffies et al (2005) </a>
-</li>
-
-<li>Formulating the equations of an ocean model: <a
-href="/assets/pdfs/CH18_griffies_adcroft.pdf">Griffies and Adcroft (2008) </a>
-</li>
-
-<li>Science of Ocean Climate Models: <a
-href="/assets/pdfs/Griffies_Encyclopedia_of_Ocean_Science.pdf">
-Griffies (2009) </a>
-</li>
-  
-<li>Problems and Prospects in Large-Scale Ocean Circulation Models: <a
-href="http://www.oceanobs09.net/proceedings/cwp/Griffies-OceanObs09.cwp.38.pdf">
-Griffies et al (2010) </a>
-</li>
-  
-<li>Ocean circulation models and modelling: <a
-href="https://www.elsevier.com/books/ocean-circulation-and-climate/siedler/978-0-12-391851-2">
-Griffies and Treguier (2013) </a>
-</li>
-
-<li>Vertical resolution of baroclinic modes in global ocean models: <a
-href="https://www.sciencedirect.com/science/article/abs/pii/S1463500317300434">
-Stewart et al (2017) </a>
-</li>
+<li>A Primer on the Vertical Lagrangian-Remap Method in Ocean Models
+Based on Finite Volume Generalized Vertical Coordinates: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001954">
+Griffies, Adcroft, and Hallberg (2020) </a> </li>
 
 <li>Relating the diffusive salt flux just below the ocean surface to
 boundary freshwater and salt fluxes: <a
 href="https://journals.ametsoc.org/doi/full/10.1175/JPO-D-19-0037.1">
 Nurser and Griffies (2019) </a> </li>
 
+<li>Vertical resolution of baroclinic modes in global ocean models: <a
+href="https://www.sciencedirect.com/science/article/abs/pii/S1463500317300434">
+Stewart et al (2017) </a>
+</li>
+
+<li>Ocean circulation models and modelling: <a
+href="https://www.elsevier.com/books/ocean-circulation-and-climate/siedler/978-0-12-391851-2">
+Griffies and Treguier (2013) </a>
+</li>
+  
+<li>Problems and Prospects in Large-Scale Ocean Circulation Models: <a
+href="http://www.oceanobs09.net/proceedings/cwp/Griffies-OceanObs09.cwp.38.pdf">
+Griffies et al (2010) </a>
+</li>
+
+<li>Science of Ocean Climate Models: <a
+href="/assets/pdfs/Griffies_Encyclopedia_of_Ocean_Science.pdf">
+Griffies (2009) </a>
+</li>
+
+<li>Formulating the equations of an ocean model: <a
+href="/assets/pdfs/CH18_griffies_adcroft.pdf">Griffies and Adcroft (2008) </a>
+</li>
+
+<li>Formulation of an ocean model for global climate simulations: <a
+href="https://www.ocean-sci.net/1/45/2005/">Griffies et al (2005) </a>
+</li>
+
+<li>Fundamentals of Ocean Climate Models (book):
+<a href="https://press.princeton.edu/titles/7797.html">Griffies (2004) </a>
+</li>
+
+<li>Tracer conservation with an explicit free surface method for
+z-coordinate ocean models: <a
+href="https://journals.ametsoc.org/doi/10.1175/1520-0493%282001%29129%3C1081%3ATCWAEF%3E2.0.CO%3B2">Griffies
+et al (2001) </a> </li>
+
+<li>Spurious diapycnal mixing associated with advection in a
+z-coordinate ocean model: <a
+href="https://journals.ametsoc.org/doi/10.1175/1520-0493%282000%29128%3C0538%3ASDMAWA%3E2.0.CO%3B2">Griffies,
+Pacanowski, and Hallberg (2000) </a> </li>
+
+<li>Developmenets in Ocean Climate Modelling:
+<a href="/assets/pdfs/WGOMD_review_paper.pdf">Griffies
+  et al (2000) </a>
+</li>
 
 </ul>
 

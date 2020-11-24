@@ -30,6 +30,13 @@ a selection of presentations on a variety of topics.
 <ul>
 
 <li><a
+href="https://github.com/StephenGriffies/documents/blob/master/WMTtutorial/Griffies_WMT_tutorial.pdf">
+A tutorial on some of the technical aspects of water mass
+transformation analysis in ocean models, 2020: </a> Talk given to
+colleagues at GFDL and Princeton developing tools of use for water
+mass transformation analysis. </li>
+
+<li><a
 href="https://github.com/StephenGriffies/documents/blob/master/SeaLevel/Griffies_GISS_sealevel_presentation.pdf">
 A survey talk on some sea level research I have played a role in since
 roughly 2010 : </a> Lecture given on 09 June 2020 as part of the

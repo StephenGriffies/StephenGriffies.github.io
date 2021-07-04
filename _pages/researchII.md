@@ -10,8 +10,8 @@ toc_icon: "sun"
 excerpt: "Maths + Physics + Analysis + Iterate"
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/kuroshio_lavd.jpg
-  caption: "Lagrangian averaged vorticity deviation in the west Pacific from CM2.6 (courtesy N. Tarshish)"
+  overlay_image: /assets/images/CM2.6_SPEED_ICE_2000528_NA_MILLER.png
+  caption: "Ocean current speed in the North Atlantic from CM2.6 (courtesy C. Dufour)"
 ---
 
 

@@ -238,7 +238,7 @@ development after <a href="https://mom-ocean.github.io/"> MOM5</a> in
 early 2013, I remain engaged in a variety of scientific activities
 that make use of this code, most notably the <a
 href="http://cosima.org.au/"> COSIMA (Consortium for Ocean-Sea Ice
-Modelling in Australia)</a> and the <a href="/research/"> CM2.6
+Modelling in Australia)</a> and the <a href="https://scholar.google.com/citations?user=-6YBFHYAAAAJ&hl=en"> CM2.6
 project.</a> Both projects pursue studies of global climate at model
 resolutions that admit a rich field of mesoscale eddies.
 

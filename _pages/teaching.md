@@ -101,6 +101,15 @@ GFDL and Princeton University.
 
 <ul>
 
+<li><a href="https://www.linkedin.com/in/rachel-qing-pang-84b0361ab">
+Rachel Pang (Princeton undergraduate student 2021) </a> </li>
+
+<li><a href="https://scholar.princeton.edu/mmfaulkner/home">
+Marta Faulkner (PhD student 2021-present) </a> </li>
+
+<li><a href="https://scholar.google.com/citations?user=JfUiklYAAAAJ&hl=en">
+Jan-Erik Tesdal (postdoc 2020-present) </a> </li>
+
 <li><a href="https://github.com/ruth-moorman">
 Ruth Moorman (pre-doc 2020) </a> </li>
 
@@ -108,13 +117,13 @@ Ruth Moorman (pre-doc 2020) </a> </li>
 Benjamin Taylor (pre-doc 2019-2020) </a> </li>
 
 <li><a href="https://hmkhatri.github.io">
-Hemant Khatri (post-doc 2019-present) </a> </li>
+Hemant Khatri (postdoc 2019-present) </a> </li>
 
 <li><a href="http://www.hajim.rochester.edu/me/people/faculty/aluie_hussein/index.html">
 Hussein Aluie (visiting professor 2019) </a> </li>
 
 <li><a href="https://gmacgilchrist.github.io/">
-Graeme MacGilchrist (post-doc 2018-present) </a> </li>
+Graeme MacGilchrist (postdoc 2018-present) </a> </li>
 
 <li><a href="https://aos.princeton.edu/people/houssam-yassin">
 Houssam Yassin (PhD student 2017-present) </a> </li>
@@ -126,7 +135,7 @@ Laure Zanna (visiting professor 2017-2018) </a> </li>
 Jianjun Yin (visiting professor 2017) </a> </li>
 
 <li><a href="https://scholar.princeton.edu/breichl/bio">
-Brandon Reichl (post-doc 2016-2019) </a> </li>
+Brandon Reichl (postdoc 2016-2019) </a> </li>
 
 <li><a href="http://romps.berkeley.edu/people.html">
 Nathaniel Tarshish (pre-doc 2016-2018) </a> </li>
@@ -135,28 +144,28 @@ Nathaniel Tarshish (pre-doc 2016-2018) </a> </li>
 Henri Drake (pre-doc 2015-2016) </a> </li>
 
 <li><a href="https://www.ocean.washington.edu/home/Alison%20Gray">
-Alison Gray (post-doc 2014-2017) </a> </li>
+Alison Gray (postdoc 2014-2017) </a> </li>
 
 <li><a href="https://www.geomar.de/en/mitarbeiter/fb2/bm/ifrenger">
-Ivy Frenger (post-doc 2014-2015) </a> </li>
+Ivy Frenger (postdoc 2014-2015) </a> </li>
 
 <li><a href="http://rses.anu.edu.au/people/adele-morrison">
-Adele Morrison (post-doc 2013-2016) </a> </li>
+Adele Morrison (postdoc 2013-2016) </a> </li>
 
 <li><a href="http://web.meteo.mcgill.ca/cdufour/">
-Carolina Dufour (post-doc 2012-2017) </a> </li>
+Carolina Dufour (postdoc 2012-2017) </a> </li>
 
 <li><a href="https://www.researchgate.net/profile/Yalin_Fan">
-Yalin Fan (post-doc 2012-2013) </a> </li>
+Yalin Fan (postdoc 2012-2013) </a> </li>
 
 <li><a href="https://www.uaf.edu/cfos/people/faculty/detail/index.xml?id=81">
-Harper Simmons (post-doc 2001-2002) </a> </li>
+Harper Simmons (postdoc 2001-2002) </a> </li>
 
 <li><a href="https://www.awi.de/en/about-us/organisation/staff/ruediger-gerdes.html">
 Rudiger Gerdes (visiting professor 2003-2004) </a> </li>
 
 <li><a href="https://cims.nyu.edu/~shafer/">
-Shafer Smith  (post-doc 1999-2002) </a> </li>
+Shafer Smith  (postdoc 1999-2002) </a> </li>
 
 </ul>
 

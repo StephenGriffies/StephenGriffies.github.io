@@ -94,7 +94,7 @@ Stephen Griffies, Carolina Dufour, and Alison Gray. </figcaption>
 </figure>
 
 
-<br> <br>
+<br>
 
 Here is a list of past and present people I have mentored/hosted at
 GFDL and Princeton University.

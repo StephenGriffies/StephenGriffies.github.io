@@ -102,7 +102,7 @@ GFDL and Princeton University.
 <ul>
 
 <li><a href="https://www.linkedin.com/in/rachel-qing-pang-84b0361ab">
-Rachel Pang (Princeton undergraduate student 2021) </a> </li>
+Rachel Pang (Princeton undergrad student 2021) </a> </li>
 
 <li><a href="https://scholar.princeton.edu/mmfaulkner/home">
 Marta Faulkner (PhD student 2021-present) </a> </li>

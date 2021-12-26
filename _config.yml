@@ -28,11 +28,16 @@ kramdown:
   enable_coderay: false
 
 
-theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes"
 #theme: jekyll-theme-cayman
+#remote_theme: "mmistakes/minimal-mistakes"
+
+theme: jekyll-theme-cayman
+#remote_theme: "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 #theme   : minima
+minimal_mistakes_skin: "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

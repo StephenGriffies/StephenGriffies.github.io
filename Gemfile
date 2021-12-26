@@ -11,6 +11,15 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.7.4"
 gem "github-pages", group: :jekyll_plugins
 
+# from the web: need to regress to earlier Farday to get minimal-mistakes to work properly
+# may also need to execute bundle update faraday to regress the version  
+gem 'faraday', '~> 0.17'  # lock major version
+
+gem 'nokogiri'
+gem 'rack', '~> 2.0.1'
+gem 'rspec'
+
+
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 gem "jekyll-theme-cayman"

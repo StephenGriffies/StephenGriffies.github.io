@@ -27,8 +27,9 @@ a bit of my personal story.
 <p align="justify">
 
 In one form or another, I was a formal student until age 33.  Today I
-still go to school, only now as a research scientist and lecturer.
-Alas, education never stops, for the teacher is the ultimate student.
+still go to school, only now as a research scientist, lecturer, and
+sometimes student.  Alas, education never stops, for the teacher is
+the perpetual student.
 
 </p>
 
@@ -154,8 +155,8 @@ My "paper and pencil" experience as a PhD student is in apparent
 contrast to much of my ongoing research in which computer simulations
 play a central role.  However, that perspective is not the full story.
 Even though I have contributed research and development energies to
-numerical codes and big climate models, I firmly maintain the
-concepts, tools, and prejudices engendered from studies of
+numerical codes and big climate models, I firmly retain the concepts,
+tools, and prejudices engendered from studies of
 theoretical/mathematical physics, each of which guide my research and
 mentoring activities. Quite simply, computer simulations are
 constrained by the quality of human brains used to build models and
@@ -185,7 +186,7 @@ On or around 1990, Jerry Mahlman, then director of GFDL, gave a talk
 at UPenn physics concerning the science of climate warming.  I recall
 putting his name on a note in my desk after the talk, along with
 "interesting stuff".  I then returned to the matters at hand, which
-involved completing my PhD and getting a post-doc.
+involved completing my PhD and getting a postdoc.
 
 
 <br> <br>
@@ -202,7 +203,8 @@ wonderful lab.
 <br> <br>
 
 I visited GFDL a handfull of times during the spring of 1993, meeting
-GFDL giants like Suki Manabe, Isaac Held, Kiku Miyakoda, Kurihara,
+GFDL giants like Suki Manabe (who won= the 2021 Nobel Prize in physics
+for his work on global warming), Isaac Held, Kiku Miyakoda, Kurihara,
 Isidoro Orlanski, and Kirk Bryan.  I was particularly attracted to the
 idea of working with Kirk Bryan, the father of numerical oceanography.
 Fortunately, we developed a chemistry and he supported my application
@@ -218,15 +220,15 @@ initiation into oceanography. I was definitely hooked!
 
 <br> <br>
 
-I have often pondered if it was happenstance or destiny for me to
-transition from theoretical physics to oceanography. Who knows?  One
-reason perhaps originates from many years living at or near the
-seashore or near lakes and rivers.  My father was in the air force, so
-my family moved every three to four years while growing up: Texas,
-Louisiana, Hawaii, California, Washington State, and the Mississippi
-Coast.  Bodies of water, and in particular the ocean, became part of
-my DNA.  From this perspective is seems natural that my heart would
-lead my head to do research in ocean science.
+I have often pondered how inevitable it was for me to transition from
+theoretical physics to oceanography. Who knows?  One reason perhaps
+originates from many years living at or near the seashore or near
+lakes and rivers.  My father was in the US Air Force, so my family
+moved every three to four years while growing up: Texas, Louisiana,
+Hawaii, California, Washington State, and the Mississippi Coast.
+Bodies of water, and in particular the ocean, became part of my DNA.
+From this perspective is seems natural that my heart would lead my
+head to do research in ocean science.
 
 
 </p>

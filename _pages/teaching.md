@@ -183,11 +183,10 @@ physical oceanography and climate. I teach the first semester graduate
 GFM course as part of Princeton University's AOS program. The course
 develops mathematics, kinematics, tracer dynamics, momentum dynamics,
 and vorticity dynamics relevant for understanding and describing the
-physics of rotating and stratified fluids.  I make use of lecture
-notes <a href="/assets/pdfs/GFM_lectures.pdf">
-(Griffies, 2021)</a> as well as textbooks such as that from <a
-href="https://www.cambridge.org/core/books/atmospheric-and-oceanic-fluid-dynamics/41379BDDC4257CBE11143C466F6428A4">Vallis
-(2017).</a>
+physics of rotating and stratified fluids, and I make use of the
+following lecture
+notes/book <a href="/assets/pdfs/GFM_lectures.pdf">
+(Griffies, 2022)</a>.
 
 </p>
 

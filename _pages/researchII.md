@@ -46,30 +46,19 @@ of which concern the Southern Ocean.
 
 <ul>
 
-<li>The role of mesoscale eddies in the rectification of the Southern
-Ocean response to climate change: <a
-href="https://journals.ametsoc.org/doi/10.1175/2010JPO4353.1"> Farneti
-et al (2010) </a> </li>
+<li>On the role of the Antarctic Slope Front on the occurrence of the
+Weddell Sea polynya under climate change:
+<a href="https://journals.ametsoc.org/view/journals/clim/34/7/JCLI-D-20-0069.1.xml">
+Lockwood et al (2021) </a>  </li>
 
-<li> Rapid subsurface warming and circulation changes of Antarctic coastal waters by poleward shifting winds
-<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL060613">
-Spence et al (2014) </a> </li>
+<li>Rapid mixing and exchange of deep-ocean waters in an abyssal boundary current:
+<a href="https://www.pnas.org/content/116/27/13233">
+Naveira Garabato et al (2019) </a>  </li>
 
-<li>Role of mesoscale eddies in cross-frontal transport of heat and
-biogeochemical tracers in the Southern Ocean: <a
-href="https://journals.ametsoc.org/doi/10.1175/JPO-D-14-0240.1">Dufour
-et al (2015) </a> </li>
-
-<li>An assessment of Antarctic Circumpolar Current and Southern Ocean
-  Meridional Overturning Circulation sensitivity during 1958--2007 in
-  a suite of inter-annual CORE-II simulations: <a
-  href="https://www.sciencedirect.com/science/article/pii/S1463500315001183">Farneti
-  et al (2015) </a> </li>
-
-<li>Mechanisms of Southern Ocean heat uptake and transport in a global
-eddying climate model:
-<a href="https://journals.ametsoc.org/doi/10.1175/JPO-D-14-0240.1">
-Morrison et al (2016) </a>  </li>
+<li>Lagrangian timescales of Southern Ocean upwelling in a hierarchy
+of model resolutions:
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076045">
+Drake et al (2018) </a>  </li>
 
 <li>Localized rapid warming of West Antarctic Peninsula subsurface waters by remote winds:
 <a href="https://www.nature.com/articles/nclimate3335">
@@ -90,10 +79,31 @@ dense water overflows:
 <a href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0586.1">
 Dufour et al (2017) </a>  </li>
 
-<li>Lagrangian timescales of Southern Ocean upwelling in a hierarchy
-of model resolutions:
-<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076045">
-Drake et al (2018) </a>  </li>
+<li>Mechanisms of Southern Ocean heat uptake and transport in a global
+eddying climate model:
+<a href="https://journals.ametsoc.org/doi/10.1175/JPO-D-14-0240.1">
+Morrison et al (2016) </a>  </li>
+
+<li>Role of mesoscale eddies in cross-frontal transport of heat and
+biogeochemical tracers in the Southern Ocean: <a
+href="https://journals.ametsoc.org/doi/10.1175/JPO-D-14-0240.1">Dufour
+et al (2015) </a> </li>
+
+<li>An assessment of Antarctic Circumpolar Current and Southern Ocean
+  Meridional Overturning Circulation sensitivity during 1958--2007 in
+  a suite of inter-annual CORE-II simulations: <a
+  href="https://www.sciencedirect.com/science/article/pii/S1463500315001183">Farneti
+  et al (2015) </a> </li>
+
+<li> Rapid subsurface warming and circulation changes of Antarctic coastal waters by poleward shifting winds
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL060613">
+Spence et al (2014) </a> </li>
+
+<li>The role of mesoscale eddies in the rectification of the Southern
+Ocean response to climate change: <a
+href="https://journals.ametsoc.org/doi/10.1175/2010JPO4353.1"> Farneti
+et al (2010) </a> </li>
+
 
 </ul>
 
@@ -194,10 +204,9 @@ these questions.
 
 <ul>
 
-<li>A linear thermohaline oscillator driven by stochastic atmospheric
-forcing:
-<a href="https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281995%29008%3C2440%3AALTODB%3E2.0.CO%3B2">
-Griffies and Tziperman (1995) </a> </li>
+<li>A conceptual framework for predictability studies:
+<a href="https://journals.ametsoc.org/doi/10.1175/1520-0442%281999%29012%3C3133%3AACFFPS%3E2.0.CO%3B2">
+Schneider and Griffies (1999) </a>  </li>
 
 <li>A predictability study of simulated North Atlantic multidecadal
 variability:
@@ -208,9 +217,10 @@ Griffies and Bryan (1997) </a> </li>
 <a href="http://science.sciencemag.org/content/275/5297/181.full">
 Griffies and Bryan (1997) </a> </li>
 
-<li>A conceptual framework for predictability studies:
-<a href="https://journals.ametsoc.org/doi/10.1175/1520-0442%281999%29012%3C3133%3AACFFPS%3E2.0.CO%3B2">
-Schneider and Griffies (1999) </a>  </li>
+<li>A linear thermohaline oscillator driven by stochastic atmospheric
+forcing:
+<a href="https://journals.ametsoc.org/doi/abs/10.1175/1520-0442%281995%29008%3C2440%3AALTODB%3E2.0.CO%3B2">
+Griffies and Tziperman (1995) </a> </li>
 
 </ul>
 

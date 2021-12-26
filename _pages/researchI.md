@@ -45,18 +45,18 @@ nutrients, and biota throughout the oceans.
 
 <ul>
 
-<li>The catalytic role of beta effect in barotropization processes: <a
-href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/catalytic-role-of-the-beta-effect-in-barotropization-processes/1CE5FB2BAB1ADD017BA20FEF097FB0FE ">
-Venaille, Vallis, Griffies (2013) </a> </li>
+<li>On the discrete normal modes of quasigeostrophic theory:
+<a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-21-0199.1/JPO-D-21-0199.1.xml">
+Yassin and Griffies  (2021) </a></li>
 
-<li>Impacts on ocean heat from transient mesoscale eddies in a
-  hierarchy of climate models: <a
-  href="https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-14-00353.1">Griffies
-  et al (2015) </a></li>
+<li>Kinetic energy transfers between mesoscale and submesoscale motions:
+<a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-21-0099.1/JPO-D-21-0099.1.xml">
+Naveira Garabato et al  (2021) </a></li>
 
-<li>Enhanced warming of the Northwest Atlantic Ocean under climate change: <a
-href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011346">
-Saba et al (2016) </a></li>
+<li>Role of mixed-layer instabilities in the seasonal evolution of eddy
+kinetic energy spectra in a global submesoscale permitting simulation:
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021GL094777">
+Khatri et al  (2021) </a></li>
 
 <li>Roles of the ocean mesoscale in the horizontal supply of mass,
 heat, carbon and nutrients to the Northern Hemisphere subtropical
@@ -73,6 +73,19 @@ Tarshish et al (2018) </a></li>
 kinetic energy variability in GFDL’s CM2-O model hierarchy:
 <a href="https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0024.1">
 O'Rourke, Arbic, and Griffies (2018) </a></li>
+
+<li>Enhanced warming of the Northwest Atlantic Ocean under climate change: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011346">
+Saba et al (2016) </a></li>
+
+<li>Impacts on ocean heat from transient mesoscale eddies in a
+  hierarchy of climate models: <a
+  href="https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-14-00353.1">Griffies
+  et al (2015) </a></li>
+
+<li>The catalytic role of beta effect in barotropization processes: <a
+href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/catalytic-role-of-the-beta-effect-in-barotropization-processes/1CE5FB2BAB1ADD017BA20FEF097FB0FE ">
+Venaille, Vallis, Griffies (2013) </a> </li>
 
 </ul>
 
@@ -115,17 +128,15 @@ submesoscale?  With gravity waves? </li>
 <li> How much diapycnal mixing is associated with mesoscale
 eddies?</li>
 
-<li> How much material transport is associated with coherent mesoscale
-eddies?  Is that transport robust in the presence of submesoscale
-processes and gravity waves? </li>
-
 <li> How do mesoscale eddies vertically transport heat, carbon, and
 other tracers, and what model resolution is required to accurately
 represent this transport?  </li>
 
 <li> How do we accurately parameterize transport from mesoscale eddies
 for use in climate model simulations?  Is an energetic framework
-effective for formulating closures? </li>
+effective for formulating closures?  What about coarse-graining and
+methods used in physics associated with non-equilibrium thermodynamics
+and the renormalization group? </li>
 
 
 </ul>
@@ -159,14 +170,31 @@ century and beyond.
 
 <ul>
 
-<li>Spatial Variability of Sea-Level Rise in 21st Century Projections: <a
-href="http://www.bobkopp.net/papers/pubs/Kopp2010_postprint-sealevel.pdf">Yin,
-Griffies, and Stouffer (2010) </a> </li>
+<li>Response of Storm-related Extreme Sea Level along the US Atlantic
+Coast to Combined Weather and Climate Forcing: <a
+href="https://doi.org/10.1175/JCLI-D-19-0551.1">Yin, Griffies, et
+al. (2020) </a> </li>
 
-<li>The impact of Greenland melt on regional sea level: a preliminary
-comparison of dynamic and static equilibrium effects: <a
-href="http://www.bobkopp.net/papers/pubs/Kopp2010_postprint-sealevel.pdf">Kopp
-et al (2010) </a> </li>
+<li>Concepts and Terminology for Sea Level: Mean, Variability and Change, Both Local and Global: <a
+href="https://link.springer.com/article/10.1007/s10712-019-09525-z">Gregory, Griffies, et al  (2019) </a> </li>
+
+<li>Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast: <a
+href="https://link.springer.com/article/10.1007/s10712-019-09535-x">Hughes,
+Fukomori, Griffies, et al. (2019) </a> </li>
+
+<li>Multi-decadal weakening of Indian Ocean summer monsoon circulation
+induces an increasing northern Indian Ocean sea level: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017GL074706">Swapna
+et al (2017) </a> </li>
+
+<li>An assessment of global and regional sea level for years 1993–2007
+in a suite of interannual CORE-II simulations: <a
+href="/assets/pdfs/Griffies_etal_COREsealevel.pdf">Griffies et al
+(2015) </a> </li>
+
+<li>Sea level changes forced by Southern Ocean winds: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL058104">Frankcombe
+et al (2013) </a> </li>
 
 <li>Physical processes that impact the evolution of global mean sea
 level in ocean climate models: <a
@@ -178,31 +206,15 @@ scenarios: <a
 href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JC007733">Lorbacher
 et al, (2012) </a> </li>
 
-<li>Sea level changes forced by Southern Ocean winds: <a
-href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL058104">Frankcombe
-et al (2013) </a> </li>
+<li>Spatial Variability of Sea-Level Rise in 21st Century Projections: <a
+href="http://www.bobkopp.net/papers/pubs/Kopp2010_postprint-sealevel.pdf">Yin,
+Griffies, and Stouffer (2010) </a> </li>
 
-<li>An assessment of global and regional sea level for years 1993–2007
-in a suite of interannual CORE-II simulations: <a
-href="/assets/pdfs/Griffies_etal_COREsealevel.pdf">Griffies et al
-(2015) </a> </li>
+<li>The impact of Greenland melt on regional sea level: a preliminary
+comparison of dynamic and static equilibrium effects: <a
+href="http://www.bobkopp.net/papers/pubs/Kopp2010_postprint-sealevel.pdf">Kopp
+et al (2010) </a> </li>
 
-<li>Multi-decadal weakening of Indian Ocean summer monsoon circulation
-induces an increasing northern Indian Ocean sea level: <a
-href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1002/2017GL074706">Swapna
-et al (2017) </a> </li>
-
-<li>Concepts and Terminology for Sea Level: Mean, Variability and Change, Both Local and Global: <a
-href="https://link.springer.com/article/10.1007/s10712-019-09525-z">Gregory, Griffies, et al  (2019) </a> </li>
-
-<li>Sea Level and the Role of Coastal Trapped Waves in Mediating the Influence of the Open Ocean on the Coast: <a
-href="https://link.springer.com/article/10.1007/s10712-019-09535-x">Hughes,
-Fukomori, Griffies, et al. (2019) </a> </li>
-
-<li>Response of Storm-related Extreme Sea Level along the US Atlantic
-Coast to Combined Weather and Climate Forcing: <a
-href="https://doi.org/10.1175/JCLI-D-19-0551.1">Yin, Griffies, et
-al. (2020) </a> </li>
 
 </ul>
 

@@ -151,9 +151,10 @@ American Geophysical Union (AGU)</a>. I am thus quite proud of my role
 at <a
 href="https://agupubs.onlinelibrary.wiley.com/hub/journal/19422466/editorial-board/editorial-board">
 the Journal of Advances in Modeling the Earth System (JAMES),</a>
-serving as editor in charge of the oceans and cryosphere portfolio.
-JAMES is an open access journal that aims to extend the science going
-into and coming from models. I offer <a
+serving as editor-in-chief as well as the topic editor in charge of
+the oceans and cryosphere portfolio.  JAMES is an open access journal
+that aims to extend the science going into and coming from models. I
+offer <a
 href="https://github.com/StephenGriffies/documents/blob/master/ElementsOfStyle/Griffies_Elements_of_Style_journal_articles.pdf">
 in this document (writen while I was an editor at the journal Ocean
 Modelling) </a> for specific writing points gleaned from being an

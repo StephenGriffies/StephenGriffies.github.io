@@ -80,6 +80,16 @@ samples from this work.
 
 <ul>
 
+<li>The geography of numerical mixing in a suite of global ocean models: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020MS002333">
+Holmes  (2021) </a> </li>
+
+<li>The interpretation of temperature and salinity variables in numerical
+ocean model output, and the calculation of heat fluxes and heat
+content: <a
+href="https://gmd.copernicus.org/articles/14/6445/2021/">
+McDougall et al (2021) </a> </li>
+
 <li>A Primer on the Vertical Lagrangian-Remap Method in Ocean Models
 Based on Finite Volume Generalized Vertical Coordinates: <a
 href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019MS001954">
@@ -163,16 +173,53 @@ oceanography. It is important since eddy parameterizations, from the
 planetary boundary layer to the ocean interior to the bottom boundary
 layer, have a huge role in determining the performance of ocean
 climate models.  It is challenging since it draws upon a wide variety
-of physical and mathematical skill sets. I have an ongoing interest in
+of physical and mathematical skills. I have an ongoing interest in
 ocean eddy parameterization questions, and am particularly motivated
 by some exciting theoretical/modeling and observational studies
 conducted during recent years. This interest has led me to play a role
 in the NSF/NOAA funded <a href="https://ocean-eddy-cpt.github.io/">
 Climate Process Team on ocean transport and eddy energy.</a> Notably,
 there are many unsolved questions looking for energetic students and
-post-docs to help crack!
+postdocs to help unravel!
 
 <ul>
+
+<li>A general-coordinate, non-local neutral diffusion operator: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001992">Shao
+et al (2020) </a> </li>
+
+<li>Comparing ocean surface boundary vertical mixing schemes including
+Langmuir turbulence: <a
+href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001810">Li
+et al (2019) </a> </li>
+  
+<li>The KPP boundary layer scheme for the ocean: revisiting its
+formulation and benchmarking one-dimensional simulations relative to
+LES:
+<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001336">Van
+  Roekel et al (2018) </a>
+  </li>
+
+<li>On geometrical aspects of interior ocean mixing: 
+<a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-13-0270.1">
+  McDougall, Groeskamp, and Griffies  (2014) </a>
+  </li>
+
+<li>Impacts of parameterized Langmuir turbulence and non-breaking
+waves on global climate simulations: <a
+href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-13-00583.1"> Fan
+and Griffies (2014) </a> </li>
+
+<li>A boundary-value problem for the parameterized mesoscale eddy transport:
+<a  href="https://www.sciencedirect.com/science/article/pii/S1463500310000065">Ferrari,
+  Griffies, Nurser, and Vallis (2010) </a>
+  </li>
+
+<li>Biharmonic friction with a Smagorinsky-like viscosity for use in large-scale eddy-permitting ocean models:
+<a
+  href="https://journals.ametsoc.org/doi/full/10.1175/1520-0493%282000%29128%3C2935%3ABFWASL%3E2.0.CO%3B2">Griffies
+  and Hallberg  (2000) </a>
+</li>
 
 <li>Isoneutral diffusion in a z-coordinate ocean model: 
 <a
@@ -186,39 +233,6 @@ post-docs to help crack!
   (1998) </a>
 </li>
 
-<li>Biharmonic friction with a Smagorinsky-like viscosity for use in large-scale eddy-permitting ocean models:
-<a
-  href="https://journals.ametsoc.org/doi/full/10.1175/1520-0493%282000%29128%3C2935%3ABFWASL%3E2.0.CO%3B2">Griffies
-  and Hallberg  (2000) </a>
-</li>
-
-<li>A boundary-value problem for the parameterized mesoscale eddy transport:
-<a
-  href="https://www.sciencedirect.com/science/article/pii/S1463500310000065">Ferrari,
-  Griffies, Nurser, and Vallis (2010) </a>
-  </li>
-
-<li>On geometrical aspects of interior ocean mixing: 
-<a href="https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-13-0270.1">
-  McDougall, Groeskamp, and Griffies  (2014) </a>
-  </li>
-
-<li>Impacts of parameterized Langmuir turbulence and non-breaking
-waves on global climate simulations: <a
-href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-13-00583.1"> Fan
-and Griffies (2014) </a> </li>
-  
-<li>The KPP boundary layer scheme for the ocean: revisiting its
-formulation and benchmarking one-dimensional simulations relative to
-LES: 
-<a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018MS001336">Van
-  Roekel et al (2018) </a>
-  </li>
-
-<li>Comparing ocean surface boundary vertical mixing schemes including
-Langmuir turbulence: <a
-href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019MS001810">Li
-et al (2019) </a> </li>
 
 
 </ul>
@@ -350,8 +364,6 @@ for the physical component of the Ocean Model Intercomparison Project:
 
 ## <center>Analysis methods</center>
 
-
-
 <figure> <img src="/assets/images/tamsitt_etal2017_fig7.jpg">
 <figcaption> Illustrating the pathways for fluid parcels to move both
 horizontally and vertically/meridionally within the Southern Ocean.
@@ -360,7 +372,6 @@ Tamsitt et al (2017) (<a href="/researchII/">see here for discussion
 of Southern Ocean research.</a> Details of the Lagrangian diagnostic
 method are discussed in van Sebille et al (2018).  </figcaption>
 </figure>
-
 
 
 <p align="justify">
@@ -375,23 +386,23 @@ analyzing data from both models and  observations.
 
 <ul>
 
-<li>Physical processes that impact the evolution of global mean sea
-level in ocean climate models: <a
-href="https://www.sciencedirect.com/science/article/pii/S1463500312000637">Griffies
-and Greatbatch (2012) </a> </li>
-
-<li>The deep ocean buoyancy budget and its temporal variability: <a
-href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-13-00016.1">Palter,
-Griffies, et al (2013) </a> </li>
+<li>The water mass transformation framework for ocean physics and
+biogeochemistry: <a
+href="https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-010318-095421">Groeskamp,
+Griffies, et al (2019) </a> </li>
 
 <li>Lagrangian ocean analysis: fundamentals and practices: <a
 href="https://www.sciencedirect.com/science/article/pii/S1463500317301853">van Sebille, Griffies, et al
 (2018) </a> </li>
 
-<li>The water mass transformation framework for ocean physics and
-biogeochemistry: <a
-href="https://www.annualreviews.org/doi/abs/10.1146/annurev-marine-010318-095421">Groeskamp,
-Griffies, et al (2019) </a> </li>
+<li>The deep ocean buoyancy budget and its temporal variability: <a
+href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-13-00016.1">Palter,
+Griffies, et al (2013) </a> </li>
+
+<li>Physical processes that impact the evolution of global mean sea
+level in ocean climate models: <a
+href="https://www.sciencedirect.com/science/article/pii/S1463500312000637">Griffies
+and Greatbatch (2012) </a> </li>
 
 </ul>
 

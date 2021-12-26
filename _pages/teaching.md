@@ -113,7 +113,7 @@ Jan-Erik Tesdal (postdoc 2020-present) </a> </li>
 <li><a href="https://github.com/ruth-moorman">
 Ruth Moorman (pre-doc 2020) </a> </li>
 
-<li><a href="https://aos.princeton.edu/people/benjamin-taylor">
+<li><a href="https://scripps.ucsd.edu/profiles/bataylor">
 Benjamin Taylor (pre-doc 2019-2020) </a> </li>
 
 <li><a href="https://hmkhatri.github.io">

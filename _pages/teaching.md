@@ -195,12 +195,13 @@ notes/book <a href="/assets/pdfs/GFM_lectures.pdf">
 
 <p align="justify">
 
-In addition to teaching as part of the Princeton AOS faculty, I offer
-pedagogical lectures at schools and workshops for students aiming to
-refine their understanding of ocean and climate science, and for
-developing insights into how to run and analyze ocean model
-simulations.  My most recent course was at the CLEX advanced ocean
-modelling summer school in Tasmania during April/May 2019.
+In addition to teaching as part of the Princeton Atmosphere/Ocean
+Sciences faculty, I offer pedagogical lectures at schools and
+workshops for students aiming to refine their understanding of ocean
+and climate science, and for developing insights into how to run and
+analyze ocean model simulations.  My most recent course (pre-pandemic)
+was at the CLEX advanced ocean modelling summer school in Tasmania
+during April/May 2019.
 
 </p>
 

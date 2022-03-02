@@ -261,12 +261,18 @@ gratitude, and compassion.
 
 <br> <br>
 
+<a href="/assets/pdfs/PersonalReflectionsMeditation.pdf">Here is a presentation on
+meditation</a> I gave during the virtual 2022 AGU Ocean Sciences
+meeting.
+
+<br>
+
 <a href="/assets/pdfs/Meditation_GFDL.pdf">Here is a
 presentation on meditation</a> I gave to the GFDL and Princeton AOS
 community on 29 July 2020, shared as a virtual event.
 
 <br>
 
-<a href="/assets/pdfs/PersonalReflectionsMeditation.pdf">Here is a
+<a href="/assets/pdfs/MeditationScientists_OSM2020.pdf">Here is a
 brief presentation on meditation</a> I gave during the 2020 AGU Ocean
 Sciences in San Diego.

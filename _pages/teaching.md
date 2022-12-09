@@ -126,7 +126,7 @@ Hemant Khatri (postdoc 2019-2021) </a> </li>
 Hussein Aluie (visiting professor 2019) </a> </li>
 
 <li><a href="https://gmacgilchrist.github.io/">
-Graeme MacGilchrist (postdoc 2018-present) </a> </li>
+Graeme MacGilchrist (postdoc 2018-2022) </a> </li>
 
 <li><a href="https://www.houssamyassin.com/">
 Houssam Yassin (PhD student 2017-2022) </a> </li>

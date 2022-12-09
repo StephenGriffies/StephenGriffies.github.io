@@ -101,11 +101,14 @@ GFDL and Princeton University.
 
 <ul>
 
+<li><a href="https://mjclobo.github.io/">
+Matthew Lobo (PhD student 2022-present) </a> </li>
+
 <li><a href="https://www.linkedin.com/in/rachel-qing-pang-84b0361ab">
 Rachel Pang (Princeton undergrad 2021) </a> </li>
 
 <li><a href="https://scholar.princeton.edu/mmfaulkner/home">
-Marta Faulkner (PhD student 2021-present) </a> </li>
+Marta Faulkner (PhD student 2021-2022) </a> </li>
 
 <li><a href="https://scholar.google.com/citations?user=JfUiklYAAAAJ&hl=en">
 Jan-Erik Tesdal (postdoc 2020-present) </a> </li>

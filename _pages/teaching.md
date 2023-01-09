@@ -187,9 +187,8 @@ GFM course as part of Princeton University's AOS program. The course
 develops mathematics, kinematics, tracer dynamics, momentum dynamics,
 and vorticity dynamics relevant for understanding and describing the
 physics of rotating and stratified fluids, and I make use of the
-following lecture
-notes/book <a href="/assets/pdfs/GFM_lectures.pdf">
-(Griffies, 2022)</a>.
+following book draft <a href="/assets/pdfs/GFM_lectures.pdf">
+(Griffies, 2023)</a>.
 
 </p>
 

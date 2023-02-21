@@ -193,7 +193,7 @@ href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2023)</a>.
 
 <br> <br>
 
-<figure> <img src="/assets/images/AOS571Photo2022_cropped.jpg">
+<figure> <img src="/assets/images/AOS571Photo2022_cropped.jpeg">
 <figcaption>AOS 571 (Geophysical Fluid Mechanics) Autumn 2022
 </figcaption> </figure>
 

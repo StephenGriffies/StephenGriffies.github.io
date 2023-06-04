@@ -158,6 +158,9 @@ Ivy Frenger (postdoc 2014-2015) </a> </li>
 <li><a href="http://rses.anu.edu.au/people/adele-morrison">
 Adele Morrison (postdoc 2013-2016) </a> </li>
 
+<li><a href="https://people.csiro.au/O/T/Terence-OKane">
+Terry O'Kane (visiting scientist 2013) </a> </li>
+
 <li><a href="http://web.meteo.mcgill.ca/cdufour/">
 Carolina Dufour (postdoc 2012-2017) </a> </li>
 

@@ -82,10 +82,14 @@ trusting and non-judgmental space.
 
 <br> <br>
 
+<figure> <img src="/assets/images/research_group_sep2023.jpg">
+<figcaption>Going away dinner for Graeme Sept 2023: Graeme
+MacGilchrist, Stephen Griffies, Matt Lobo,  Jan Zika, and Hemant Khatri.
+</figcaption> </figure>
+
 <figure> <img src="/assets/images/research_group_jan2020.jpg">
 <figcaption>Research group January 2020: Benjamin Taylor, Hemant
-Khatri, Ruth
-Moorman, Graeme MacGilchrist, Houssam Yassin, and  
+Khatri, Ruth Moorman, Graeme MacGilchrist, Houssam Yassin, and  
 Stephen Griffies.  </figcaption> </figure>
 
 <figure> <img src="/assets/images/research_group_jun2016.jpg">
@@ -100,6 +104,9 @@ Here is a list of past and present people I have mentored/hosted at
 GFDL and Princeton University.
 
 <ul>
+
+<li><a href="https://sites.google.com/view/janzika/">
+Jan Zika (UNSW professor 2023 autumn) </a> </li>
 
 <li><a href="https://mjclobo.github.io/">
 Matthew Lobo (PhD student 2022-present) </a> </li>

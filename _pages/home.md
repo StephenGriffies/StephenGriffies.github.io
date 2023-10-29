@@ -29,8 +29,11 @@ Atmospheric and Oceanic Sciences Program at Princeton University.
 <br> <br>
 
 You are invited to explore this website for an overview of my
-activities and for opportunities to work with me as a graduate student,
-postdoc, or visiting research scientist. 
+activities and for opportunities to work with me as a graduate
+student, postdoc, or visiting research scientist.  In particular, I
+seek PhD students with an extremely strong training in theoretical
+physics and applied mathematics as achieved during undergraduate
+and/or masters studies.
 
 </p>
 

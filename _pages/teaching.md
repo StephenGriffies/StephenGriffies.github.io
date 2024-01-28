@@ -202,7 +202,7 @@ and vorticity dynamics relevant for understanding and describing the
 physics of rotating and stratified fluids.  The second semester
 focuses on waves, instabilities, and turbulence in geophysical
 fluids. I make use of the following book draft for the lectures <a
-href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2023)</a>.
+href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2024)</a>.
 
 <br> <br>
 

@@ -195,16 +195,22 @@ Shafer Smith  (postdoc 1999-2002) </a> </li>
 
 Geophysical fluid mechanics (GFM) is a beautiful discipline of
 theoretical physics that forms the intellectual foundation for
-physical oceanography and climate. I teach the graduate GFM course as
-part of Princeton University's AOS program. The first semester
-develops mathematics, kinematics, tracer dynamics, momentum dynamics,
-and vorticity dynamics relevant for understanding and describing the
-physics of rotating and stratified fluids.  The second semester
-focuses on waves, instabilities, and turbulence in geophysical
-fluids. I make use of the following book draft for the lectures <a
-href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2024)</a>.
+physical oceanography, atmospheric circulation, and climate. I teach
+the graduate GFM course as part of Princeton University's AOS
+program. The first semester develops mathematics, kinematics, tracer
+dynamics, momentum dynamics, and vorticity dynamics relevant for
+understanding and describing the physics of rotating and stratified
+fluids.  The second semester focuses on waves and instabilities in
+geophysical fluid flows. I make use of the following book draft for
+the lectures, and I welcome comments and suggestions on this ongoing
+book project <a href="/assets/pdfs/GFM_lectures.pdf"> (Griffies,
+2024)</a>.
 
 <br> <br>
+
+<figure> <img src="/assets/images/AOS572_spring2024.jpg">
+<figcaption>AOS 572 (Geophysical Waves and Instabilities) Spring 2024
+</figcaption> </figure>
 
 <figure> <img src="/assets/images/AOS571_Photo2022_cropped.jpeg">
 <figcaption>AOS 571 (Geophysical Fluid Mechanics) Autumn 2022

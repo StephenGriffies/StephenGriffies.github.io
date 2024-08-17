@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4444/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4444/" rel="alternate" type="text/html" /><updated>2018-11-08T21:17:56-05:00</updated><id>http://localhost:4444/</id><title type="html">Stephen Griffies</title><subtitle>Physics and maths of the ocean circulation</subtitle><entry><title type="html">Simulated South Ocean Circulation</title><link href="http://localhost:4444/animation/2015/11/28/stunning-so-viz.html" rel="alternate" type="text/html" title="Simulated South Ocean Circulation" /><published>2015-11-28T08:16:03-05:00</published><updated>2015-11-28T08:16:03-05:00</updated><id>http://localhost:4444/animation/2015/11/28/stunning-so-viz</id><content type="html" xml:base="http://localhost:4444/animation/2015/11/28/stunning-so-viz.html">&lt;p&gt;Research Scientists and Engineers at the
+&lt;a href=&quot;https://www.climatescience.org.au&quot;&gt;ARC CoE for Climate System Science&lt;/a&gt;
+&lt;a href=&quot;http://nf.nci.org.au/facilities/vizlab&quot;&gt;NCI Vizlab&lt;/a&gt;,
+&lt;a href=&quot;http://www.gfdl.noaa.gov/&quot;&gt;NOAA/GFDL&lt;/a&gt;,
+&lt;a href=&quot;http://doubleprecision.com.au&quot;&gt;Double Precision&lt;/a&gt;,
+&lt;a href=&quot;http://csiro.au/&quot;&gt;CSIRO&lt;/a&gt; have released a
+&lt;a href=&quot;https://www.youtube.com/watch?v=8VMSF28J9H4&quot;&gt;visualisation of the Southern Ocean circulation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The dataset was created using MOM5 in a 0.1 degree global configuration.&lt;/p&gt;</content><author><name></name></author><category term="animation" /><summary type="html">Research Scientists and Engineers at the ARC CoE for Climate System Science NCI Vizlab, NOAA/GFDL, Double Precision, CSIRO have released a visualisation of the Southern Ocean circulation.</summary></entry><entry><title type="html">Simulated Sea Surface Temperature</title><link href="http://localhost:4444/animation/2011/11/20/SST-animation-GFDL-CM2p6.html" rel="alternate" type="text/html" title="Simulated Sea Surface Temperature" /><published>2011-11-20T08:16:03-05:00</published><updated>2011-11-20T08:16:03-05:00</updated><id>http://localhost:4444/animation/2011/11/20/SST-animation-GFDL-CM2p6</id><content type="html" xml:base="http://localhost:4444/animation/2011/11/20/SST-animation-GFDL-CM2p6.html">&lt;p&gt;Research Scientists and Engineers at the
+&lt;a href=&quot;https://www.gfdl.noaa.gov/&quot;&gt;NOAA Geophysical Fluid Dynamics Laboratory&lt;/a&gt;
+have released a
+&lt;a href=&quot;https://vimeo.com/27076776&quot;&gt;visualisation of the World Ocean Sea Surface Temperature&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The dataset was created using the coupled climate model CM2.6, which
+is based on the ocean model code MOM5 at a 0.1 degree global
+configuration, coupled to a 50km finite volume atmospheric model.&lt;/p&gt;</content><author><name></name></author><category term="animation" /><summary type="html">Research Scientists and Engineers at the NOAA Geophysical Fluid Dynamics Laboratory have released a visualisation of the World Ocean Sea Surface Temperature.</summary></entry></feed>

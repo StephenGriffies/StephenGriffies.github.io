@@ -1,0 +1,28 @@
+# links
+main:
+  - title: "Research I"
+    url: /researchI/
+  - title: "Research II"
+    url: /researchII/
+  - title: "Collaborations"
+    url: /collaborations/
+  - title: "Models"
+    url: /models/
+  - title: "Education"
+    url: /teaching/
+  - title: "Talks"
+    url: /talks/
+  - title: "Biography"
+    url: /bio/
+
+
+# documentation links
+quicklinks:
+  - title: Organisations/Projects
+    children:
+      - title: "GFDL"
+        url: https://www.gfdl.noaa.gov/ocean-model/
+      - title: "MOM6"
+        url: https://github.com/NOAA-GFDL/MOM6
+      - title: "COSIMA"
+        url: http://cosima.org.au

@@ -20,14 +20,20 @@ header:
 
 <p align="justify">
 
-  Presentations are a key complement to the peer-review, acting to
-fully engage the audience and solicit critical feedback.  Here I offer
-a selection of presentations on a variety of topics.
+Presentations complement the peer-review, acting to engage the
+audience and solicit feedback.  Here I offer a selection of
+presentations on a variety of topics.
 
 </p>
 
 
 <ul>
+
+<li><a
+href="https://github.com/StephenGriffies/documents/blob/master/WMTtutorial/Griffies_WMT_tutorial.pdf">
+A presentation concerning the CM4X climate model developed at GFDL,
+presented at a seminar to NYU/Center for Atmosphere/Ocean Sciences in
+Oct 2024: </a> Seminar given at NYU in Oct 2024. </li>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTtutorial/Griffies_WMT_tutorial.pdf">

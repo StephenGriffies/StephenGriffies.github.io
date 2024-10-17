@@ -31,9 +31,8 @@ presentations on a variety of topics.
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/CM4X/Griffies-NYU-2024-lowres.pdf">
-A seminar presentation concerning the CM4X climate model developed at
-GFDL, given to NYU/Center for Atmosphere/Ocean Sciences in Oct 2024:
-</a> CM4X seminar given at NYU in Oct 2024. </li>
+Discussion of the CM4X climate model and the mesoscale dominance
+hypothesis: </a> Seminar given at NYU in Oct 2024. </li>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/WMTtutorial/Griffies_WMT_tutorial.pdf">

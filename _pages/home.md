@@ -3,7 +3,7 @@ permalink: /               # Slash defines this file as the root page
 layout: single 
 author_profile: true
 author: Stephen Griffies
-title: "Ocean circulation  science"
+title: "Ocean circulation science"
 excerpt: "Uncovering how the ocean works"
 header:
   overlay_color: "#000"

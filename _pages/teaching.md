@@ -201,10 +201,9 @@ program. The first semester develops mathematics, kinematics, tracer
 dynamics, momentum dynamics, and vorticity dynamics relevant for
 understanding and describing the physics of rotating and stratified
 fluids.  The second semester focuses on waves and instabilities in
-geophysical fluid flows. I make use of the following book draft for
-the lectures, and I welcome comments and suggestions on this ongoing
-book project <a href="/assets/pdfs/GFM_lectures.pdf"> (Griffies,
-2024)</a>.
+geophysical fluid flows. I make use of the following book for the
+lectures, and I welcome comments and suggestions on this ongoing
+project <a href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2025)</a>.
 
 <br> <br>
 

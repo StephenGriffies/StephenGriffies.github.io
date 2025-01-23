@@ -31,7 +31,7 @@ presentations on a variety of topics.
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/CM4X/Griffies-NYU-2024-lowres.pdf">
-Discussion of the CM4X climate model and the mesoscale dominance
+Discussion of the CM4X coupled model and the mesoscale dominance
 hypothesis: </a> Seminar given at NYU in Oct 2024. </li>
 
 <li><a

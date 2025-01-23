@@ -18,10 +18,10 @@ header:
 
 My name is Stephen Griffies and this website summarizes my research,
 teaching, and mentoring activities.  I conduct scientific research in
-ocean and climate physics at the <a
+ocean and earth system physics at the <a
 href="https://www.gfdl.noaa.gov/">NOAA Geophysical Fluid Dynamics
-Laboratory,</a> with a focus on ocean fluid mechanics and the role of
-the ocean in the earth climate system.  I also teach and mentor as a
+Laboratory,</a> with a focus on ocean fluid mechanics and the large
+scale ocean circulation. I also teach and mentor as a
 faculty member in the <a href="https://aos.princeton.edu/">
 Atmospheric and Oceanic Sciences Program at Princeton University.
 </a>

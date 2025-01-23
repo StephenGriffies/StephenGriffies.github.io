@@ -75,10 +75,10 @@ particularly seek to mentor and collaborate with students, postdocs,
 and visiting researchers with passions for mathematical physics and
 physical oceanography.  As a mentor, I aim to nurture a talent for
 diving deep into the fundamentals of ocean physics and for creatively
-uncovering their impacts on ocean circulation and climate.  I support
-open and honest working relations and aim for an environment where
-scientific understanding and insights emerge from questions posed in a
-trusting and non-judgmental space.
+uncovering their impacts on ocean circulation.  I support open and
+honest working relations and aim for an environment where scientific
+understanding and insights emerge from questions posed in a trusting
+and non-judgmental space.
 
 <br> <br>
 
@@ -195,15 +195,15 @@ Shafer Smith  (postdoc 1999-2002) </a> </li>
 
 Geophysical fluid mechanics (GFM) is a beautiful discipline of
 theoretical physics that forms the intellectual foundation for
-physical oceanography, atmospheric circulation, and climate. I teach
-the graduate GFM course as part of Princeton University's AOS
-program. The first semester develops mathematics, kinematics, tracer
-dynamics, momentum dynamics, and vorticity dynamics relevant for
-understanding and describing the physics of rotating and stratified
-fluids.  The second semester focuses on waves and instabilities in
-geophysical fluid flows. I make use of the following book for the
-lectures, and I welcome comments and suggestions on this ongoing
-project <a href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2025)</a>.
+physical oceanography and meteorology. I teach the graduate GFM course
+as part of Princeton University's AOS program. The first semester
+develops mathematics, kinematics, tracer dynamics, momentum dynamics,
+and vorticity dynamics relevant for understanding and describing the
+physics of rotating and stratified fluids.  The second semester
+focuses on waves and instabilities in geophysical fluid flows. I make
+use of the following book for the lectures, and I welcome comments and
+suggestions on this ongoing project <a
+href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2025)</a>.
 
 <br> <br>
 
@@ -225,10 +225,10 @@ project <a href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2025)</a>.
 In addition to teaching as part of the Princeton Atmosphere/Ocean
 Sciences faculty, I offer pedagogical lectures at schools and
 workshops for students aiming to refine their understanding of ocean
-and climate science, and for developing insights into how to run and
-analyze ocean model simulations.  My most recent course (pre-pandemic)
-was at the CLEX advanced ocean modelling summer school in Tasmania
-during April/May 2019.
+physics, and for developing insights into how to run and analyze ocean
+circulation models.  My most recent course (pre-pandemic) was at the
+CLEX advanced ocean modelling summer school in Tasmania during
+April/May 2019.
 
 </p>
 
@@ -246,7 +246,7 @@ have participated in many review papers, lead authoring some and
 mentoring the lead author on others.  I am also the author of a
 monograph on ocean models <a
 href="https://press.princeton.edu/titles/7797.html">(Griffies
-2004)</a> and the co-editor of a book on ocean climate
+2004)</a> and the co-editor of a book on ocean 
 science <a
 href="https://www.elsevier.com/books/ocean-circulation-and-climate/siedler/978-0-12-391851-2">
 (Siedler, Griffies, Gould, and Church 2013).</a>

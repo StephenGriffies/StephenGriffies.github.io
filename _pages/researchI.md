@@ -31,10 +31,10 @@ Most of the ocean kinetic energy occurs within transient mesoscale
 eddies, with lateral scales extending from tens of kilometers in the
 high latitudes to hundreds of kilometers near the equator.  <a
 href="https://vimeo.com/27076776"> This animation,</a> generated from
-the GFDL CM2.6 coupled climate model, provides a compelling view on
-mesoscale eddies in action.  These eddies have a significant impact on
-the transport of momentum, vorticity, heat, freshwater, carbon,
-nutrients, and biota throughout the oceans. 
+the GFDL CM2.6 coupled model, provides a compelling view on mesoscale
+eddies in action.  These eddies have a significant impact on the
+transport of momentum, vorticity, heat, freshwater, carbon, nutrients,
+and biota throughout the oceans.
 
 
 </p>
@@ -74,12 +74,12 @@ kinetic energy variability in GFDL’s CM2-O model hierarchy:
 <a href="https://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-17-0024.1">
 O'Rourke, Arbic, and Griffies (2018) </a></li>
 
-<li>Enhanced warming of the Northwest Atlantic Ocean under climate change: <a
+<li>Enhanced warming of the Northwest Atlantic Ocean under changes to forcing: <a
 href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011346">
 Saba et al (2016) </a></li>
 
 <li>Impacts on ocean heat from transient mesoscale eddies in a
-  hierarchy of climate models: <a
+  hierarchy of coupled models: <a
   href="https://journals.ametsoc.org/doi/full/10.1175/JCLI-D-14-00353.1">Griffies
   et al (2015) </a></li>
 
@@ -112,7 +112,7 @@ cutting edge research questions sit at the interface between the
 mesoscale and the smaller sub-mesoscales and even touch into the
 gravity wave scales. These questions relate to how fundamental
 processes operate in the ocean (and atmosphere), and impact how we
-understand and simulate the ocean and its role within the climate
+understand and simulate the ocean and its role within the earth system
 system.
 
 <br> <br>
@@ -133,7 +133,7 @@ other tracers, and what model resolution is required to accurately
 represent this transport?  </li>
 
 <li> How do we accurately parameterize transport from mesoscale eddies
-for use in climate model simulations?  Is an energetic framework
+for use in earth system simulations?  Is an energetic framework
 effective for formulating closures?  What about coarse-graining and
 methods used in physics associated with non-equilibrium thermodynamics
 and the renormalization group? </li>
@@ -152,14 +152,10 @@ and the renormalization group? </li>
 
 <p align="justify">
 
-Global mean sea level has been rising since the early 20th century due
-to global climate change, and will continue to rise for decades to
-centuries.  There are significant socio-economic impacts from sea
-level rise on populations and environments in coastal areas and
-islands.  Furthermore, many of the displaced populations stress
-regions away from the coast.  Sea level change is thus one of the most
-consequential effects of anthropogenic climate change for the 21st
-century and beyond.
+There are significant socio-economic impacts from sea level rise on
+populations and environments in coastal areas and islands.
+Furthermore, many of the displaced populations stress regions away
+from the coast. 
 
 </p>
 
@@ -171,7 +167,7 @@ century and beyond.
 <ul>
 
 <li>Response of Storm-related Extreme Sea Level along the US Atlantic
-Coast to Combined Weather and Climate Forcing: <a
+Coast to Combined Weather and Large scale Forcing: <a
 href="https://doi.org/10.1175/JCLI-D-19-0551.1">Yin, Griffies, et
 al. (2020) </a> </li>
 
@@ -197,7 +193,7 @@ href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013GL058104">Fra
 et al (2013) </a> </li>
 
 <li>Physical processes that impact the evolution of global mean sea
-level in ocean climate models: <a
+level in ocean models: <a
 href="https://www.sciencedirect.com/science/article/pii/S1463500312000637">Griffies
 and Greatbatch (2012) </a> </li>
 
@@ -247,8 +243,7 @@ sea level variations and change.
 
 <ul>
 
-<li> Will extreme sea level events occur more frequently in the future
-under a changing climate? </li>
+<li> Will extreme sea level events occur more frequently in the future? </li>
 
 <li> What are the mechanisms for regional sea level change, in
 particular those affecting coastal regions?  </li>

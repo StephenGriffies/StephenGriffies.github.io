@@ -37,13 +37,12 @@ laboratory studies.
 Throughout my career I have endeavored to bring rigor and synthesis to
 the many intellectual strands comprising the foundations of ocean
 models and forming the practice of ocean modeling.  This work has
-spanned nearly all areas of ocean and climate science, from ocean
-model algorithms and code development, climate model development,
-theoretical studies into subgrid scale parameterizations, and
-formulations of experimental protocols supporting the systematic
-analysis of model intercomparison projects.  This page summarizes some
-of this work, and offers pointers for where research can bring further
-insights.
+spanned nearly all areas of ocean science, from ocean model algorithms
+and code development, coupled model development, theoretical studies
+into subgrid scale parameterizations, and formulations of experimental
+protocols supporting the systematic analysis of model intercomparison
+projects.  This page summarizes some of this work, and offers pointers
+for where research can bring further insights.
 
 </p>
 
@@ -115,7 +114,7 @@ href="http://www.oceanobs09.net/proceedings/cwp/Griffies-OceanObs09.cwp.38.pdf">
 Griffies et al (2010) </a>
 </li>
 
-<li>Science of Ocean Climate Models: <a
+<li>Science of Ocean Models: <a
 href="/assets/pdfs/Griffies_Encyclopedia_of_Ocean_Science.pdf">
 Griffies (2009) </a>
 </li>
@@ -124,11 +123,11 @@ Griffies (2009) </a>
 href="/assets/pdfs/CH18_griffies_adcroft.pdf">Griffies and Adcroft (2008) </a>
 </li>
 
-<li>Formulation of an ocean model for global climate simulations: <a
+<li>Formulation of an ocean model for global simulations: <a
 href="https://www.ocean-sci.net/1/45/2005/">Griffies et al (2005) </a>
 </li>
 
-<li>Fundamentals of Ocean Climate Models (book):
+<li>Fundamentals of Ocean Circulation Models (book):
 <a href="https://press.princeton.edu/titles/7797.html">Griffies (2004) </a>
 </li>
 
@@ -142,7 +141,7 @@ z-coordinate ocean model: <a
 href="https://journals.ametsoc.org/doi/10.1175/1520-0493%282000%29128%3C0538%3ASDMAWA%3E2.0.CO%3B2">Griffies,
 Pacanowski, and Hallberg (2000) </a> </li>
 
-<li>Developmenets in Ocean Climate Modelling:
+<li>Developmenets in Ocean Modelling:
 <a href="/assets/pdfs/WGOMD_review_paper.pdf">Griffies
   et al (2000) </a>
 </li>
@@ -172,15 +171,15 @@ intellectually challenging problem in theoretical physical
 oceanography. It is important since eddy parameterizations, from the
 planetary boundary layer to the ocean interior to the bottom boundary
 layer, have a huge role in determining the performance of ocean
-climate models.  It is challenging since it draws upon a wide variety
-of physical and mathematical skills. I have an ongoing interest in
-ocean eddy parameterization questions, and am particularly motivated
-by some exciting theoretical/modeling and observational studies
-conducted during recent years. This interest has led me to play a role
-in the NSF/NOAA funded <a href="https://ocean-eddy-cpt.github.io/">
-Climate Process Team on ocean transport and eddy energy.</a> Notably,
-there are many unsolved questions looking for energetic students and
-postdocs to help unravel!
+models.  It is challenging since it draws upon a wide variety of
+physical and mathematical skills. I have an ongoing interest in ocean
+eddy parameterization questions, and am particularly motivated by some
+exciting theoretical/modeling and observational studies conducted
+during recent years. This interest has led me to play a role in the
+NSF/NOAA funded <a href="https://ocean-eddy-cpt.github.io/"> Process
+Team on ocean transport and eddy energy.</a> Notably, there are many
+unsolved questions looking for energetic students and postdocs to help
+unravel!
 
 <ul>
 
@@ -206,7 +205,7 @@ LES:
   </li>
 
 <li>Impacts of parameterized Langmuir turbulence and non-breaking
-waves on global climate simulations: <a
+waves on global simulations: <a
 href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-13-00583.1"> Fan
 and Griffies (2014) </a> </li>
 
@@ -252,8 +251,9 @@ development after <a href="https://mom-ocean.github.io/"> MOM5</a> in
 early 2013, I remain engaged in a variety of scientific activities
 that make use of this code, most notably the <a
 href="http://cosima.org.au/"> COSIMA (Consortium for Ocean-Sea Ice
-Modelling in Australia)</a> and the <a href="https://scholar.google.com/citations?user=-6YBFHYAAAAJ&hl=en"> CM2.6
-project.</a> Both projects pursue studies of global climate at model
+Modelling in Australia)</a> and the <a
+href="https://scholar.google.com/citations?user=-6YBFHYAAAAJ&hl=en">
+CM2.6 project.</a> Both projects pursue studies of global model
 resolutions that admit a rich field of mesoscale eddies.
 
 <br> <br>
@@ -266,10 +266,10 @@ with ongoing work aiming to make MOM6 as friendly to ocean analysts as
 it is to algorithm developers.  Quite generally, MOM6 offers many
 sophisticated numerical features and physical parameterizations well
 beyond MOM5. These enhancements provide ocean modelers with critical
-tools needed to address a number of high profile climate related
-questions such as sea level rise and ocean heat uptake.  My recent
-mentoring activities involve the use of MOM6 as a tool for idealized
-and realistic model simulations and analysis.
+tools needed to address a number of high profile questions such as sea
+level rise and ocean heat uptake.  My recent mentoring activities
+involve the use of MOM6 as a tool for idealized and realistic model
+simulations and analysis.
 
 
 <figure> <img
@@ -311,9 +311,9 @@ et al (2019) </a> </li>
 
 When handed a numerical model, the scientist must decide how to use it
 for revealing phenomena (e.g., waves, turbulence, boundary currents,
-overturning circulations, climate variations) emerging from the
-fundamental equations. Questions arise surrounding how to design a
-numerical experiment that is reproducible by others who may wish to
+overturning circulation) emerging from the fundamental
+equations. Questions arise surrounding how to design a numerical
+experiment that is reproducible by others who may wish to
 compare/contrast their model results. And when simulation results are
 obtained, questions then arise concerning how to rationalize the
 output through analysis and interpretation. Here I summarize areas
@@ -327,7 +327,7 @@ questions.
 <p align="justify">
 
 Global ocean/sea-ice models are commonly used to help understand the
-mechanics of ocean climate variations and to directly compare to
+mechanics of ocean variations and to directly compare to
 observations. In the absence of an interactive atmospheric model, the
 modeler must make decisions for how to force the ocean/sea-ice model
 in a way that does not compromise on the scientific investigation.
@@ -400,7 +400,7 @@ href="https://journals.ametsoc.org/doi/10.1175/JCLI-D-13-00016.1">Palter,
 Griffies, et al (2013) </a> </li>
 
 <li>Physical processes that impact the evolution of global mean sea
-level in ocean climate models: <a
+level in ocean models: <a
 href="https://www.sciencedirect.com/science/article/pii/S1463500312000637">Griffies
 and Greatbatch (2012) </a> </li>
 

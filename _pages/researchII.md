@@ -31,12 +31,11 @@ and decadal predictability in the Atlantic.
 I am part of a variety of collaborative efforts that support my
 research on Southern Ocean science, including SOCCOM, COSIMA, and
 DynOPO, each of which are discussed <a href="/collaborations/">
-here.</a> The coupled climate model CM2.6 is a critical tool used for
-some of these projects.  CM2.6 is notable for simulating a rich
-mesoscale eddy field (see below image).  This model has been the
-source for 40+ research papers <a
-href="/assets/pdfs/CM2p6_project_list.pdf"> as listed here,</a> many
-of which concern the Southern Ocean.
+here.</a> The coupled model CM2.6 is a critical tool used for some of
+these projects.  CM2.6 is notable for simulating a rich mesoscale eddy
+field (see below image).  This model has been the source for 40+
+research papers <a href="/assets/pdfs/CM2p6_project_list.pdf"> as
+listed here,</a> many of which concern the Southern Ocean.
 
 </p>
 
@@ -47,7 +46,7 @@ of which concern the Southern Ocean.
 <ul>
 
 <li>On the role of the Antarctic Slope Front on the occurrence of the
-Weddell Sea polynya under climate change:
+Weddell Sea polynya:
 <a href="https://journals.ametsoc.org/view/journals/clim/34/7/JCLI-D-20-0069.1.xml">
 Lockwood et al (2021) </a>  </li>
 
@@ -70,7 +69,7 @@ Southern Ocean:
 Tamsitt et al (2017) </a>  </li>
 
 <li>CO2-induced ocean warming around the Antarctic ice sheet in an
-eddying global climate model:
+eddying global coupled model:
 <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JC012849">
 Goddard et al (2017) </a>  </li>
 
@@ -80,7 +79,7 @@ dense water overflows:
 Dufour et al (2017) </a>  </li>
 
 <li>Mechanisms of Southern Ocean heat uptake and transport in a global
-eddying climate model:
+eddying coupled model:
 <a href="https://journals.ametsoc.org/doi/10.1175/JPO-D-14-0240.1">
 Morrison et al (2016) </a>  </li>
 
@@ -100,7 +99,7 @@ et al (2015) </a> </li>
 Spence et al (2014) </a> </li>
 
 <li>The role of mesoscale eddies in the rectification of the Southern
-Ocean response to climate change: <a
+Ocean response to changing forcing: <a
 href="https://journals.ametsoc.org/doi/10.1175/2010JPO4353.1"> Farneti
 et al (2010) </a> </li>
 
@@ -124,10 +123,10 @@ the Southern Ocean.  Figure courtesy of Adele Morrison.</figcaption>
 The Southern Ocean is home to the Antarctic Circumpolar Current (ACC),
 whose depth integrated mass transport is the world's largest, and the
 Southern Ocean meridional overturning circulation (SOMOC), which plays
-a key role in the earth's climate system through the
-ventilation/sequestration of heat and carbon.  These two circulations
-are tightly woven into the fabric of Southern Ocean climate dynamics,
-with mechanisms affecting one also affecting the other.
+a key role in the earth system through the ventilation/sequestration
+of heat and carbon.  These two circulations are tightly woven into the
+fabric of Southern Ocean dynamics, with mechanisms affecting one also
+affecting the other.
 
 <br> <br>
 
@@ -157,16 +156,16 @@ nutrients? </li>
 overturning transport be modified under changes to both wind and
 buoyancy forcing?  </li>
 
-<li> How is the climate in the Southern Ocean, including along the
-continental shelf, impacted by large scale patterns of climate
-variations such as ENSO and the Southern Annual Mode?  </li>
+<li> How is the Southern Ocean, including along the continental shelf,
+impacted by large scale patterns such as ENSO and the Southern Annual
+Mode?  </li>
 
 <li> What are the dynamical balances active within the Antarctic Slope
 Curent?  How does the slope current interact with the ACC? </li>
 
 <li> What mechanics are responsible for transport of heat across the
 Antarctic continental shelf towards the base of ice shelves? How will
-the associated processes change under altered climate forcing? </li>
+the associated processes change under altered forcing? </li>
 
 </ul>
 
@@ -183,13 +182,13 @@ When I was a Princeton University post-doc (1993-1996), Kirk Bryan and
 <a href="https://www.seas.harvard.edu/climate/eli/"> Eli Tziperman</a>
 (on sabbatical at GFDL during 1993-1994) pointed me to questions
 related to decadal and multi-decadal variations of the North Atlantic
-climate due to fluctuations of the Atlantic meridional overturning
-circulation (AMOC).  In the middle 1990s, these questions were largely
-theoretical and model-based, given the lack of observational data.
-Nonetheless, the model studies we conducted led to the first works on
-Atlantic decadal predictability, thus providing the seeds for ongoing
-efforts to capture any source of predictability available at these
-time scales.  As part of that work, I was led to collaborate with <a
+due to fluctuations of the Atlantic meridional overturning circulation
+(AMOC).  In the middle 1990s, these questions were largely theoretical
+and model-based, given the lack of observational data.  Nonetheless,
+the model studies we conducted led to the first works on Atlantic
+decadal predictability, thus providing the seeds for ongoing efforts
+to capture any source of predictability available at these time
+scales.  As part of that work, I was led to collaborate with <a
 href="https://climate-dynamics.org/people/tapio-schneider/"> Tapio
 Schneider, </a> then a Princeton graduate student, on fundamental
 questions about predictability.  Tapio brought to these questions many
@@ -213,7 +212,7 @@ variability:
 <a href="https://link.springer.com/article/10.1007/s003820050177">
 Griffies and Bryan (1997) </a> </li>
 
-<li>Predictability of North Atlantic multidecadal climate variability:
+<li>Predictability of North Atlantic multidecadal variability:
 <a href="http://science.sciencemag.org/content/275/5297/181.full">
 Griffies and Bryan (1997) </a> </li>
 

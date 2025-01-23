@@ -20,16 +20,15 @@ header:
 
 <p align="justify">
 
-Manifesting the research and development aspirations of ocean and
-climate science generally requires trusted collaborations across a
-suite of expertise.  Furthermore, research questions span borders even
-if political systems attempt to ignore this truth.  I have
-participated in a variety of community efforts and projects with the
-aim to nurture and foster collaboration, coordination, education, and
-communication.  At times these efforts can appear little more than
-futile attempts to herd cats.  Nevertheless, persistence and patience
-generally result in synergies that further the magnitude and scope of
-research efforts.
+Manifesting the research and development aspirations of ocean science
+generally requires trusted collaborations across a suite of expertise.
+Furthermore, research questions span borders even if political systems
+attempt to ignore this truth.  I have participated in a variety of
+community efforts and projects with the aim to nurture and foster
+collaboration, coordination, education, and communication.  At times
+these efforts can appear little more than futile attempts to herd
+cats.  Nevertheless, persistence and patience generally result in
+synergies that further the magnitude and scope of research efforts.
 
 <br> <br>
 
@@ -44,9 +43,9 @@ Dynamics Laboratory (GFDL)</a> has been my intellectual home since
 1993, nurturing my research acumen and building deep friendships and
 trusted collaborations.  GFDL is a special place within the universe
 of research laboratories, notable for its efforts at addressing the
-big problems of atmosphere, ocean, and climate science.  Founded in
-1955, it remains among the world's most stimulating and impactful
-climate laboratories.
+big problems of atmosphere and ocean science.  Founded in 1955, it
+remains among the world's most stimulating and impactful earth system
+laboratories.
 
 <br>
 <br>
@@ -68,11 +67,10 @@ In 1999 I joined the CLIVAR Working Group for Ocean Model Development
 (WGOMD) and chaired the panel from 2004-2009.  Now called the <a
 href="http://www.clivar.org/clivar-panels/omdp"> Ocean Model
 Development Panel (OMDP)</a>, it has greatly furthered the science of
-ocean and climate modeling through efforts to systemetize the
-experimental design of global simulations and to coordinate their
-analyses.  In 2012 I became an emeritus member, still attending
-meetings and workshops held every 1-2 years.  Furthermore, during
-2014-2018 I was on the <a
+ocean modeling through efforts to systemetize the experimental design
+of global simulations and to coordinate their analyses.  In 2012 I
+became an emeritus member, still attending meetings and workshops held
+every 1-2 years.  Furthermore, during 2014-2018 I was on the <a
 href="http://www.clivar.org/organization/ssg"> CLIVAR Scientific
 Steering Group (SSG),</a> helping to establish CLIVAR's scientific
 priorities.
@@ -90,9 +88,8 @@ within the research team of <a
 href="https://soccom.princeton.edu/team/sarmiento"> Prof. Jorge
 Sarmiento.</a> It then led to my becoming a collaborating PI for the
 <a href="https://soccom.princeton.edu/">SOCCOM project (Southern Ocean
-Carbon + Climate Observations and Modeling),</a> with SOCCOM greatly
-expanding our capabilities at both observing and modeling the Southern
-Ocean.
+Carbon Observations and Modeling),</a> with SOCCOM greatly expanding
+our capabilities at both observing and modeling the Southern Ocean.
 
 </p>
 
@@ -117,7 +114,7 @@ These collaborations have in turn led me to be a contributing PI on a
 variety of projects, including <a href="http://cosima.org.au/"> the
 Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA),</a> and
 the <a href="https://climateextremes.org.au/">Centre of Excellence for
-Climate Extremes (CLEX).</a>
+Extremes (CLEX).</a>
 
 </p>
 

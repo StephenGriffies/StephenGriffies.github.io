@@ -115,15 +115,14 @@ Towards the end of my time as a PhD student, I decided to switch to
 geosciences with a focus on oceanography.  That decision led me to do
 a post-doc at Princeton in the geosciences department, working at GFDL
 under the mentorship of <a
-href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)">Kirk Bryan</a>.  This
-2+ years as a post-doc was both a time for research and a time for
-taking courses on topics that I had little exposure to while studying
-in a physics department: fluid mechanics, atmospheric and oceanic
-dynamics, climate dynamics. I got the hang of it after a while,
-sufficient to land a job as a federal scientist at GFDL starting
-spring 1996.  That transition also saw me getting married (now with
-one son, born 2006) and deciding to settle down in Princeton for the
-long haul.
+href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)">Kirk
+Bryan</a>.  This 2+ years as a post-doc was both a time for research
+and a time for taking courses on topics that I had little exposure to
+while studying in a physics department, such as fluid mechanics and
+earth system dynamics. I got the hang of it after a while, sufficient
+to land a job as a federal scientist at GFDL starting spring 1996.
+That transition also saw me getting married (now with one son, born
+2006) and deciding to settle down in Princeton for the long haul.
 
 
 </p>
@@ -155,8 +154,8 @@ My "paper and pencil" experience as a PhD student is in apparent
 contrast to much of my ongoing research in which computer simulations
 play a central role.  However, that perspective is not the full story.
 Even though I have contributed research and development energies to
-numerical codes and big climate models, I firmly retain the concepts,
-tools, and prejudices engendered from studies of
+numerical codes and global circulation models, I firmly retain the
+concepts, tools, and prejudices engendered from studies of
 theoretical/mathematical physics, each of which guide my research and
 mentoring activities. Quite simply, computer simulations are
 constrained by the quality of human brains used to build models and
@@ -183,10 +182,10 @@ generally transcending the details of a particular solution.
 <p align="justify">
 
 On or around 1990, Jerry Mahlman, then director of GFDL, gave a talk
-at UPenn physics concerning the science of climate warming.  I recall
-putting his name on a note in my desk after the talk, along with
-"interesting stuff".  I then returned to the matters at hand, which
-involved completing my PhD and getting a postdoc.
+at UPenn physics concerning earth system science.  I recall putting
+his name on a note in my desk after the talk, along with "interesting
+stuff".  I then returned to the matters at hand, which involved
+completing my PhD and getting a postdoc.
 
 
 <br> <br>

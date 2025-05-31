@@ -82,6 +82,10 @@ and non-judgmental space.
 
 <br> <br>
 
+<figure> <img src="/assets/images/research_group_apr2025.jpg">
+<figcaption>Retirement lunch for Griffies, with Matt Lobo and Wenda Zhang.
+</figcaption> </figure>
+
 <figure> <img src="/assets/images/research_group_sep2023.jpg">
 <figcaption>Going away dinner for Graeme Sept 2023: Graeme
 MacGilchrist, Stephen Griffies, Matt Lobo,  Jan Zika, and Hemant Khatri.

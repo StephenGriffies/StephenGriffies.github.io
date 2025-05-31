@@ -273,10 +273,15 @@ simulations and analysis.
 
 
 <figure> <img
+src="/assets/images/Adcroft_Griffies_Hallberg_2025_04_17.jpeg">
+<figcaption>Alistair Adcroft, Stephen Griffies, and Robert Hallberg at
+Griffies' GFDL retirement lunch on 17 April 2025. </figcaption> </figure>
+
+<figure> <img
 src="/assets/images/Steve_Bob_Sonya_Alistair_2019.jpg">
 <figcaption>GFDL/Princeton leads on the MOM6 Project: Stephen
 Griffies, Robert Hallberg, Sonya Legg, and Alistair Adcroft
-in 2019. </figcaption> </figure>
+in Princeton University Sayre Hall in 2019. </figcaption> </figure>
 
 
 <ul>

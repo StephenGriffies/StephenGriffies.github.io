@@ -82,7 +82,7 @@ and non-judgmental space.
 
 <br> <br>
 
-<figure> <img src="/assets/images/research_group_apr2025.jpg">
+<figure> <img src="/assets/images/research_group_apr2025.jpeg">
 <figcaption>Retirement lunch for Griffies, with Matt Lobo and Wenda Zhang.
 </figcaption> </figure>
 

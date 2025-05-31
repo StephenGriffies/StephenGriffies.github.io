@@ -87,7 +87,7 @@ and non-judgmental space.
 Lobo and Wenda Zhang.  </figcaption> </figure>
 
 <figure> <img src="/assets/images/research_group_sep2023.jpg">
-<figcaption>Going away dinner for Graeme Sept 2023: Graeme
+<figcaption>Going away dinner for Graeme in Sept 2023: Graeme
 MacGilchrist, Stephen Griffies, Matt Lobo,  Jan Zika, and Hemant Khatri.
 </figcaption> </figure>
 

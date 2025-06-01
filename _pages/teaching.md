@@ -211,6 +211,10 @@ href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2025)</a>.
 
 <br> <br>
 
+<figure> <img src="/assets/images/AOS572_spring2025.jpeg">
+<figcaption>AOS 572 (Geophysical Waves and Instabilities) Spring 2025
+</figcaption> </figure>
+
 <figure> <img src="/assets/images/AOS572_spring2024.jpg">
 <figcaption>AOS 572 (Geophysical Waves and Instabilities) Spring 2024
 </figcaption> </figure>

@@ -14,14 +14,22 @@ main:
     url: /talks/
   - title: "Biography"
     url: /bio/
+  - title: "Book Project"
+    url: /book/
 
 
 # documentation links
 quicklinks:
   - title: Organisations/Projects
     children:
+      - title: "LOCEAN"
+        url: https://www.locean.ipsl.fr/services-et-methodes/modelisation/
+      - title: "Princeton AOS"
+        url: https://aos.princeton.edu/
       - title: "GFDL"
         url: https://www.gfdl.noaa.gov/ocean-model/
+      - title: "NEMO"
+        url: https://www.nemo-ocean.eu/
       - title: "MOM6"
         url: https://github.com/NOAA-GFDL/MOM6
       - title: "COSIMA"

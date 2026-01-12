@@ -207,7 +207,7 @@ physics of rotating and stratified fluids.  The second semester
 focuses on waves and instabilities in geophysical fluid flows. I make
 use of the following book for the lectures, and I welcome comments and
 suggestions on this ongoing project <a
-href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2025)</a>.
+href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2026)</a>.
 
 <br> <br>
 

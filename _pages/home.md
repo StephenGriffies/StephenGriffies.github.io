@@ -17,14 +17,16 @@ header:
 <p align="justify">
 
 My name is Stephen Griffies and this website summarizes my research,
-teaching, and mentoring activities.  I conduct scientific research in
-ocean and earth system physics at the <a
-href="https://www.gfdl.noaa.gov/">NOAA Geophysical Fluid Dynamics
-Laboratory,</a> with a focus on ocean fluid mechanics and the large
-scale ocean circulation. I also teach and mentor as a
-faculty member in the <a href="https://aos.princeton.edu/">
-Atmospheric and Oceanic Sciences Program at Princeton University.
-</a>
+teaching, and mentoring activities in areas related to ocean fluid
+mechanics, ocean circulation, and climate dynamics.  As of May 2025, I
+retired from the <a href="https://www.gfdl.noaa.gov/">NOAA Geophysical
+Fluid Dynamics Laboratory in Princeton.</a> I remain active as part of
+the <a href="https://aos.princeton.edu/"> Atmospheric and Oceanic
+Sciences Program at Princeton University.</a> As of 1 Feb 2026, I will
+be part of the <a
+href="https://www.locean.ipsl.fr/services-et-methodes/modelisation/">
+LOCEAN team</a> in Paris working on topics related to ocean physics
+and ocean modeling.
 
 <br> <br>
 

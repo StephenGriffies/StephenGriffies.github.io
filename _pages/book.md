@@ -1,13 +1,13 @@
 ---
 layout: single 
-permalink: /talks/
+permalink: /book/
 author_profile: true
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
 author: Stephen Griffies
-title: "Talks"
-excerpt: "Books to communicate to the next generation"
+title: "Book"
+excerpt: "Educating the next generation"
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/wind_waves_iceberg_weddell_sea_apr2017d.jpg

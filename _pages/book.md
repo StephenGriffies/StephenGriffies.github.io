@@ -21,9 +21,8 @@ header:
 
 This webpage provides links to drafts of an ongoing book project that
 aims to provide an intellectual foundation for the study of
-Geophysical Fluid Mechanics.  Currently the book has five volumes and
-remains a work in progress. You are encouraged to read and comment on
-any portion of this project.
+Geophysical Fluid Mechanics.  Feedback is welcome, so you are
+encouraged to comment on any portion of this project.
 
 </p>
 

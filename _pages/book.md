@@ -30,8 +30,24 @@ encouraged to comment on any portion of this project.
 <ul>
 
 <li><a
-href="/assets/pdfs/GFM_lectures.pdf">
-Draft of the book </a>  </li>
+href="/assets/pdfs/GFM_lectures_vol1.pdf">
+Volume 1: Foundations in mathematical physics and classical mechanics </a>  </li>
+
+<li><a
+href="/assets/pdfs/GFM_lectures_vol2.pdf">
+Volume 2: Mechanics and thermodynamics of fluid flows </a>  </li>
+
+<li><a
+href="/assets/pdfs/GFM_lectures_vol3.pdf">
+Volume 3: Shallow water flows, vorticity, and nearly geostrophic flows </a>  </li>
+
+<li><a
+href="/assets/pdfs/GFM_lectures_vol4.pdf">
+Volume 4: Vertical coordinates, scalar fields, and Hamilton's principle </a>  </li>
+
+<li><a
+href="/assets/pdfs/GFM_lectures_vol5.pdf">
+Volume 5: Waves and instabilities </a>  </li>
 
 
 </ul>

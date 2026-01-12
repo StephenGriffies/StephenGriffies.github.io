@@ -4,8 +4,6 @@ main:
     url: /researchI/
   - title: "Research II"
     url: /researchII/
-  - title: "Collaborations"
-    url: /collaborations/
   - title: "Models"
     url: /models/
   - title: "Education"

@@ -116,7 +116,7 @@ Jan Zika (UNSW professor 2023 autumn) </a> </li>
 Matthew Lobo (PhD student 2022-present) </a> </li>
 
 <li><a href="https://orcid.org/0000-0002-8025-2819">
-Wenda Zhang (postdoc 2022-present) </a> </li>
+Wenda Zhang (postdoc 2022-2025) </a> </li>
 
 <li><a href="https://www.linkedin.com/in/rachel-qing-pang-84b0361ab">
 Rachel Pang (Princeton undergrad 2021) </a> </li>
@@ -125,7 +125,7 @@ Rachel Pang (Princeton undergrad 2021) </a> </li>
 Marta Faulkner (PhD student 2021-2022) </a> </li>
 
 <li><a href="https://scholar.google.com/citations?user=JfUiklYAAAAJ&hl=en">
-Jan-Erik Tesdal (postdoc 2020-present) </a> </li>
+Jan-Erik Tesdal (postdoc 2020-2025) </a> </li>
 
 <li><a href="https://github.com/ruth-moorman">
 Ruth Moorman (predoc 2020) </a> </li>

@@ -21,8 +21,8 @@ header:
 
 This webpage provides links to drafts of an ongoing book project that
 aims to provide an intellectual foundation for the study of
-Geophysical Fluid Mechanics.  Feedback is welcome, so you are
-encouraged to comment on any portion of this project.
+Geophysical Fluid Mechanics.  Much work remains, with feedback welcome
+on any portion of the project.
 
 </p>
 

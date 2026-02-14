@@ -2,6 +2,8 @@
 main:
   - title: "Aspirations"
     url: /aspirations/
+  - title: "Book"
+    url: /book/
   - title: "Research I"
     url: /researchI/
   - title: "Research II"
@@ -14,8 +16,6 @@ main:
     url: /talks/
   - title: "Bio"
     url: /bio/
-  - title: "Book"
-    url: /book/
 
 
 # documentation links

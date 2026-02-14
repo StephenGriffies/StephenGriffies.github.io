@@ -1,6 +1,6 @@
 ---
 layout: single 
-permalink: /ongoing/
+permalink: /aspirations/
 author_profile: true
 author: Stephen Griffies
 title: "Aspirations"

@@ -14,9 +14,10 @@ header:
   caption: "Lagrangian averaged vorticity deviation in the west Pacific from CM2.6 (courtesy N. Tarshish)"
 ---
 
-<p align="justify">
 
-https://www.locean.ipsl.fr/services-et-methodes/modelisation/
+# <center>Ongoing Research Interests</center>
+
+<p align="justify">
 
 In Feb 2026 I started a position at the <a
 href="https://www.locean.ipsl.fr/services-et-methodes/modelisation/">
@@ -27,13 +28,7 @@ by curiosity driven questions related to the fundamentals of ocean
 physics, many of which have a direct impact on how we understand and
 simulate the ocean as a part of the Earth's climate system.
 
-
-</p>
-
-
-# <center>Ongoing Research Interests</center>
-
-<p align="justify">
+<b> <b> 
 
 During much of my career, I have been privileged to be able to pursue
 a wide suite of research topics unconstrained by the usual boundaries

@@ -22,8 +22,8 @@ mechanics, ocean circulation, and climate dynamics.  As of May 2025, I
 retired from the <a href="https://www.gfdl.noaa.gov/">NOAA Geophysical
 Fluid Dynamics Laboratory in Princeton.</a> I remain active as part of
 the <a href="https://aos.princeton.edu/"> Atmospheric and Oceanic
-Sciences Program at Princeton University.</a> As of 1 Feb 2026, I will
-be part of the <a
+Sciences Program at Princeton University.</a> As of Feb 2026, I joined
+the <a
 href="https://www.locean.ipsl.fr/services-et-methodes/modelisation/">
 LOCEAN team</a> in Paris working on topics related to ocean physics
 and ocean modeling.
@@ -31,11 +31,10 @@ and ocean modeling.
 <br> <br>
 
 You are invited to explore this website for an overview of my
-activities and for opportunities to work with me as a graduate
-student, postdoc, or visiting research scientist.  In particular, I
-seek PhD students with an extremely strong training in theoretical
-physics and applied mathematics as achieved during undergraduate
-and/or masters studies.
+activities and for opportunities to work with me as a postdoc or
+collaborator.  In particular, I seek collaborators with a very strong
+training in theoretical physics who have an interest in the rich and
+diverse questions within ocean and climate physics.
 
 </p>
 

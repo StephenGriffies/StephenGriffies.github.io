@@ -41,27 +41,17 @@ deepen our understanding of ocean physical processes and circulation.
 
 As part of my research, teaching, and mentoring, I aim to foster an
 inclusive, friendly, generous, patient, and non-judgmental space for
-students, postdocs, and researchers.  Key principles that support this
-space include equity, diversity and inclusion, each of which are
-intrinsically valuable and an essential feature of ethical research
-and education.  I also acknowledge and honor past generations whose
-efforts, some of which were sadly garnered through force and
-oppression, have led to the rewarding research environment that I now
-work.  It is my sincere hope that practicing the above principles
-supports present and future generations in a way that helps to heal
-past injustices.
-
-<br> <br>
-
-Cultivating an open, accepting, and grateful research and learning
-space supports spontaneous brainstorming and learning while genuinely
-appreciating contributions from individuals without regard to race,
-ethnicity, culture, religion, sexual orientation, gender identity and
-expression, physical ability, age, socioeconomic status or
-nationality.  Each participant in this space celebrates diversity and
-nurtures an inclusive and resilient community that is better able to
-produce fundamental scientific advances that are effectively
-communicated to the global community.
+all students, postdocs, and researchers.  I also acknowledge and honor
+past generations whose efforts, some of which were sadly garnered
+through force and oppression, have led to the rewarding research
+environments that I have worked around the world.  It is my sincere
+hope that practicing these principles supports present and future
+generations in a way that helps to heal past injustices.  Cultivating
+an inclusive intellectual space supports spontaneous brainstorming and
+advances while genuinely appreciating contributions from individuals
+without regard to race, ethnicity, culture, religion, sexual
+orientation, gender identity and expression, physical ability,
+age, socioeconomic status or nationality.  
 
 </p>
 
@@ -73,7 +63,7 @@ I find it fulfilling to collaborate with scientists from across a
 broad spectrum of experience, expertise, and backgrounds.  I
 particularly seek to mentor and collaborate with students, postdocs,
 and visiting researchers with passions for mathematical physics and
-physical oceanography.  As a mentor, I aim to nurture a talent for
+theoretical ocean physics.  As a mentor, I aim to nurture a talent for
 diving deep into the fundamentals of ocean physics and for creatively
 uncovering their impacts on ocean circulation.  I support open and
 honest working relations and aim for an environment where scientific
@@ -83,23 +73,25 @@ and non-judgmental space.
 <br> <br>
 
 <figure> <img src="/assets/images/research_group_apr2025.jpeg">
-<figcaption>Retirement lunch for Griffies in April 2025, with Matt
-Lobo and Wenda Zhang.  </figcaption> </figure>
+<figcaption>NOAA/GFDL retirement lunch for Griffies in April 2025,
+with Matt Lobo (PhD student) and Wenda Zhang (postdoc).  </figcaption>
+</figure>
 
 <figure> <img src="/assets/images/research_group_sep2023.jpg">
-<figcaption>Going away dinner for Graeme in Sept 2023: Graeme
-MacGilchrist, Stephen Griffies, Matt Lobo,  Jan Zika, and Hemant Khatri.
-</figcaption> </figure>
+<figcaption>Going away dinner for postdoc Graeme MacGilchrist in Sept
+2023, with Graeme MacGilchrist, Stephen Griffies, Matt Lobo, Jan Zika,
+and Hemant Khatri.  </figcaption> </figure>
 
 <figure> <img src="/assets/images/research_group_jan2020.jpg">
-<figcaption>Research group January 2020: Benjamin Taylor, Hemant
+<figcaption>Research group dinner in January 2020, with Benjamin
+Taylor, Hemant
 Khatri, Ruth Moorman, Graeme MacGilchrist, Houssam Yassin, and  
 Stephen Griffies.  </figcaption> </figure>
 
 <figure> <img src="/assets/images/research_group_jun2016.jpg">
-<figcaption>Research group June 2016: Adele Morrison, Henri Drake,
-Stephen Griffies, Carolina Dufour, and Alison Gray. </figcaption>
-</figure>
+<figcaption>Research group gathering in June 2016, with Adele
+Morrison, Henri Drake, Stephen Griffies, Carolina Dufour, and Alison
+Gray. </figcaption> </figure>
 
 
 <br>
@@ -193,23 +185,29 @@ Shafer Smith  (postdoc 1999-2002) </a> </li>
 </p>
 
 
-#  <center> GFM at Princeton</center>
+#  <center> Geophysical Fluid Mechanics at Princeton</center>
 
 <p align="justify">
 
 Geophysical fluid mechanics (GFM) is a beautiful discipline of
 theoretical physics that forms the intellectual foundation for
-physical oceanography and meteorology. I teach the graduate GFM course
-as part of Princeton University's AOS program. The first semester
-develops mathematics, kinematics, tracer dynamics, momentum dynamics,
-and vorticity dynamics relevant for understanding and describing the
-physics of rotating and stratified fluids.  The second semester
-focuses on waves and instabilities in geophysical fluid flows. I make
-use of the following book for the lectures, and I welcome comments and
+physical oceanography and meteorology. From 2014 to 2025 I taught the
+graduate GFM course as part of Princeton University's AOS program. The
+first semester develops mathematics, kinematics, tracer dynamics,
+momentum dynamics, and vorticity dynamics relevant for understanding
+and describing the physics of rotating and stratified fluids.  The
+second semester focuses on waves and instabilities in geophysical
+fluid flows.  I also taught a special topics class in the autumn of
+2025 on mathematical methods in ocean physics.  For each of these
+classes I made use of the following book, and I welcome comments and
 suggestions on this ongoing project <a
-href="/assets/pdfs/GFM_lectures.pdf"> (Griffies, 2026)</a>.
+href="https://stephengriffies.github.io/book/"> (Griffies, 2026)</a>.
 
 <br> <br>
+
+<figure> <img src="/assets/images/AOS585_autumn2025.jpeg">
+<figcaption>AOS 585 (Special topics in ocean tracer methods) Autumn 2025
+</figcaption> </figure>
 
 <figure> <img src="/assets/images/AOS572_spring2025.jpeg">
 <figcaption>AOS 572 (Geophysical Waves and Instabilities) Spring 2025

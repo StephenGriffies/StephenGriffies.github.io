@@ -1,16 +1,18 @@
 # links
 main:
+  - title: "Aspirations"
+    url: /aspirations/
   - title: "Research I"
     url: /researchI/
   - title: "Research II"
     url: /researchII/
   - title: "Models"
     url: /models/
-  - title: "Education"
+  - title: "Teaching"
     url: /teaching/
   - title: "Talks"
     url: /talks/
-  - title: "Biography"
+  - title: "Bio"
     url: /bio/
   - title: "Book"
     url: /book/

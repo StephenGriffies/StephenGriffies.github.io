@@ -61,7 +61,7 @@ bucket list the idea of becoming a practicing engineer.
 </p>
 
 
-## <center>NU Applied Maths</center>
+## <center>Northwestern Un Applied Maths</center>
 
 <p align="justify">
 
@@ -71,8 +71,9 @@ Engineering Sciences and Applied Mathematics department of
 Northwestern University (1986-1987).</a> This year of course-work was
 an incredibly valuable and intense initiation into the methods and
 practices of theoretical science and engineering.  Although I found
-life at NU enjoyable and fulfilling, my urge to dive into theoretical
-physics drove me to leave the applied maths program after a masters.
+life at Northwestern enjoyable and fulfilling, my urge to dive into
+theoretical physics drove me to leave the applied maths program after
+a masters.
 
 </p>
 
@@ -80,14 +81,15 @@ physics drove me to leave the applied maths program after a masters.
 
 <p align="justify">
 
-After NU, I returned to undergraduate school, this time in physics at
-the <a href="https://phys.washington.edu/"> University of Washington
-(1987-1988).</a> This time allowed me to explore the reality of my
-dream of doing physics.  I also became exposed to the quest for beauty
-and unity that so deeply drives physicists, and which remains part of
-how I approach research and teaching.  I chose UW for this transition
-year since I spent roughly seven years in the Puget Sound region of
-Washington during the 1970s, and my father still lives in Tacoma. 
+After Northwestern, I returned to undergraduate school, this time in
+physics at the <a href="https://phys.washington.edu/"> University of
+Washington (1987-1988).</a> This time allowed me to explore the
+reality of my dream of doing physics.  I also became exposed to the
+quest for beauty and unity that so deeply drives physicists, and which
+remains part of how I approach research and teaching.  I chose UW for
+this transition year since I spent roughly seven years in the Puget
+Sound region of Washington during the 1970s, and my father lived in
+Tacoma until his passing in 2023.
 
 </p>
 
@@ -112,21 +114,38 @@ was completed with a pencil, paper, and brain.
 <p align="justify">
 
 Towards the end of my time as a PhD student, I decided to switch to
-geosciences with a focus on oceanography.  That decision led me to do
-a post-doc at Princeton in the geosciences department, working at GFDL
-under the mentorship of <a
+geosciences with a focus on ocean and climate physics.  That decision
+led me to do a postdoc at Princeton in the geosciences department,
+working at GFDL under the mentorship of <a
 href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)">Kirk
 Bryan</a>.  This 2+ years as a post-doc was both a time for research
 and a time for taking courses on topics that I had little exposure to
 while studying in a physics department, such as fluid mechanics and
-earth system dynamics. I got the hang of it after a while, sufficient
-to land a job as a federal scientist at GFDL starting spring 1996.
-That transition also saw me getting married (now with one son, born
-2006) and deciding to settle down in Princeton for the long haul.
+earth system dynamics. I got the hang of it, sufficient to land a job
+as a federal scientist at GFDL starting spring 1996.  That transition
+also saw me getting married (now with a son, born 2006) and settling
+in Princeton.
 
 
 </p>
 
+## <center>GFDL staff, Princeton University faculty, LOCEAN/CNRS in Paris</center>
+
+<p align="justify">
+
+I worked as a GFDL staff physical scientist from spring 1996 until
+spring 2025, and from 2014 to 2025 I served as a faculty member of the
+Princeton University Atmosphere/Ocean Sciences program teaching
+geophysical fluid mechanics.  Upon retirement from GFDL in May 2025, I
+took at position at the LOCEAN laboratory at IPSL in Paris France
+starting Feb 2026, funced by the Choose France for Science program and
+appointed through the CNRS.  The move to Paris has energized my
+efforts in theoretical ocean physics and numerical ocean modeling,
+offering me the opportunities to work among the French and broader
+European community of ocean and climate scientists.  I am extremely
+privileged and honored with this new role.
+
+</p>
 
 
 
@@ -134,7 +153,7 @@ That transition also saw me getting married (now with one son, born
 
 <p align="justify">
 
-My unusually diverse (perhaps random!) education resulted from an
+My unusually diverse (somewhat random!) education resulted from an
 early fascination with the natural world, and the ability of science,
 engineering, and maths to help understand and describe the world.
 More practically, it resulted from the difficulty I had choosing a
@@ -142,7 +161,9 @@ particular intellectual path.  Even so, one thing I appreciated quite
 early on was the relative freedom offered to the academic and the
 researcher.  I could ask for nothing more fulfilling and compelling
 than to be paid to learn from great minds, to deepen understanding
-through research, and to teach the next generation of students. 
+through research, and to teach the next generation of students.  If
+you like to work on your own agenda, then research is a path to
+consider!
 
 </p>
 
@@ -150,19 +171,23 @@ through research, and to teach the next generation of students.
 
 <p align="justify">
 
-My "paper and pencil" experience as a PhD student is in apparent
-contrast to much of my ongoing research in which computer simulations
-play a central role.  However, that perspective is not the full story.
+My "paper and pencil" experience as a masters and PhD student is in
+apparent contrast to much of my ongoing research in which computer
+simulations play a central role.  However, there is more to the story.
 Even though I have contributed research and development energies to
 numerical codes and global circulation models, I firmly retain the
 concepts, tools, and prejudices engendered from studies of
 theoretical/mathematical physics, each of which guide my research and
-mentoring activities. Quite simply, computer simulations are
-constrained by the quality of human brains used to build models and
-analyze their output: As <a
+mentoring activities.  Nearly all of the code I have written
+originated from pencil and paper equatinos, then translated to LaTeX,
+and only then did it find its way into Fortran or Python.  I consider
+computer simulations to be constrained by the quality of human brains
+used to build numerical models and to analyze their output, far more
+than computer power.  As <a
 href="https://en.wikipedia.org/wiki/Jerry_D._Mahlman"> Jerry
-Mahlman</a> emphasized when he hired me, software and hardware are of
-little use for science without brainware.
+Mahlman</a> emphasized when he hired me in 1996, software and hardware
+are of little use for science unless they are strongly coupled to
+brainware.
 
 <br> <br>
 
@@ -202,32 +227,46 @@ wonderful lab.
 <br> <br>
 
 I visited GFDL a handfull of times during the spring of 1993, meeting
-GFDL giants like Suki Manabe (who won= the 2021 Nobel Prize in physics
-for his work on global warming), Isaac Held, Kiku Miyakoda, Kurihara,
-Isidoro Orlanski, and Kirk Bryan.  I was particularly attracted to the
-idea of working with Kirk Bryan, the father of numerical oceanography.
-Fortunately, we developed a chemistry and he supported my application
-to do a post-doc with him starting in September 1993. Before the
-post-doc officially started, and only two weeks after my PhD defense
-on cosmic domain walls and time machines, Kirk put me on a plane to
-Nova Scotia (using his personal funds!) to join a research cruise to
-the Labrador Sea on a Canadien research vessel (The Hudson).  The
-chief scientist was John Lazier and <a
+GFDL giants like <a
+href="https://en.wikipedia.org/wiki/Syukuro_Manabe"> Suki Manabe</a>
+(who won the 2021 Nobel Prize in physics for his work on global
+warming), <a href="https://en.wikipedia.org/wiki/Isaac_Held"> Isaac
+Held</a>, one of the world's preeminant atmospheric and climate
+dynamicists, <a
+href="file:///Users/smg/Downloads/bams-1520-0477_1993_074_1351_mftuot_2_0_co_2.pdf">
+Kiku Miyakoda</a>, whose work led to the invention of extended range
+weather forecasts that greatly influenced the origns of the European
+Centre for Weather Forecasting, <a
+href="https://journals.ametsoc.org/view/journals/bams/100/9/bams-d-18-0197.1.pdf">
+Yoshio Kurihara</a>, whose work led to great advances in hurricane
+predictions, <a href="https://en.wikipedia.org/wiki/Isidoro_Orlanski">
+Isidoro Orlanski</a>, , one of the world's preeminant mesoscale
+meteorologists, and <a
+href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)"> Kirk
+Bryan</a>, the father of numerical oceanography and my postdoc mentor
+from Sept 1993 to June 1996. Before the postdoc officially started,
+and only two weeks after my PhD defense on cosmic domain walls and
+time machines, Kirk put me on a plane to Nova Scotia (using his
+personal funds!) to join a research cruise to the Labrador Sea on a
+Canadien research vessel (The Hudson).  The chief scientist was <a
+href="https://bulletin.cmos.ca/obituary-of-dr-john-r-n-lazier-november-1-1936-march-9-2021/">John
+Lazier</a>.  Another member of the scientist crew was <a
 href="https://www.ocean.washington.edu/people/faculty/rhines/rhines.html">Peter
-Rhines</a> was the ship's intellectual guru. That was indeed a rapid
-initiation into oceanography. I was definitely hooked!
+Rhines</a>, who served as the ship's intellectual guru. That trip was
+a rapid initiation into seagoing oceanography, and I was definitely
+hooked!
 
 <br> <br>
 
 I have often pondered how inevitable it was for me to transition from
-theoretical physics to oceanography. Who knows?  One reason perhaps
-originates from many years living at or near the seashore or near
-lakes and rivers.  My father was in the US Air Force, so my family
-moved every three to four years while growing up: Texas, Louisiana,
-Hawaii, California, Washington State, and the Mississippi Coast.
-Bodies of water, and in particular the ocean, became part of my DNA.
-From this perspective is seems natural that my heart would lead my
-head to do research in ocean science.
+theoretical physics to oceanography. One reason perhaps originates
+from many years living at or near the seashore or near lakes and
+rivers.  My father was in the US Air Force, so my family moved every
+three to four years while growing up: Texas, Louisiana, Hawaii,
+California, Washington State, and the Mississippi Coast.  Bodies of
+water, and in particular the ocean, became part of my DNA.  From this
+perspective is seems natural that my heart would lead my head to do
+research in ocean science.
 
 
 </p>

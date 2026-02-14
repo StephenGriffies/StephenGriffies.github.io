@@ -15,8 +15,6 @@ header:
 ---
 
 
-# Ongoing Research Interests
-
 In February 2026 I started a position at the
 [IPSL/LOCEAN laboratory in Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
 working within the
@@ -26,7 +24,7 @@ by curiosity-driven questions related to the fundamentals of ocean
 physics, many of which have a direct impact on how we understand and
 simulate the ocean as part of the Earth’s climate system.
 
-<br><br>
+<br>
 
 During much of my career, I have been privileged to be able to pursue
 a wide suite of research topics unconstrained by the usual boundaries
@@ -35,7 +33,7 @@ are relatively broad, and they have been largely guided by intellectual
 interests and the desire to collaborate with a variety of smart and
 curious individuals.
 
-<br><br>
+<br>
 
 In recent years, my interests have centered on the role of mathematical
 physics in addressing fundamental questions of theoretical ocean

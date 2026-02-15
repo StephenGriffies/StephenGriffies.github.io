@@ -1,21 +1,21 @@
 # links
 main:
+  - title: "Bio"
+    url: /bio/
   - title: "Aspirations"
     url: /aspirations/
   - title: "Book"
     url: /book/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Talks"
+    url: /talks/
   - title: "Research I"
     url: /researchI/
   - title: "Research II"
     url: /researchII/
   - title: "Models"
     url: /models/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Talks"
-    url: /talks/
-  - title: "Bio"
-    url: /bio/
 
 
 # documentation links

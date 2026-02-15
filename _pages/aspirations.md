@@ -26,15 +26,15 @@ simulate the ocean as part of the Earth’s climate system.
 
 During much of my career, I have been privileged to be able to pursue
 a wide suite of research topics unconstrained by the usual boundaries
-of research proposals and grants. Consequently, my research interests
-are relatively broad, and they have been largely guided by intellectual
+of research proposals and grants. Consequently, my research portfolio
+is relatively broad, and it has been largely guided by intellectual
 interests and the desire to collaborate with a variety of smart and
 curious individuals.
 
-In recent years, my interests have centered on the role of mathematical
-physics in addressing fundamental questions of theoretical ocean
-physics and ocean numerical modeling. The following is an incomplete
-list of topics that I hope to pursue in the near future through
+In recent years, I have focused on the role of mathematical physics in
+addressing fundamental questions of theoretical ocean physics and
+ocean numerical modeling. The following is an incomplete list of
+topics that I hope to pursue in the near future through
 collaborations. I offer just a few words concerning these topics,
 largely since they are aspirational and incompletely formed. Please
 feel free to connect with me should you wish to collaborate. I have
@@ -76,14 +76,14 @@ collaborations.
 
 - **Mathematical theory of watermass transformation** that applies
   across arbitrary coordinate systems.  Can potential vorticity serve
-  as a useful coordinate for watermass theory.  This question builds
-  from an incomplete research path documented in [Nurser et
+  as a useful coordinate for watermass analysis?  These questions
+  build from the ongoing research path documented in [Nurser et
   al. (2022)](https://essopenarchive.org/doi/full/10.1002/essoar.10511370.2).
 
 - **Hamilton’s principle and differential geometry in numerical
   modeling.** Recent advances offer new approaches to formulating
-  fluid mechanical models based on discrete differential geometry. Can
-  such methods be used to formulate the ocean’s thermo-hydrodynamical
+  fluid thermo-mechanical models based on discrete differential
+  geometry. Can such methods be used to formulate the ocean’s
   equations in pursuit of the next generation of ocean circulation
   models?
   

@@ -19,13 +19,11 @@ header:
 
 <p align="justify">
 
-This webpage provides links to drafts of an ongoing book project that
-aims to provide an intellectual foundation for the study of
-Geophysical Fluid Mechanics.  It has been a passion of mine for many
-years, with much more work remaining. Feedback is welcome on any
-portion of the project.  Note that in addition to the text, this
-project offers a full solution manual, available upon request from
-teachers.
+This webpage provides links to an ongoing book project for the study
+of Geophysical Fluid Mechanics.  Much more work remains, though I am
+happy to receive feedback on any portion of the project.  In addition
+to the text material, I have a solution manual for exercises that is
+available upon request from teachers.
 
 </p>
 

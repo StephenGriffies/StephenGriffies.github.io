@@ -44,7 +44,7 @@ Volume 3: Shallow water flows, vorticity,  nearly geostrophic flows, vertical co
 
 <li><a
 href="/assets/pdfs/GFM_lectures_vol4.pdf">
-Volume 4: Hamilton's principle, waves and instabilities </a>  </li>
+Volume 4: Hamilton's principle, waves, and instabilities </a>  </li>
 
 </ul>
 

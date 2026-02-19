@@ -21,11 +21,11 @@ header:
 
 This webpage provides links to drafts of an ongoing book project that
 aims to provide an intellectual foundation for the study of
-Geophysical Fluid Mechanics.  It is an over-the-top project that has
-been my passion for many years, with much more work
-remaining. Feedback is welcome on any portion of the project.
-Note that in addition to the text, this project offers a full solution
-manual for teachers and students.  
+Geophysical Fluid Mechanics.  It has been a passion of mine for many
+years, with much more work remaining. Feedback is welcome on any
+portion of the project.  Note that in addition to the text, this
+project offers a full solution manual, available upon request from
+teachers.
 
 </p>
 
@@ -42,16 +42,11 @@ Volume 2: Mechanics and thermodynamics of fluid flows </a>  </li>
 
 <li><a
 href="/assets/pdfs/GFM_lectures_vol3.pdf">
-Volume 3: Shallow water flows, vorticity, and nearly geostrophic flows </a>  </li>
+Volume 3: Shallow water flows, vorticity,  nearly geostrophic flows, vertical coordinates, and scalar fields </a>  </li>
 
 <li><a
 href="/assets/pdfs/GFM_lectures_vol4.pdf">
-Volume 4: Vertical coordinates, scalar fields, and Hamilton's principle </a>  </li>
-
-<li><a
-href="/assets/pdfs/GFM_lectures_vol5.pdf">
-Volume 5: Waves and instabilities </a>  </li>
-
+Volume 4: Hamilton's principle, waves and instabilities </a>  </li>
 
 </ul>
 

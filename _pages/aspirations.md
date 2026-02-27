@@ -15,7 +15,7 @@ header:
 ---
 
 
-In February 2026 I started a position at the
+In February 2026, I started a position at the
 [IPSL/LOCEAN laboratory in Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
 working within the
 [NEMO development team](https://www.nemo-ocean.eu/).
@@ -24,23 +24,25 @@ by curiosity-driven questions related to the fundamentals of ocean
 physics, many of which have a direct impact on how we understand and
 simulate the ocean as part of the Earth’s climate system.
 
-During much of my career, I have been privileged to be able to pursue
-a wide suite of research topics unconstrained by the usual boundaries
-of research proposals and grants. Consequently, my research portfolio
-is relatively broad, and it has been largely guided by intellectual
-interests and the desire to collaborate with a variety of smart and
-curious individuals.
-
 In recent years, I have focused on the role of mathematical physics in
 addressing fundamental questions of theoretical ocean physics and
 ocean numerical modeling. The following is an incomplete list of
 topics that I hope to pursue in the near future through
 collaborations. I offer just a few words concerning these topics,
-largely since they are aspirational and incompletely formed. Please
-feel free to connect with me should you wish to collaborate. I have
-funds to support one or two postdoctoral researchers in Paris as part
-of LOCEAN. I also have funds for visits to Paris to support
+largely since they are aspirational and incompletely formu;ated in my
+head.  Please feel free to connect with me should you wish to
+collaborate on these, or related, projects. I have funds to support
+one (possibly two) postdoctoral researchers in Paris as part of
+LOCEAN. I also have funds for visits to Paris to support
 collaborations.
+
+Should you wish to apply for the postdoc position, then please email
+me your CV and a three-page (roughly) discussion of your research aims
+and interests. Please also include names for three colleages or
+mentors who can write letters in support of your application.  There
+is no deadline for applications, with position(s) filled when suitable
+candiates are found.
+
 
 ## An incomplete list of research topics
 

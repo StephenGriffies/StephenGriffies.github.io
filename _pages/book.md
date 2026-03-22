@@ -25,6 +25,8 @@ happy to receive feedback on any portion of the project.  In addition
 to the text material, I have a solution manual for exercises that is
 available upon request from teachers.
 
+I also provide a link to an earlier book that was published in 2004.
+
 </p>
 
 
@@ -48,3 +50,13 @@ Volume 4: Hamilton's principle, waves, and instabilities </a>  </li>
 
 </ul>
 
+In 2004, I published a book on the fundamentals of ocean climate
+models, in which the book establishes the mathematical equations and
+methods used for ocean climate modeling, circa 2004. Many elements of
+this book remain relevant today.  <ul>
+
+<li><a
+href="https://press.princeton.edu/our-authors/griffies-stephen?srsltid=AfmBOopBqY-tqC0a5SxvVU0qS4I4sMvN5QPDVVtTtrcqaEsFzWf4SOvb">
+Fundamentals of ocean climate models </a>  </li>
+
+</ul>

@@ -6,7 +6,7 @@ toc: true
 toc_label: "On this page"
 toc_icon: "sun"
 author: Stephen Griffies
-title: "Book"
+title: "Book Projects"
 excerpt: "Educating the next generation"
 header:
   overlay_color: "#000"
@@ -50,10 +50,16 @@ Volume 4: Hamilton's principle, waves, and instabilities </a>  </li>
 
 </ul>
 
+<p align="justify">
+
 In 2004, I published a book on the fundamentals of ocean climate
 models, in which the book establishes the mathematical equations and
 methods used for ocean climate modeling, circa 2004. Many elements of
-this book remain relevant today.  <ul>
+this book remain relevant today.  
+
+</p>
+
+<ul>
 
 <li><a
 href="https://press.princeton.edu/our-authors/griffies-stephen?srsltid=AfmBOopBqY-tqC0a5SxvVU0qS4I4sMvN5QPDVVtTtrcqaEsFzWf4SOvb">

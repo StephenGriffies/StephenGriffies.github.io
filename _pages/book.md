@@ -15,17 +15,15 @@ header:
 ---
 
 
-#  <center> Geophysical Fluid Mechanics </center>
+#  <center> GFM + Ocean Climate Modeling </center>
 
 <p align="justify">
 
-This webpage provides links to an ongoing book project for the study
-of Geophysical Fluid Mechanics.  Much more work remains, though I am
-happy to receive feedback on any portion of the project.  In addition
-to the text material, I have a solution manual for exercises that is
+Here are links to an ongoing book project for the study of Geophysical
+Fluid Mechanics (GFM).  Much more work remains, though I am happy to
+receive feedback on any portion of the project.  In addition to the
+text material, I have a solution manual for exercises that is
 available upon request from teachers.
-
-I also provide a link to an earlier book that was published in 2004.
 
 </p>
 
@@ -55,7 +53,7 @@ Volume 4: Hamilton's principle, waves, and instabilities </a>  </li>
 In 2004, I published a book on the fundamentals of ocean climate
 models, in which the book establishes the mathematical equations and
 methods used for ocean climate modeling, circa 2004. Many elements of
-this book remain relevant today.  
+this book remain relevant today.
 
 </p>
 

@@ -19,30 +19,25 @@ In February 2026, I started a position at the [IPSL/LOCEAN laboratory
 in
 Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
 working within the [NEMO development
-team](https://www.nemo-ocean.eu/).  The position offers the freedom to
-pursue a number of projects motivated by curiosity-driven questions
-related to the fundamentals of ocean physics, many of which have a
-direct impact on how we understand and simulate the ocean as part of
-the Earth’s climate system.  In recent years, I have focused on the
-role of mathematical physics in addressing fundamental questions of
-theoretical ocean physics and ocean numerical modeling. The following
-is an incomplete list of topics that I hope to pursue in the near
-future through collaborations, such as through working with
-postdocs. I offer just a few words concerning these topics, largely
-since they are aspirational and incompletely formulated in my head.
-Please feel free to connect with me should you wish to collaborate on
-these, or related, projects. I have funds to support one (possibly
-two) postdoctoral researchers in Paris as part of LOCEAN. I also have
-funds for visits to Paris to support collaborations.  
+team](https://www.nemo-ocean.eu/).  
+The position offers the freedom to pursue a number of projects
+motivated by curiosity-driven questions related to the fundamentals of
+ocean physics, many of which have a direct impact on how we understand
+and simulate the ocean as part of the Earth’s climate system.  Please
+feel free to connect with me should you wish to collaborate. I have
+funds to support one (possibly two) postdoctoral researchers in Paris
+as part of LOCEAN. I also have funds for visits to Paris to support collaborations.
 
-Application Requirements: Please email me the following materials:
-- **Full CV**
-- **Research aims and career aspirations (3-4 pages)**
-- **Names for three letter writers** 
+**Postdoc Application Requirements**
+
+1. **Full CV**
+2. **Research aims and career aspirations (3-4 pages)**
+3. **Names for three letter writers**
+
 There is no deadline for applications, with position(s) filled when
 suitable candidates are found.
 
-## An incomplete list of research topics
+## An incomplete list of research interests
 
 - **Ocean waves and mean flows** using methods from quantum mechanics,
   Hamilton’s principle, and ray theory, as detailed in  
@@ -54,14 +49,15 @@ suitable candidates are found.
   to atmospheric physicists? How can variational methods be used to
   study realistic ocean-flow stability in the presence of topography?
 
-- **Coarse-graining methods** and their use in understanding multiscale
-  interactions in geophysical turbulence, and in informing subgrid-scale
-  parameterizations. How can we understand the role of linear and
-  nonlinear interactions between the gyrescale, mesoscale, and
-  submesoscale, and their influence on emergent properties of the ocean
-  general circulation? This work builds on
-  [Storer et al. (2022)](https://www.nature.com/articles/s41467-022-33031-3) and
-  [Storer et al. (2023)](https://www.science.org/doi/10.1126/sciadv.adi7420).
+- **Coarse-graining methods** and their use in understanding
+  multiscale interactions in geophysical turbulence, and in informing
+  subgrid-scale parameterizations. How can we understand the role of
+  linear and nonlinear interactions between the gyrescale, mesoscale,
+  and submesoscale, and their influence on emergent properties of the
+  ocean general circulation? This work builds on [Storer et
+  al. (2022)](https://www.nature.com/articles/s41467-022-33031-3) and
+  [Storer et
+  al. (2023)](https://www.science.org/doi/10.1126/sciadv.adi7420).
 
 - **Theory of ocean mesoscale and submesoscale turbulence** that
   directly informs and constrains parameterizations for ocean
@@ -86,5 +82,3 @@ suitable candidates are found.
   geometry. Can such methods be used to formulate the ocean’s
   equations in pursuit of the next generation of ocean circulation
   models?
-  
-  

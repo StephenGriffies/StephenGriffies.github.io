@@ -2,7 +2,7 @@
 main:
   - title: "Bio"
     url: /bio/
-  - title: "Aspirations"
+  - title: "Opportunities"
     url: /aspirations/
   - title: "Books"
     url: /book/

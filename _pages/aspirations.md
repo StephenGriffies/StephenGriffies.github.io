@@ -3,7 +3,7 @@ layout: single
 permalink: /aspirations/
 author_profile: true
 author: Stephen Griffies
-title: "Research aspirations"
+title: "Research opportunities"
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
@@ -15,33 +15,32 @@ header:
 ---
 
 
-In February 2026, I started a position at the
-[IPSL/LOCEAN laboratory in Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
-working within the
-[NEMO development team](https://www.nemo-ocean.eu/).
-The position offers the freedom to pursue a number of projects motivated
-by curiosity-driven questions related to the fundamentals of ocean
-physics, many of which have a direct impact on how we understand and
-simulate the ocean as part of the Earth’s climate system.
-In recent years, I have focused on the role of mathematical physics in
-addressing fundamental questions of theoretical ocean physics and
-ocean numerical modeling. The following is an incomplete list of
-topics that I hope to pursue in the near future through
-collaborations. I offer just a few words concerning these topics,
-largely since they are aspirational and incompletely formulated in my
-head.  
-
+In February 2026, I started a position at the [IPSL/LOCEAN laboratory
+in
+Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
+working within the [NEMO development
+team](https://www.nemo-ocean.eu/).  The position offers the freedom to
+pursue a number of projects motivated by curiosity-driven questions
+related to the fundamentals of ocean physics, many of which have a
+direct impact on how we understand and simulate the ocean as part of
+the Earth’s climate system.  In recent years, I have focused on the
+role of mathematical physics in addressing fundamental questions of
+theoretical ocean physics and ocean numerical modeling. The following
+is an incomplete list of topics that I hope to pursue in the near
+future through collaborations, such as through working with
+postdocs. I offer just a few words concerning these topics, largely
+since they are aspirational and incompletely formulated in my head.
 Please feel free to connect with me should you wish to collaborate on
 these, or related, projects. I have funds to support one (possibly
 two) postdoctoral researchers in Paris as part of LOCEAN. I also have
-funds for visits to Paris to support collaborations.  Should you wish
-to apply for the postdoc position, then please email me your CV and a
-three-page (roughly) discussion of your research aims and
-interests. Please also include names for three colleages or mentors
-who can write letters in support of your application.  There is no
-deadline for applications, with position(s) filled when suitable
-candidates are found.
+funds for visits to Paris to support collaborations.  
 
+Application Requirements: Please email me the following materials:
+- **Full CV**
+- **Research aims and career aspirations (3-4 pages)**
+- **Names for three letter writers** 
+There is no deadline for applications, with position(s) filled when
+suitable candidates are found.
 
 ## An incomplete list of research topics
 

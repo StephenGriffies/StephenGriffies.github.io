@@ -14,7 +14,7 @@ header:
   caption: "Lagrangian averaged vorticity deviation in the west Pacific from CM2.6 (courtesy N. Tarshish)"
 ---
 
-# Available postdoc position(s) in Paris 
+# Available postdoc(s) in Paris 
 
 
 In February 2026, I started a position at the [IPSL/LOCEAN laboratory

@@ -28,16 +28,21 @@ The position provides funds for one (possibly two) postdoctoral
 researchers working with me within the LOCEAN team in Paris.  Funding
 supports curiosity-driven research addressing questions at the heart
 of ocean fluid mechanics and thermodynamics, with an emphasis on how
-the ocean works within the Earth's warming climate system. The
-position is within a vibrant group of theoretical, numerical, and
+the ocean works within the Earth's warming climate system. 
+
+
+The position is within a vibrant group of theoretical, numerical, and
 observational ocean and climate physicists, biogeochemists, and
 engineers at LOCEAN, along with a community of 40-50 graduate students
 and postdos.  LOCEAN is within the Sorbonne Universite and is located
 in the Latin Quarter of Paris, which offers a wealth of intellectual
-and cultural opportunities.  Salary is commensurate with experience
-and comes with the benefits of a French employee (e.g., generous
-health care and vacation).  The position is renewable annually (based
-on progress) with funding for two to three years.
+and cultural opportunities.  
+
+
+Salary is commensurate with experience and comes with the benefits of
+a French employee (e.g., generous health care and vacation).  The
+position is renewable annually (based on progress) with funding for
+two to three years.
 
 
 **Postdoc Application Requirements**

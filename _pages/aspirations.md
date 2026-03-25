@@ -95,12 +95,6 @@ to me, though I am open to other proposed projects.
   parameterizations, given the central importance of boundary
   processes to potential vorticity?
 
-- **Mathematical theory of watermass transformation** that applies
-  across arbitrary coordinate systems.  Can potential vorticity serve
-  as a useful coordinate for watermass analysis?  These questions
-  build from the ongoing research path documented in [Nurser et
-  al. (2022)](https://essopenarchive.org/doi/full/10.1002/essoar.10511370.2).
-
 - **Hamilton’s principle and differential geometry in numerical
   modeling.** Recent advances offer new approaches to formulating
   fluid thermo-mechanical models based on discrete differential

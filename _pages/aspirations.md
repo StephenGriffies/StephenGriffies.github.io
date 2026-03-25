@@ -60,8 +60,6 @@ physics.  Below is an incomplete list of projects that are of interest
 to me, though I am open to other proposed projects.
 
 
-### An incomplete list of research projects
-
 - **Ocean waves and mean flows** using methods from quantum mechanics,
   Hamilton’s principle, and ray theory, as detailed in  
   [Tracy et al. (2014)](https://www.cambridge.org/core/books/ray-tracing-and-beyond/706CC068AEF2FA5C84C48278FC449761).

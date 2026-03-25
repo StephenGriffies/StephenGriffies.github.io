@@ -14,30 +14,48 @@ header:
   caption: "Lagrangian averaged vorticity deviation in the west Pacific from CM2.6 (courtesy N. Tarshish)"
 ---
 
+# Available postdoc position(s) in Paris 
+
 
 In February 2026, I started a position at the [IPSL/LOCEAN laboratory
 in
 Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
 working within the [NEMO development
-team](https://www.nemo-ocean.eu/).  
-The position offers the freedom to pursue a number of projects
-motivated by curiosity-driven questions related to the fundamentals of
-ocean physics, many of which have a direct impact on how we understand
-and simulate the ocean as part of the Earth’s climate system.  Please
-feel free to connect with me should you wish to collaborate. I have
-funds to support one (possibly two) postdoctoral researchers in Paris
-as part of LOCEAN. I also have funds for visits to Paris to support collaborations.
+team](https://www.nemo-ocean.eu/), and funded through [Choose France
+for
+Science](https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051).
+The position provides funds for one (possibly two) postdoctoral
+researchers working with me within the LOCEAN team in Paris.  Funding
+supports curiosity-driven research addressing questions at the heart
+of ocean fluid mechanics and thermodynamics, with an emphasis on how
+the ocean works within the Earth's warming climate system. The
+position is within a vibrant group of theoretical, numerical, and
+observational ocean and climate physicists, biogeochemists, and
+engineers at LOCEAN, along with a community of 40-50 graduate students
+and postdos.  LOCEAN is within the Sorbonne Universite and is located
+in the Latin Quarter of Paris, which offers a wealth of intellectual
+and cultural opportunities.  Salary is commensurate with experience
+and comes with the benefits of a French employee (e.g., generous
+health care and vacation).  The position is renewable annually (based
+on progress) with funding for two to three years.
+
 
 **Postdoc Application Requirements**
 
 1. **Full CV**
 2. **Research aims and career aspirations (3-4 pages)**
 3. **Names for three letter writers**
+4. **Materials sent to  [Stephen.M.Griffies@gmail.com](mailto:Stephen.M.Griffies@gmail.com)**
 
-There is no deadline for applications, with position(s) filled when
-suitable candidates are found.
+Applications are solicited until suitable candidates are found.
+Candidates are expected to possess a PhD with strong training and
+acumen in mathematical physics and computational physics, along with a
+sincere passion for collaborative research in theoretical ocean
+physics.  Below is an incomplete list of projects that are of interest
+to me, though I am open to other proposed projects.
 
-## An incomplete list of research interests
+
+### An incomplete list of research projects
 
 - **Ocean waves and mean flows** using methods from quantum mechanics,
   Hamilton’s principle, and ray theory, as detailed in  
@@ -82,3 +100,5 @@ suitable candidates are found.
   geometry. Can such methods be used to formulate the ocean’s
   equations in pursuit of the next generation of ocean circulation
   models?
+
+

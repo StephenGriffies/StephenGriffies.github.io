@@ -25,10 +25,11 @@ team](https://www.nemo-ocean.eu/), and funded through [Choose France
 for
 Science](https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051).
 The position provides funds for one (possibly two) postdoctoral
-researchers working with me within the LOCEAN team in Paris.  Funding
-supports curiosity-driven research addressing questions at the heart
-of ocean fluid mechanics and thermodynamics, with an emphasis on how
-the ocean works within the Earth's warming climate system. 
+researchers working with me within the NEMO team at the LOCEAN lab in
+Paris.  Funding supports curiosity-driven research addressing
+questions at the heart of ocean fluid mechanics and thermodynamics,
+with an emphasis on how the ocean works within the Earth's warming
+climate system.
 
 
 The position is within a vibrant group of theoretical, numerical, and
@@ -36,13 +37,16 @@ observational ocean and climate physicists, biogeochemists, and
 engineers at LOCEAN, along with a community of 40-50 graduate students
 and postdos.  LOCEAN is within the Sorbonne Universite and is located
 in the Latin Quarter of Paris, which offers a wealth of intellectual
-and cultural opportunities.  
+and cultural opportunities and exchanges. Furthermore, the postdoc is
+part of the broader European NEMO community, which offers many
+opportunities to collaborate with a wide range of theoretical and
+applied ocean scientists.
 
-
-Salary is commensurate with experience and comes with the benefits of
-a French employee (e.g., generous health care and vacation).  The
-position is renewable annually (based on progress) with funding for
-two to three years.
+Salary is commensurate with experience and comes with the standard
+benefits of a French employee (e.g., generous health care,
+unemployment insurance, and nine weeks vacation).  The position is
+renewable annually (based on progress) with funding for two to three
+years.
 
 
 **Postdoc Application Requirements**

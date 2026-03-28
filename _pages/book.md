@@ -51,9 +51,9 @@ Volume 4: Hamilton's principle, waves, and instabilities </a>  </li>
 <p align="justify">
 
 In 2004, I published a book on the fundamentals of ocean climate
-models, in which the book establishes the mathematical equations and
-methods used for ocean climate modeling, circa 2004. Many elements of
-this book remain relevant today.
+models, which develops the mathematical equations and methods used for
+ocean climate modeling circa 2004. Many elements of this book remain
+relevant today.
 
 </p>
 

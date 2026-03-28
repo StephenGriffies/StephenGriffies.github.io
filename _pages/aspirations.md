@@ -34,7 +34,7 @@ Earth's warming climate system.
 The position is within a vibrant group of theoretical, numerical, and
 observational ocean and climate physicists, biogeochemists, and
 engineers at LOCEAN, along with a community of 40-50 graduate students
-and postdos.  LOCEAN is within the Sorbonne Universite and is located
+and postdocs.  LOCEAN is within the Sorbonne Universite and is located
 in the Latin Quarter of Paris, which offers a wealth of intellectual
 and cultural opportunities and exchanges. Furthermore, the postdoc is
 part of the broader NEMO community, which offers many opportunities to

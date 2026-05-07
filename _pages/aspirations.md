@@ -24,7 +24,7 @@ working within the [NEMO development
 team](https://www.nemo-ocean.eu/), and funded through [Choose France
 for
 Science](https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051).
-The position provides funds for one (possibly two) postdoctoral
+The position provides funds for two postdoctoral
 researchers working with me.  Funding supports curiosity-driven
 research addressing questions at the heart of ocean fluid mechanics
 and thermodynamics, with an emphasis on how the ocean works within the

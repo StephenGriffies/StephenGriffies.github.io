@@ -44,8 +44,7 @@ scientists.
 Salary is commensurate with experience and comes with the standard
 benefits of a French employee (e.g., generous health care,
 unemployment insurance, and nine weeks paid vacation).  The position
-is renewable annually (based on progress) with funding for two to
-three years.
+is renewable annually (based on progress) for two years.
 
 
 **Postdoc Application Requirements**

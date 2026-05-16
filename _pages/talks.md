@@ -30,6 +30,17 @@ presentations on a variety of topics.
 <ul>
 
 <li><a
+href="https://github.com/StephenGriffies/documents/blob/master/EddyParam/.pdf">
+A primer on ocean mesoscale eddy parameterizations:  </a> Seminar at the Henri Poincare Institute, Paris, May 2026 </li>
+
+
+<li><a
+href="https://github.com/StephenGriffies/documents/blob/master/CM4X/MultiScale/Griffies_talk_IHP_May2026.pdf">
+A primer on ocean mesoscale eddy parameterizations given at the Henri
+Poincare Institue in Paris: </a> Seminar at the IHP Paris, May 2026
+</li>
+
+<li><a
 href="https://github.com/StephenGriffies/documents/blob/master/CM4X/Griffies-NYU-2024-lowres.pdf">
 Discussion of the CM4X coupled model and the mesoscale dominance
 hypothesis: </a> Seminar given at NYU in Oct 2024. </li>

@@ -22,16 +22,17 @@ working within the [NEMO development
 team](https://www.nemo-ocean.eu/), and funded through [Choose France
 for
 Science](https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051).
-I have used these funds to hire two postdoctoral researchers, [Oliver
+I recently hired two postdoctoral researchers, [Oliver
 Street](https://oliver-street.github.io/) and [Jamie
 Hilditch](https://orcid.org/0000-0002-7164-9953), both of whom will
-start at LOCEAN in early 2027.  I am in the process of garnering funds
-for a third postdoc to advance analysis methods (e.g., watermass
-transformation theory, coarse-graining, vorticity analysis) and
-subgrid parameterizations (e.g., interface between mesoscale and
-submesoscale parameterizations) within the NEMO community ocean model.
-This position, assuming it indeed materializes, is targeted to start
-in the middle of 2027.
+start at LOCEAN in early 2027.
+
+I am in the process of garnering funds for a third postdoc to advance
+analysis methods (e.g., watermass transformation theory,
+coarse-graining, vorticity analysis) and subgrid parameterizations
+(e.g., interface between mesoscale and submesoscale parameterizations)
+within the NEMO community ocean model.  This position, assuming it
+indeed materializes, is targeted to start in the middle of 2027.
 
 LOCEAN has a vibrant group of theoretical, numerical, and
 observational ocean and climate physicists, biogeochemists, and
@@ -51,9 +52,9 @@ intellectual and cultural opportunities.
 4. **Materials sent to  [Stephen.M.Griffies@gmail.com](mailto:Stephen.M.Griffies@gmail.com)**
 -->
 
-Below is an incomplete list of projects that are of interest to me
-over the coming years. With my postdocs, I am interested in nurturing
-a network of collaborators to help advance these projects, all while
+Below is an incomplete list of projects that are of interest to me and
+my group over the coming years. We are interested in nurturing a
+network of collaborators to help advance these projects, all while
 enjoying the process.
 
 - **Ocean waves and mean flows** using methods from quantum mechanics,

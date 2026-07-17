@@ -3,18 +3,16 @@ layout: single
 permalink: /aspirations/
 author_profile: true
 author: Stephen Griffies
-title: "Research opportunities"
+title: "Research interests and opportunities"
 toc: true
 toc_label: "On this page"
 toc_icon: "sun"
-excerpt: "Questions and interests"
+excerpt: "Theoretical ocean physics"
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/kuroshio_lavd.jpg
   caption: "Lagrangian averaged vorticity deviation in the west Pacific from CM2.6 (courtesy N. Tarshish)"
 ---
-
-# Available postdoc(s) in Paris 
 
 
 In February 2026, I started a position at the [IPSL/LOCEAN laboratory
@@ -24,43 +22,39 @@ working within the [NEMO development
 team](https://www.nemo-ocean.eu/), and funded through [Choose France
 for
 Science](https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051).
-The position provides funds for two postdoctoral
-researchers working with me.  Funding supports curiosity-driven
-research addressing questions at the heart of ocean fluid mechanics
-and thermodynamics, with an emphasis on how the ocean works within the
-Earth's warming climate system.
+I have used these funds to hire two postdoctoral researchers, [Oliver
+Street](https://oliver-street.github.io/) and [Jamie
+Hilditch](https://orcid.org/0000-0002-7164-9953), both of whom will
+start at LOCEAN in early 2027.  I am in the process of garnering funds
+for a third postdoc to advance analysis methods (e.g., watermass
+transformation theory, coarse-graining, vorticity analysis) and
+subgrid parameterizations (e.g., interface between mesoscale and
+submesoscale parameterizations) within the NEMO community ocean model.
+This position, assuming it indeed materializes, is targeted to start
+in the middle of 2027.
 
-
-The position is within a vibrant group of theoretical, numerical, and
+LOCEAN has a vibrant group of theoretical, numerical, and
 observational ocean and climate physicists, biogeochemists, and
-engineers at LOCEAN, along with a community of 40-50 graduate students
-and postdocs.  LOCEAN is within the Sorbonne Universite and is located
-in the Latin Quarter of Paris, which offers a wealth of intellectual
-and cultural opportunities and exchanges. Furthermore, the postdoc is
-part of the broader NEMO community, which offers many opportunities to
-collaborate with a wide range of theoretical and applied ocean
-scientists.
+engineers, along with a community of 40-50 graduate students and
+postdocs.  I work within the broader NEMO community, which offers many
+opportunities to collaborate with a wide range of theoretical and
+applied ocean scientists.  The lab is within the Sorbonne Universite
+and is located in the Latin Quarter of Paris, which offers a wealth of
+intellectual and cultural opportunities.
 
-Salary is commensurate with experience and comes with the standard
-benefits of a French employee (e.g., generous health care,
-unemployment insurance, and nine weeks paid vacation).  The position
-is renewable annually (based on progress) for two years.
-
-
+<!-- This is a comment and will not be displayed on the rendered webpage
 **Postdoc Application Requirements**
 
 1. **Full CV**
 2. **Research aims and career aspirations (3-4 pages)**
 3. **Names for three letter writers**
 4. **Materials sent to  [Stephen.M.Griffies@gmail.com](mailto:Stephen.M.Griffies@gmail.com)**
+-->
 
-Applications are solicited until suitable candidates are found.
-Candidates are expected to possess a PhD with strong training and
-acumen in mathematical physics and computational physics, along with a
-sincere passion for collaborative research in theoretical ocean
-physics.  Below is an incomplete list of projects that are of interest
-to me, though I am open to other proposed projects.
-
+Below is an incomplete list of projects that are of interest to me
+over the coming years. With my postdocs, I am interested in nurturing
+a network of collaborators to help advance these projects, all while
+enjoying the process.
 
 - **Ocean waves and mean flows** using methods from quantum mechanics,
   Hamilton’s principle, and ray theory, as detailed in  

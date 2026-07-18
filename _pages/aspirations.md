@@ -22,25 +22,25 @@ working within the [NEMO development
 team](https://www.nemo-ocean.eu/), and funded through [Choose France
 for
 Science](https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051).
-I will use this opportunity to pursue a suite of questions related to
-theoretical ocean physics and mathematics.  LOCEAN has a vibrant group
-of theoretical, numerical, and observational ocean and climate
-physicists, biogeochemists, and engineers, along with a community of
-40-50 graduate students and postdocs.  I work within the broader NEMO
-community, which offers many opportunities to collaborate with a wide
-range of theoretical and applied ocean scientists.  The lab is within
-the Sorbonne Universite and is located in the Latin Quarter of Paris,
-which offers a wealth of intellectual and cultural opportunities.
+I am using this time to pursue a suite of questions related to
+theoretical ocean physics and mathematics (see below).  LOCEAN has a
+vibrant group of theoretical, numerical, and observational ocean and
+climate physicists, biogeochemists, and engineers, along with a
+community of 40-50 graduate students and postdocs.  I work within the
+broader NEMO community, which offers many opportunities to collaborate
+with a wide range of theoretical and applied ocean scientists.  The
+lab is within the Sorbonne Universite and is located in the Latin
+Quarter of Paris.
 
-I recently hired two postdoctoral researchers, [Oliver
+I hired two postdoctoral researchers, [Oliver
 Street](https://oliver-street.github.io/) and [Jamie
-Hilditch](https://orcid.org/0000-0002-7164-9953), both of whom will
-start at LOCEAN in early 2027.  I am in the process of garnering funds
-for a third postdoc to advance analysis methods (e.g., watermass
-transformation theory, coarse-graining, vorticity analysis) and
-subgrid parameterizations (e.g., interface between mesoscale and
-submesoscale parameterizations) within the NEMO community ocean model.
-This position is targeted to start in the middle of 2027.
+Hilditch](https://orcid.org/0000-0002-7164-9953), who start at LOCEAN
+in early 2027.  I am in the process of garnering funds for a third
+postdoc to advance analysis methods (e.g., watermass transformation
+theory, coarse-graining, vorticity analysis) and subgrid
+parameterizations (e.g., interface between mesoscale and submesoscale
+parameterizations) within the NEMO community ocean model.  This
+position is targeted to start in the middle of 2027.
 
 <!-- This is a comment and will not be displayed on the rendered webpage
 **Postdoc Application Requirements**
@@ -51,11 +51,10 @@ This position is targeted to start in the middle of 2027.
 4. **Materials sent to  [Stephen.M.Griffies@gmail.com](mailto:Stephen.M.Griffies@gmail.com)**
 -->
 
-Below is an incomplete list of projects that are of interest to me and
-my group over the coming years. As part of advancing research on these
-projects, we hope to nurture a network of collaborators within the
-Paris and surrounding region to pursue research questions in
-theoretical ocean physics and mathematics.
+Here is an incomplete list of research topics in theoretical ocean
+physics and mathematics that are of interest to me and my group. Along
+with my postdocs, I hope to nurture a network of collaborators within
+Paris and abroad to pursue this research.
 
 - **Ocean waves and mean flows** using methods from quantum mechanics,
   Hamilton’s principle, and ray theory, as detailed in  

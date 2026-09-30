@@ -17,25 +17,25 @@ header:
 <p align="justify">
 
 My name is Stephen Griffies and this website summarizes my research,
-teaching, and mentoring activities in areas related to theoretical
-ocean physics related to ocean fluid mechanics, ocean circulation, and
-climate dynamics.  As of May 2025, I retired from the <a
+teaching, and mentoring activities in theoretical ocean physics.  As
+of May 2025, I retired from the <a
 href="https://www.gfdl.noaa.gov/">NOAA Geophysical Fluid Dynamics
 Laboratory in Princeton.</a> I remain active as part of the <a
 href="https://aos.princeton.edu/"> Atmospheric and Oceanic Sciences
-Program at Princeton University.</a> As of Feb 2026, I joined the <a
+Program at Princeton University.</a> Furthermore, as of Feb 2026, I
+joined the <a
 href="https://www.locean.ipsl.fr/services-et-methodes/modelisation/">
-LOCEAN team</a> in Paris working on topics related to theoretical
-ocean physics and ocean modeling.
+LOCEAN team</a> in Paris as a <a
+href="https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051">
+Choose France for Science Laureate.</a>
 
 <br> <br>
 
 You are invited to explore this website for an overview of my
-activities and for opportunities to work with me as a postdoc or
-collaborator.  In particular, I seek collaborators with a very strong
-training in theoretical ocean physics and mathematics who have a
-passion for studying some rich and complex questions within ocean and
-climate physics.
+activities.  I seek collaborators with a very strong training in
+theoretical ocean physics and mathematics who have a passion for
+studying the rich and complex questions within ocean and climate
+physics.
 
 </p>
 

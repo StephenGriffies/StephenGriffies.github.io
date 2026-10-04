@@ -32,7 +32,7 @@ available upon request from teachers.
 
 <li><a
 href="/assets/pdfs/GFM_lectures_vol1.pdf">
-Volume 1: Foundations in mathematical physics and classical mechanics </a>  </li>
+Volume 1: Mathematical methods and classical mechanics </a>  </li>
 
 <li><a
 href="/assets/pdfs/GFM_lectures_vol2.pdf">

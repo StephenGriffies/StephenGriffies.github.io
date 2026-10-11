@@ -25,7 +25,7 @@ href="https://aos.princeton.edu/"> Atmospheric and Oceanic Sciences
 Program at Princeton University.</a> Furthermore, as of Feb 2026, I
 joined the <a
 href="https://www.locean.ipsl.fr/services-et-methodes/modelisation/">
-LOCEAN team</a> in Paris as a <a
+LOCEAN/NEMO team</a> in Paris as a <a
 href="https://www.enseignementsup-recherche.gouv.fr/en/understanding-french-ocean-stephen-griffies-101051">
 Choose France for Science Laureate.</a>
 

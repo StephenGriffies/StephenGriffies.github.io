@@ -30,20 +30,29 @@ presentations on a variety of topics.
 <ul>
 
 <li><a
+href="https://github.com/StephenGriffies/documents/blob/master/OceanHeart/GriffiesLOCEAN_2026-10-20_reduced.pdf">
+The ocean at the heart of climate warming: </a> Seminar presented to IPSL/LOCEAN, Paris, Oct 2026 </li>
+
+<li><a
+href="https://github.com/StephenGriffies/documents/blob/master/Frontiers/Griffies_Imperial2026_lowres.pdf">
+Problems and prospects at the frontier of ocean climate model theory and practice: </a> Seminar presented to
+Imperial College, London, Sept 2026 </li>
+
+<li><a
 href="https://github.com/StephenGriffies/documents/blob/master/EddyParam/Griffies_talk_IHP_May2026.pdf">
-A primer on ocean mesoscale eddy parameterizations: </a> Seminar at
+A primer on ocean mesoscale eddy parameterizations: </a> Seminar presented to 
 the Henri Poincare Institute, Paris, May 2026 </li>
 
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/MultiScale/Multi-scales_in_the_atmosphere_and_ocean.pdf">
 Talk on multi-scale physics given Nov 2025 by Nadir Jeevanjee and
-Stephen Griffies at the Institute for Advanced Study in Princeton:
-</a> Seminar at the IAS, Nov 2025 </li>
+Stephen Griffies:
+</a>Institute for Advanced Study in Princeton, Nov 2025 </li>
 
 <li><a
 href="https://github.com/StephenGriffies/documents/blob/master/CM4X/Griffies-NYU-2024-lowres.pdf">
-Discussion of the CM4X coupled model and the mesoscale dominance
+The CM4X coupled model and the mesoscale dominance
 hypothesis: </a> Seminar given at NYU in Oct 2024. </li>
 
 <li><a

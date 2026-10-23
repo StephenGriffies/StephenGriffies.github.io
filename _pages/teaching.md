@@ -96,19 +96,28 @@ Gray. </figcaption> </figure>
 
 <br>
 
-Here is a list of past and present people I have mentored/hosted at
-GFDL and Princeton University.
+Here is a list of past and present people I have mentored/hosted over
+the years.
 
 <ul>
+
+<li><a href="https://scholar.google.com/citations?user=10crBuUAAAAJ&hl=en">
+Jamie Hilditch (LOCEAN postdoc 2027-2029) </a> </li>
+
+<li><a href="https://scholar.google.com/citations?user=kUSX6JcAAAAJ&hl=en">
+Oliver Street (LOCEAN postdoc 2027-2029) </a> </li>
+
+<li><a href="https://scholar.google.com/citations?user=t32JqEYAAAAJ&hl=en">
+Claire Yung (ANU PhD student 2024 spring) </a> </li>
 
 <li><a href="https://sites.google.com/view/janzika/">
 Jan Zika (UNSW professor 2023 autumn) </a> </li>
 
 <li><a href="https://mjclobo.github.io/">
-Matthew Lobo (PhD student 2022-present) </a> </li>
+Matthew Lobo (PhD student 2022-2027) </a> </li>
 
 <li><a href="https://orcid.org/0000-0002-8025-2819">
-Wenda Zhang (postdoc 2022-2025) </a> </li>
+Wenda Zhang (Princeton postdoc 2022-2025) </a> </li>
 
 <li><a href="https://www.linkedin.com/in/rachel-qing-pang-84b0361ab">
 Rachel Pang (Princeton undergrad 2021) </a> </li>

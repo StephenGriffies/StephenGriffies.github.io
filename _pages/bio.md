@@ -176,15 +176,14 @@ apparent contrast to much of my ongoing research in which computer
 simulations play a central role.  However, there is more to the story.
 Even though I have contributed research and development energies to
 numerical codes and global circulation models, I firmly retain the
-concepts, tools, and prejudices engendered from studies of
-theoretical/mathematical physics, each of which guide my research and
-mentoring activities.  Nearly all of the code I have written
-originated from pencil and paper equatinos, then translated to LaTeX,
-and only then did it find its way into Fortran or Python.  I consider
-computer simulations to be constrained by the quality of human brains
-used to build numerical models and to analyze their output, far more
-than computer power.  As <a
-href="https://en.wikipedia.org/wiki/Jerry_D._Mahlman"> Jerry
+concepts, tools, and prejudices engendered from studies of theoretical
+physics, each of which guide my research and mentoring activities.
+Nearly all of the code I have written originated from pencil and paper
+equations, then translated to LaTeX, and only then did it find its way
+into Fortran, Matlab, or Python.  I consider computer simulations to
+be constrained by the quality of human brains used to build numerical
+models and to analyze their output, far more than computer power.  As
+<a href="https://en.wikipedia.org/wiki/Jerry_D._Mahlman"> Jerry
 Mahlman</a> emphasized when he hired me in 1996, software and hardware
 are of little use for science unless they are strongly coupled to
 brainware.
@@ -195,8 +194,8 @@ What drew me to theoretical sciences, in particular to physics, was a
 growing interest in general concepts and ideas rather than to
 particular solutions and technology.  Being able to solve an equation
 is important, and my training in applied maths, engineering, and
-numerical methods have certainly taught me many critical tools for
-doing so.  But what attracts me the most to physics is the quest for
+numerical methods have certainly taught me many useful tools for doing
+so.  But what attracts me the most to physics is the quest for
 fundamental understanding of how Nature works, with that understanding
 generally transcending the details of a particular solution.
 
@@ -240,7 +239,7 @@ Centre for Weather Forecasting, <a
 href="https://journals.ametsoc.org/view/journals/bams/100/9/bams-d-18-0197.1.pdf">
 Yoshio Kurihara</a>, whose work led to great advances in hurricane
 predictions, <a href="https://en.wikipedia.org/wiki/Isidoro_Orlanski">
-Isidoro Orlanski</a>, , one of the world's preeminant mesoscale
+Isidoro Orlanski</a>, one of the world's preeminant mesoscale
 meteorologists, and <a
 href="https://en.wikipedia.org/wiki/Kirk_Bryan_(oceanographer)"> Kirk
 Bryan</a>, the father of numerical oceanography and my postdoc mentor
@@ -260,11 +259,11 @@ hooked!
 
 I have often pondered how inevitable it was for me to transition from
 theoretical physics to oceanography. One reason perhaps originates
-from many years living at or near the seashore or near lakes and
-rivers.  My father was in the US Air Force, so my family moved every
-three to four years while growing up: Texas, Louisiana, Hawaii,
-California, Washington State, and the Mississippi Coast.  Bodies of
-water, and in particular the ocean, became part of my DNA.  From this
+from many years living near the seashore or near lakes and rivers.  My
+father was in the US Air Force, so my family moved every three to four
+years while growing up: Texas, Louisiana, Hawaii, California,
+Washington State, and the Mississippi Gulf Coast.  Bodies of water,
+and in particular the ocean, became part of my DNA.  From this
 perspective is seems natural that my heart would lead my head to do
 research in ocean science.
 
@@ -305,9 +304,9 @@ meeting.
 
 <br>
 
-<a href="/assets/pdfs/Meditation_GFDL.pdf">Here is a
-presentation on meditation</a> I gave to the GFDL and Princeton AOS
-community on 29 July 2020, shared as a virtual event.
+<a href="/assets/pdfs/Meditation_GFDL.pdf">Here is a presentation on
+meditation</a> I gave to the GFDL and Princeton AOS community on 29
+July 2020, shared as a virtual event during the Covid-19 lockdown.
 
 <br>
 

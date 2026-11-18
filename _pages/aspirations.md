@@ -15,8 +15,8 @@ header:
 ---
 
 
-In February 2026, I started a position at the [IPSL/LOCEAN laboratory
-in
+In February 2026, I started a three-year contracted position at the
+[IPSL/LOCEAN laboratory in
 Paris](https://www.locean.ipsl.fr/services-et-methodes/modelisation/)
 working within the [NEMO development
 team](https://www.nemo-ocean.eu/), and funded through [Choose France
@@ -40,7 +40,7 @@ postdoc to advance analysis methods (e.g., watermass transformation
 theory, coarse-graining, vorticity analysis) and subgrid
 parameterizations (e.g., interface between mesoscale and submesoscale
 parameterizations) within the NEMO community ocean model.  This
-position is targeted to start in the middle of 2027.
+position is targeted to start in the third quarter of 2027.
 
 <!-- This is a comment and will not be displayed on the rendered webpage
 **Postdoc Application Requirements**
@@ -48,13 +48,12 @@ position is targeted to start in the middle of 2027.
 1. **Full CV**
 2. **Research aims and career aspirations (3-4 pages)**
 3. **Names for three letter writers**
-4. **Materials sent to  [Stephen.M.Griffies@gmail.com](mailto:Stephen.M.Griffies@gmail.com)**
+4. **Materials sent to  [Stephen.Griffies@locean.ipsl.fr](mailto:Stephen.Griffies@locean.ipsl.fr)**
 -->
 
 Here is an incomplete list of research topics in theoretical ocean
-physics and mathematics that are of interest to me and my group. Along
-with my postdocs, I hope to nurture a network of collaborators within
-Paris and abroad to pursue this research.
+physics that are of interest to me. Along with my postdocs, I hope to
+nurture a network of collaborators to pursue this research.
 
 - **Ocean waves and mean flows** using methods from quantum mechanics,
   Hamilton’s principle, and ray theory, as detailed in  
@@ -72,10 +71,12 @@ Paris and abroad to pursue this research.
   linear and nonlinear interactions between the gyrescale, mesoscale,
   and submesoscale, and their influence on emergent properties of the
   ocean general circulation? This work builds on [Storer et
-  al. (2022)](https://www.nature.com/articles/s41467-022-33031-3) and
+  al. (2022)](https://www.nature.com/articles/s41467-022-33031-3),
   [Storer et
-  al. (2023)](https://www.science.org/doi/10.1126/sciadv.adi7420).
-
+  al. (2023)](https://www.science.org/doi/10.1126/sciadv.adi7420), and
+[Aluie et
+  al. (2026)](https://www.annualreviews.org/content/journals/10.1146/annurev-fluid-112723-054411).
+  
 - **Theory of ocean mesoscale and submesoscale turbulence** that
   directly informs and constrains parameterizations for ocean
   circulation models.  Can the parameterization of ocean geostrophic
@@ -87,9 +88,9 @@ Paris and abroad to pursue this research.
   parameterizations, given the central importance of boundary
   processes to potential vorticity?
 
-- **Hamilton’s principle and differential geometry in numerical
-  modeling.** Recent advances offer new approaches to formulating
-  fluid thermo-mechanical models based on discrete differential
+- **Hamilton’s principle, differential geometry, and numerical
+  methods.** Recent advances offer new approaches to formulating fluid
+  thermo-mechanical models based on discrete differential
   geometry. Can such methods be used to formulate the ocean’s
   equations in pursuit of the next generation of ocean circulation
   models?
